@@ -1,3 +1,6 @@
 [submodule "hyde"]
 	path = hyde
 	url = https://github.com/spf13/hyde.git
+[submodule "herring-cove"]
+	path = herring-cove
+	url = https://github.com/spf13/herring-cove.git
