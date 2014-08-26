@@ -4,3 +4,6 @@
 [submodule "herring-cove"]
 	path = herring-cove
 	url = https://github.com/spf13/herring-cove.git
+[submodule "lanyon"]
+	path = lanyon
+	url = https://github.com/tummychow/lanyon-hugo.git
