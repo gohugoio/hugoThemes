@@ -22,3 +22,9 @@
 [submodule "hyde-x"]
 	path = hyde-x
 	url = https://github.com/zyro/hyde-x.git
+[submodule "purehugo"]
+	path = purehugo
+	url = https://github.com/dplesca/purehugo.git
+[submodule "tinyce"]
+	path = tinyce
+	url = https://github.com/roperzh/tinyce-hugo-theme.git
