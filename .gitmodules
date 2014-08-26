@@ -13,3 +13,6 @@
 [submodule "simple-a"]
 	path = simple-a
 	url = https://github.com/AlexFinn/simple-a.git
+[submodule "journal"]
+	path = journal
+	url = https://github.com/mpas/hugo-journal.git
