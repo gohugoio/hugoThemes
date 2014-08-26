@@ -16,3 +16,6 @@
 [submodule "journal"]
 	path = journal
 	url = https://github.com/mpas/hugo-journal.git
+[submodule "liquorice"]
+	path = liquorice
+	url = https://github.com/eliasson/liquorice.git
