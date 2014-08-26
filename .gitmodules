@@ -31,3 +31,6 @@
 [submodule "html5"]
 	path = html5
 	url = https://github.com/simonmika/hugo-theme-html5.git
+[submodule "persona"]
+	path = persona
+	url = https://github.com/aries1980/hugo-theme-persona.git
