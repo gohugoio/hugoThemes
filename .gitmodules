@@ -34,3 +34,6 @@
 [submodule "persona"]
 	path = persona
 	url = https://github.com/aries1980/hugo-theme-persona.git
+[submodule "redlounge"]
+	path = redlounge
+	url = https://github.com/tmaiaroto/hugo-redlounge.git
