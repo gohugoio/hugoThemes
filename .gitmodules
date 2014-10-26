@@ -46,3 +46,6 @@
 [submodule "stou-dk-theme"]
 	path = stou-dk-theme
 	url = https://github.com/stou/stou-dk-theme.git
+[submodule "landing-page-hugo"]
+	path = landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
