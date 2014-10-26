@@ -40,3 +40,6 @@
 [submodule "landing-page-hugo"]
 	path = landing-page-hugo
 	url = https://github.com/crakjie/landing-page-hugo.git
+[submodule "hugo-base-theme"]
+	path = hugo-base-theme
+	url = https://github.com/crakjie/hugo-base-theme.git
