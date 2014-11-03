@@ -37,3 +37,6 @@
 [submodule "redlounge"]
 	path = redlounge
 	url = https://github.com/tmaiaroto/hugo-redlounge.git
+[submodule "hugo-uno"]
+	path = hugo-uno
+	url = https://github.com/SenjinDarashiva/hugo-uno.git
