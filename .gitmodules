@@ -40,3 +40,6 @@
 [submodule "hugo-uno"]
 	path = hugo-uno
 	url = https://github.com/SenjinDarashiva/hugo-uno.git
+[submodule "hugoscroll"]
+	path = hugoscroll
+	url = https://github.com/SenjinDarashiva/hugoscroll.git
