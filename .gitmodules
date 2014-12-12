@@ -43,3 +43,6 @@
 [submodule "hugoscroll"]
 	path = hugoscroll
 	url = https://github.com/SenjinDarashiva/hugoscroll.git
+[submodule "stou-dk-theme"]
+	path = stou-dk-theme
+	url = https://github.com/stou/stou-dk-theme.git
