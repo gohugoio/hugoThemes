@@ -55,3 +55,6 @@
 [submodule "poopshow"]
 	path = poopshow
 	url = https://github.com/esell/poopshow.git
+[submodule "aglaus"]
+	path = aglaus
+	url = https://github.com/dim0627/hugo_theme_aglaus
