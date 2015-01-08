@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+	<h2>{{ .Title }}:</h2>
+	<div class="twelve columns">
+		{{ range .Data.Pages }}
+        	{{ .Date.Format "Jan 02, 2006" }} - <a href="{{ .Permalink }}" class="cat-list-link">{{ .Title }}</a>
+			<br>
+    	{{ end }}
+	</div>
+</div>
+
+    <div class="row">
+        <div class="twelve columns">
+            &nbsp;
+        </div>
+    </div>
+
+{{ partial "footer.html" . }}
