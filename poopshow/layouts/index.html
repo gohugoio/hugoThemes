@@ -1,0 +1,42 @@
+{{ partial "header.html" . }}
+	<div class="row">
+		<div class="twelve columns">
+		<!-- Posts -->
+    	{{ range first 10 .Data.Pages }}
+			{{ if eq .Type "post"}}
+			<div class="row">
+				<div class="eight columns">
+					<a class="post-title-link" href="{{ .Permalink }}">{{ .Title }}</a>
+				</div>
+				{{ if isset .Params "categories" }}
+					<div class="four columns" style="border-left: 3px solid #eee; background-color:white; color: black; padding-left: 8px; margin-top: 4px;">
+						<span style="font-size:small;">
+						categories:<br>
+						{{ range .Params.categories }}
+							<a style="font-size:small; text-decoration: none;" href="/categories/{{ . | urlize }}">{{ . }}</a>
+						{{ end }}
+						</span>
+					</div>
+				{{ end }}
+			</div>
+
+			<div class="row">
+				<div class="twelve columns">
+					<p style="padding-left:2px; margin-left:2px; padding-bottom:0px; margin-bottom:0px;">
+					{{ .Summary }}
+					</p>
+				</div>
+			</div>
+				<span class="post-postedby">posted by {{ .Params.author }} on {{ .Date.Format "Jan 02, 2006" }}</span>
+	    	{{ end }}
+		{{ end }}
+		</div>
+	</div>
+
+    <div class="row">
+        <div class="twelve columns">
+            &nbsp;
+        </div>
+    </div>
+
+{{ partial "footer.html" . }}
