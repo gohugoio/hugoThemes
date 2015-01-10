@@ -70,3 +70,6 @@
 [submodule "vienna"]
 	path = vienna
 	url = https://github.com/keichi/vienna.git
+[submodule "beg"]
+	path = beg
+	url = https://github.com/dim0627/hugo_theme_beg.git
