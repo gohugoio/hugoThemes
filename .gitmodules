@@ -55,3 +55,6 @@
 [submodule "aglaus"]
 	path = aglaus
 	url = https://github.com/dim0627/hugo_theme_aglaus
+[submodule "beg"]
+	path = beg
+	url = https://github.com/dim0627/hugo_theme_beg.git
