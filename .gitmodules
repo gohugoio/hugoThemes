@@ -64,3 +64,6 @@
 [submodule "twentyfourteen"]
 	path = twentyfourteen
 	url = https://github.com/jaden/twentyfourteen
+[submodule "tachyons"]
+	path = tachyons
+	url = https://github.com/marloncabrera/tachyons.git	
