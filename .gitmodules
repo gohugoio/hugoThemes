@@ -52,3 +52,6 @@
 [submodule "hugo-base-theme"]
 	path = hugo-base-theme
 	url = https://github.com/crakjie/hugo-base-theme.git
+[submodule "vienna"]
+	path = vienna
+	url = https://github.com/keichi/vienna.git
