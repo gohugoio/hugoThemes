@@ -73,3 +73,6 @@
 [submodule "beg"]
 	path = beg
 	url = https://github.com/dim0627/hugo_theme_beg.git
+[submodule "casper"]
+	path = casper
+	url = https://github.com/vjeantet/hugo-theme-casper.git
