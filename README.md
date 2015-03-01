@@ -50,6 +50,7 @@ The following fields are required
     homepage = "http://siteforthistheme.com"
     tags = ["blog", "company"]
     features = ["blog", ]
+    min_version= 0.12
     
     [author]
         name = "spf13"
