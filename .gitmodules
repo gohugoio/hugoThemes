@@ -78,4 +78,4 @@
 	url = https://github.com/vjeantet/hugo-theme-casper.git
 [submodule "hugo-bootswatch"]
 	path = hugo-bootswatch
-	url = git@github.com:nilproductions/hugo-bootswatch.git
+	url = https://github.com/nilproductions/hugo-bootswatch.git
