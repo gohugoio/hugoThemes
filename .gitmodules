@@ -79,3 +79,6 @@
 [submodule "hugo-bootswatch"]
 	path = hugo-bootswatch
 	url = https://github.com/nilproductions/hugo-bootswatch.git
+[submodule "pixyll"]
+	path = pixyll
+	url = https://github.com/azmelanar/hugo-theme-pixyll.git
