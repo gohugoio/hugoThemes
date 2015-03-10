@@ -46,7 +46,7 @@ The following fields are required:
 ```toml
 name = "Hyde"
 license = "MIT"
-licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE"
+licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
 description = "An elegant open source and mobile first theme"
 homepage = "http://siteforthistheme.com/"
 tags = ["blog", "company"]
@@ -64,11 +64,13 @@ min_version = 0.13
     repo = "https://www.github.com/mdo/hyde"
 ```
 
-*Note 1: This is different from the file created by `hugo new theme` in the old v0.12.
-The current Hugo v0.13 does create the same template with the new fields
-except `min_version` that was created in 0.14-DEV.*
-
-*Note 2: Only `theme.toml` is accepted, not `theme.yaml`, not `theme.json`.*
+> **Notes:**
+>
+> 1. This is different from the file created by `hugo new theme` in the old v0.12.
+>    The current Hugo v0.13 does create the same template with the new fields
+>    except `min_version` that was created in 0.14-DEV.
+>
+> 2. Only `theme.toml` is accepted, not `theme.yaml`, not `theme.json`.
 
 
 ## Media
