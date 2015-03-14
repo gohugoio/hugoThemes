@@ -85,3 +85,6 @@
 [submodule "hugo-theme-shiori"]
 	path = hugo-theme-shiori
 	url = https://github.com/chibicode/hugo-theme-shiori.git
+[submodule "hurock"]
+	path = hurock
+	url = https://github.com/TiTi/hurock
