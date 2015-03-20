@@ -52,9 +52,6 @@
 [submodule "hugo-base-theme"]
 	path = hugo-base-theme
 	url = https://github.com/crakjie/hugo-base-theme.git
-[submodule "poopshow"]
-	path = poopshow
-	url = https://github.com/esell/poopshow.git
 [submodule "aglaus"]
 	path = aglaus
 	url = https://github.com/dim0627/hugo_theme_aglaus
@@ -88,3 +85,6 @@
 [submodule "hurock"]
 	path = hurock
 	url = https://github.com/TiTi/hurock
+[submodule "poopshow"]
+	path = poopshow
+	url = https://github.com/esell/poopshow.git
