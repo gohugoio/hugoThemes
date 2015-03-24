@@ -79,8 +79,8 @@
 [submodule "pixyll"]
 	path = pixyll
 	url = https://github.com/azmelanar/hugo-theme-pixyll.git
-[submodule "hugo-theme-shiori"]
-	path = hugo-theme-shiori
+[submodule "shiori"]
+	path = shiori
 	url = https://github.com/chibicode/hugo-theme-shiori.git
 [submodule "hurock"]
 	path = hurock
