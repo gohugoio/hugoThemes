@@ -88,3 +88,6 @@
 [submodule "heather-hugo"]
 	path = heather-hugo
 	url = https://github.com/hbpasti/heather-hugo.git
+[submodule "bootie-docs"]
+	path = bootie-docs
+	url = https://github.com/key-amb/hugo-theme-bootie-docs
