@@ -91,3 +91,6 @@
 [submodule "bootie-docs"]
 	path = bootie-docs
 	url = https://github.com/key-amb/hugo-theme-bootie-docs
+[submodule "slim"]
+	path = slim
+	url = https://github.com/zhe/hugo-theme-slim.git
