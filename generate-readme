@@ -1,0 +1,114 @@
+#!/usr/bin/env bash
+# Author: @hut8 <github.com/hut8>
+set -u # fail on referencing unset variables
+
+template_file='README.tmpl.md'
+destination_file='README.md'
+autogen_warning='
+[WARNING]: # (                   AUTO-GENERATED CODE                    )
+[WARNING]: # ( CHANGES MADE HERE WILL BE OVERWRITTEN BY generate-readme )
+[WARNING]: # (                EDIT README.tmpl.md INSTEAD               )
+'
+tmpfile=""
+
+
+shopt -u dotglob
+
+#####################
+# Utility functions #
+#####################
+err() {
+  echo "[$(date +'%Y-%m-%dT%H:%M:%S%z')]: $@" >&2
+}
+
+pushd () {
+    command pushd "$@" > /dev/null
+}
+
+popd () {
+    command popd "$@" > /dev/null
+}
+
+# owner, repo_name, theme_head, image_type
+make_image_url() {
+    echo "https://raw.githubusercontent.com/${1}/${2}/${3}/images/${4}.png"
+}
+
+make_gohugo_io_url() {
+    echo "http://themes.gohugo.io/${1}"
+}
+
+cleanup() {
+    [[ -e $tmpfile ]] && rm $tmpfile
+}
+
+#####################
+# Dependency checks #
+#####################
+command -v curl >/dev/null 2>&1 || {
+    err 'Please install curl so I can check if the thumbnails are where they should be.'
+    exit 1
+}
+[[ -e $template_file ]] || {
+    err "Expected to find the README markdown template in ${template_file}."
+    exit 1
+}
+
+tmpfile="$(mktemp -t)"
+trap cleanup EXIT
+echo "Writing to ${tmpfile}"
+echo "${autogen_warning}" >> $tmpfile
+cat "${template_file}" >> $tmpfile
+
+
+base_dir=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+pushd $base_dir
+
+echo "# Theme List" >> $tmpfile
+
+echo "Generating Markdown links for themes in ${base_dir}"
+for theme_dir in $base_dir/*/; do
+    echo -n "Processing $( basename ${theme_dir} )"
+    pushd $theme_dir
+
+    origin_url="$(git config --get remote.origin.url)"
+
+    # TODO(hut8): Will this work with Bitbucket? Does anyone care?
+    repo_name="$(basename ${origin_url})"
+    repo_name="${repo_name%.git}"
+    owner="$(dirname ${origin_url})"
+    owner="$(basename ${owner})"
+    # TODO(hut8): This breaks with SSH URLs.
+    repo_path="${owner}/${repo_name}"
+    echo "  ${repo_path}"
+    theme_head="$(git rev-parse HEAD)"
+    echo "  head : ${theme_head}"
+
+    image_url="$(make_image_url $owner $repo_name $theme_head 'tn')"
+    echo -n " image : ${image_url}"
+    if curl --output /dev/null --silent --head --fail "${image_url}" ; then
+        echo " [exists]"
+    else
+        echo " NOT FOUND! "
+        image_url=""
+    fi
+
+    # Write to the temporary markdown file
+    echo "## [${repo_name}](https://github.com/${repo_path})" >> $tmpfile
+    if [[ -n "${image_url}" ]]; then
+        echo "![${repo_path}](${image_url})" >> $tmpfile
+    else
+        echo "*image not available* :hankey:" >> $tmpfile
+    fi
+    gohugo_io_url="$(make_gohugo_io_url $repo_name)"
+    # TODO(hut8) Write gohugo_io_url to Markdown once themes.gohugo.io is up.
+    echo -e "\n---\n" >> $tmpfile
+
+    popd
+done
+
+echo "Writing ${destination_file}"
+\mv -f $tmpfile $destination_file
+echo "Success!"
+
+popd
