@@ -178,7 +178,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [landing-page-hugo](https://github.com/crakjie/landing-page-hugo)
-*image not available* :hankey:
+![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/62053b71b01272a78c1671e58c40caeffd8b4a66/images/tn.png)
 
 ---
 
