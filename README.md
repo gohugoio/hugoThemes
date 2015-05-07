@@ -1,7 +1,7 @@
 
-[WARNING]: # (                    AUTO-GENERATED CODE                     )
-[WARNING]: # ( CHANGES MADE HERE WILL BE OVERWRITTEN BY generate-links.sh )
-[WARNING]: # (               EDIT README.tmpl.md INSTEAD                  )
+[WARNING]: # (                   AUTO-GENERATED CODE                    )
+[WARNING]: # ( CHANGES MADE HERE WILL BE OVERWRITTEN BY generate-readme )
+[WARNING]: # (                EDIT README.tmpl.md INSTEAD               )
 
 hugoThemes
 ==========
@@ -103,7 +103,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-bootie-docs](https://github.com/key-amb/hugo-theme-bootie-docs)
-*image not available* :hankey:
+![key-amb/hugo-theme-bootie-docs](https://raw.githubusercontent.com/key-amb/hugo-theme-bootie-docs/c2838f154fccd6f01ee7a5013f47d25b901474a8/images/tn.png)
 
 ---
 
@@ -113,12 +113,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [greyshade](https://github.com/cxfksword/greyshade)
-![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/f4d88096f3fd503cbb7b63e8b4ba2bbae45fbad9/images/tn.png)
+![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/2341a288c2301d6993432b4545e78a8407e91a58/images/tn.png)
 
 ---
 
 ## [heather-hugo](https://github.com/hbpasti/heather-hugo)
-![hbpasti/heather-hugo](https://raw.githubusercontent.com/hbpasti/heather-hugo/4cd34def28e606b273f3f72e6dd90f7fa992bacc/images/tn.png)
+![hbpasti/heather-hugo](https://raw.githubusercontent.com/hbpasti/heather-hugo/3df3bfe5711c373995413900be78ed0ae0f5119e/images/tn.png)
 
 ---
 
@@ -158,7 +158,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hurock](https://github.com/TiTi/hurock)
-![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/746eede2eafcefff85b52f8590cb2059f1a07fbf/images/tn.png)
+![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/7fd68cb4e15c2cdeae4e02543eeda70ffbda402a/images/tn.png)
 
 ---
 
@@ -218,7 +218,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-shiori](https://github.com/chibicode/hugo-theme-shiori)
-![chibicode/hugo-theme-shiori](https://raw.githubusercontent.com/chibicode/hugo-theme-shiori/b53fbd14a896088a016e3b37f0456d3f867651cc/images/tn.png)
+![chibicode/hugo-theme-shiori](https://raw.githubusercontent.com/chibicode/hugo-theme-shiori/fc21db77938e91f8c7b9451f0ca34ab8f5ff772b/images/tn.png)
 
 ---
 
@@ -228,7 +228,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-slim](https://github.com/zhe/hugo-theme-slim)
-![zhe/hugo-theme-slim](https://raw.githubusercontent.com/zhe/hugo-theme-slim/3c8905099c61de71a12dd3c599bb70ff6c26fd63/images/tn.png)
+![zhe/hugo-theme-slim](https://raw.githubusercontent.com/zhe/hugo-theme-slim/ccdd0de582c4f36a51a05e2cb11c0a5f190cbe49/images/tn.png)
 
 ---
 
@@ -248,7 +248,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [vienna](https://github.com/keichi/vienna)
-![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/5988db197a24060658f5b632bb937c9ff4f5e489/images/tn.png)
+![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/883da9dc3adce02bebf82157737845f59c98a1d6/images/tn.png)
 
 ---
 
