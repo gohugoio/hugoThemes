@@ -208,7 +208,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/e22766f41e1acfea948060b5a812fec1f5573f72/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/5187c32b799031030b1385982800e79c92b944f8/images/tn.png)
 
 ---
 
