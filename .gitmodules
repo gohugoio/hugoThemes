@@ -94,3 +94,6 @@
 [submodule "slim"]
 	path = slim
 	url = https://github.com/zhe/hugo-theme-slim.git
+[submodule "angels-ladder"]
+	path = angels-ladder
+	url = https://github.com/tanksuzuki/angels-ladder.git
