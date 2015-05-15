@@ -97,6 +97,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [angels-ladder](https://github.com/tanksuzuki/angels-ladder)
+![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/7692100aa3e24e9b41555b0d2fa7c8a0d81f040d/images/tn.png)
+
+---
+
 ## [hugo_theme_beg](https://github.com/dim0627/hugo_theme_beg)
 ![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/1ea4bec734d361d402768151b21f1cedff8062e7/images/tn.png)
 
@@ -248,7 +253,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [vienna](https://github.com/keichi/vienna)
-![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/883da9dc3adce02bebf82157737845f59c98a1d6/images/tn.png)
+![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/4d7a1fb6212b3267f8ea614d479152dbacbddbe0/images/tn.png)
 
 ---
 
