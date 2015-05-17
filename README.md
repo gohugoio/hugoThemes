@@ -197,6 +197,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [material-design](https://github.com/pdevty/material-design)
+![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/37f075e929f10b944962c12bf4e21d3b39b5db45/images/tn.png)
+
+---
+
 ## [nofancy](https://github.com/gizak/nofancy)
 ![gizak/nofancy](https://raw.githubusercontent.com/gizak/nofancy/323870fa36604dea99124ee29077ea611a520286/images/tn.png)
 
