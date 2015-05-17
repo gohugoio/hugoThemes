@@ -97,3 +97,6 @@
 [submodule "angels-ladder"]
 	path = angels-ladder
 	url = https://github.com/tanksuzuki/angels-ladder.git
+[submodule "material-design"]
+	path = material-design
+	url = https://github.com/pdevty/material-design.git
