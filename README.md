@@ -98,7 +98,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [angels-ladder](https://github.com/tanksuzuki/angels-ladder)
-![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/7692100aa3e24e9b41555b0d2fa7c8a0d81f040d/images/tn.png)
+![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/912c9572568529bb5e57489c6397efe2b08cef0d/images/tn.png)
 
 ---
 
@@ -113,7 +113,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/eb68e25ac77909feba580991fe65880bec48012a/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/9661663ff115fe762711e84a8d928af11c65e4f9/images/tn.png)
 
 ---
 
@@ -163,7 +163,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hurock](https://github.com/TiTi/hurock)
-![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/7fd68cb4e15c2cdeae4e02543eeda70ffbda402a/images/tn.png)
+![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/1e5d2446f9696a10030b236930f5169d6a28713c/images/tn.png)
 
 ---
 
@@ -178,7 +178,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-journal](https://github.com/mpas/hugo-journal)
-*image not available* :hankey:
+![mpas/hugo-journal](https://raw.githubusercontent.com/mpas/hugo-journal/ecf49cbb14a4fa746ed86fa5f1e7959076aca5b1/images/tn.png)
 
 ---
 
@@ -218,7 +218,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/5187c32b799031030b1385982800e79c92b944f8/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/53e5123ca0946eff20209cb69296187c3192de1e/images/tn.png)
 
 ---
 
