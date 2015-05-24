@@ -100,3 +100,6 @@
 [submodule "material-design"]
 	path = material-design
 	url = https://github.com/pdevty/material-design.git
+[submodule "startbootstrap-clean-blog"]
+	path = startbootstrap-clean-blog
+	url = https://github.com/humboldtux/startbootstrap-clean-blog
