@@ -198,7 +198,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [material-design](https://github.com/pdevty/material-design)
-![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/37f075e929f10b944962c12bf4e21d3b39b5db45/images/tn.png)
+![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/bc67b9210e9cd6ff68b7e80fdb0ee4f6e51cd1c8/images/tn.png)
 
 ---
 
@@ -218,7 +218,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/53e5123ca0946eff20209cb69296187c3192de1e/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/37723221674859db9e9cfa5a2e9d5082f5921127/images/tn.png)
 
 ---
 
