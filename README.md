@@ -242,6 +242,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [startbootstrap-clean-blog](https://github.com/humboldtux/startbootstrap-clean-blog)
+![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/ecf8b59da478c1d6c3ae1b1d7eea43f09ef1e907/images/tn.png)
+
+---
+
 ## [tachyons](https://github.com/marloncabrera/tachyons)
 ![marloncabrera/tachyons](https://raw.githubusercontent.com/marloncabrera/tachyons/bd29edd0c05763b87336cf312cb657303aaa6d4d/images/tn.png)
 
