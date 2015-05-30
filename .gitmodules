@@ -103,3 +103,6 @@
 [submodule "startbootstrap-clean-blog"]
 	path = startbootstrap-clean-blog
 	url = https://github.com/humboldtux/startbootstrap-clean-blog
+[submodule "simple-hugo"]
+	path = simple-hugo
+	url = https://github.com/druzza/simple-hugo
