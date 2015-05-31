@@ -98,7 +98,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [angels-ladder](https://github.com/tanksuzuki/angels-ladder)
-![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/912c9572568529bb5e57489c6397efe2b08cef0d/images/tn.png)
+![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/fe086ecf531fbc67306f57127cc44e7ad423d1a5/images/tn.png)
 
 ---
 
@@ -113,7 +113,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/9661663ff115fe762711e84a8d928af11c65e4f9/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/bed84a4422352fde40ef0a91c1ffffb985152aaa/images/tn.png)
 
 ---
 
@@ -163,7 +163,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hurock](https://github.com/TiTi/hurock)
-![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/1e5d2446f9696a10030b236930f5169d6a28713c/images/tn.png)
+![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/9eff348d1957ea3ff89cdf2529082fd0891937b1/images/tn.png)
 
 ---
 
@@ -183,7 +183,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [landing-page-hugo](https://github.com/crakjie/landing-page-hugo)
-![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/62053b71b01272a78c1671e58c40caeffd8b4a66/images/tn.png)
+![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/a2773e67fbfd43d2feb99278126bce6cb90c2b67/images/tn.png)
 
 ---
 
@@ -203,7 +203,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [nofancy](https://github.com/gizak/nofancy)
-![gizak/nofancy](https://raw.githubusercontent.com/gizak/nofancy/323870fa36604dea99124ee29077ea611a520286/images/tn.png)
+![gizak/nofancy](https://raw.githubusercontent.com/gizak/nofancy/9cd8c1f29be39baaf1e8e2f6468f656641174f70/images/tn.png)
 
 ---
 
@@ -218,7 +218,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/37723221674859db9e9cfa5a2e9d5082f5921127/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/5e059b4130c5ade86f3ebcfa32487bc7df07d28f/images/tn.png)
 
 ---
 
@@ -248,7 +248,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [startbootstrap-clean-blog](https://github.com/humboldtux/startbootstrap-clean-blog)
-![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/ecf8b59da478c1d6c3ae1b1d7eea43f09ef1e907/images/tn.png)
+![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/cbff51828bb5d4485d1b97c470a3b4f0c5a0e5c2/images/tn.png)
 
 ---
 
