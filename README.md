@@ -237,6 +237,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [simple-hugo](https://github.com/druzza/simple-hugo)
+![druzza/simple-hugo](https://raw.githubusercontent.com/druzza/simple-hugo/e96612d0fbd01f616094006a0983f260179b0311/images/tn.png)
+
+---
+
 ## [hugo-theme-slim](https://github.com/zhe/hugo-theme-slim)
 ![zhe/hugo-theme-slim](https://raw.githubusercontent.com/zhe/hugo-theme-slim/ccdd0de582c4f36a51a05e2cb11c0a5f190cbe49/images/tn.png)
 
