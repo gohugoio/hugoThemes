@@ -188,7 +188,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [landing-page-hugo](https://github.com/crakjie/landing-page-hugo)
-![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/a2773e67fbfd43d2feb99278126bce6cb90c2b67/images/tn.png)
+![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/dc03a9d70eaec5704649987e5ff3b73c41dd6754/images/tn.png)
 
 ---
 
@@ -218,7 +218,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [poopshow](https://github.com/esell/poopshow)
-![esell/poopshow](https://raw.githubusercontent.com/esell/poopshow/df4ca78d21d76d5f3b7f82f018cba8134f2f59aa/images/tn.png)
+![esell/poopshow](https://raw.githubusercontent.com/esell/poopshow/459da0109a6a22d77b3275c6c92d9d390ddc09c3/images/tn.png)
 
 ---
 
@@ -228,7 +228,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-redlounge](https://github.com/tmaiaroto/hugo-redlounge)
-![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/ae4adc13f0c0181b1a834d2a12eacae90cec0e2d/images/tn.png)
+![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/09da944085cd0aa32b7b46555fd4bde99bb07301/images/tn.png)
 
 ---
 
@@ -243,7 +243,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [simple-hugo](https://github.com/druzza/simple-hugo)
-![druzza/simple-hugo](https://raw.githubusercontent.com/druzza/simple-hugo/e96612d0fbd01f616094006a0983f260179b0311/images/tn.png)
+![druzza/simple-hugo](https://raw.githubusercontent.com/druzza/simple-hugo/7246d24953f244871140a932e5d88ac725e029bd/images/tn.png)
 
 ---
 
