@@ -117,6 +117,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-theme-crisp](https://github.com/Zenithar/hugo-theme-crisp)
+*image not available* :hankey:
+
+---
+
 ## [greyshade](https://github.com/cxfksword/greyshade)
 ![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/2341a288c2301d6993432b4545e78a8407e91a58/images/tn.png)
 
