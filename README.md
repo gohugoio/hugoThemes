@@ -118,7 +118,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-crisp](https://github.com/Zenithar/hugo-theme-crisp)
-*image not available* :hankey:
+![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/f178ba762cc3b1fd7324fbfbb80a0ccbc95da55f/images/tn.png)
 
 ---
 
