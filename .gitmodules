@@ -109,3 +109,6 @@
 [submodule "crisp"]
 	path = crisp
 	url = https://github.com/Zenithar/hugo-theme-crisp
+[submodule "freelancer"]
+	path = freelancer
+	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git

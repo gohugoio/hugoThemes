@@ -122,6 +122,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/f86e46c7d8f1506e547cb8ee99c3515b90fbbf95/images/tn.png)
+
+---
+
 ## [greyshade](https://github.com/cxfksword/greyshade)
 ![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/2341a288c2301d6993432b4545e78a8407e91a58/images/tn.png)
 
