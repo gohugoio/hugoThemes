@@ -113,7 +113,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/bed84a4422352fde40ef0a91c1ffffb985152aaa/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/0e2a2a3fc1efee2c95286cb04d5e60d29683e330/images/tn.png)
 
 ---
 
@@ -173,7 +173,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hurock](https://github.com/TiTi/hurock)
-![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/9eff348d1957ea3ff89cdf2529082fd0891937b1/images/tn.png)
+![TiTi/hurock](https://raw.githubusercontent.com/TiTi/hurock/6fdbbaae038ac4568c78e4704d0819f73ec3616b/images/tn.png)
 
 ---
 
@@ -183,7 +183,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/e217f92f97b85809caa6cdd4e9f6762aab9049e8/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/29f88edc454b8744e85cbe1549eb5b7a7c9d1bc4/images/tn.png)
 
 ---
 
@@ -208,7 +208,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [material-design](https://github.com/pdevty/material-design)
-![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/bc67b9210e9cd6ff68b7e80fdb0ee4f6e51cd1c8/images/tn.png)
+![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/3a9d77ad467295f55caa67281be92d2369ae5df7/images/tn.png)
 
 ---
 
@@ -233,7 +233,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-redlounge](https://github.com/tmaiaroto/hugo-redlounge)
-![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/09da944085cd0aa32b7b46555fd4bde99bb07301/images/tn.png)
+![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/f6f223881d945c1bcb31d3630ebb8b76a977531c/images/tn.png)
 
 ---
 
