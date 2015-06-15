@@ -128,7 +128,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/f86e46c7d8f1506e547cb8ee99c3515b90fbbf95/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/5e7f69f068f6bb8ec85ff6afdb5be80fa07577e2/images/tn.png)
 
 ---
 
@@ -168,7 +168,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
-![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/a644ec06918a2956105dc41923438993004463c1/images/tn.png)
+![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/b11d353b04930674153180038629e0d43f41aa25/images/tn.png)
 
 ---
 
@@ -183,7 +183,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/29f88edc454b8744e85cbe1549eb5b7a7c9d1bc4/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/8d56a8d85e99f3aba18a9daff73f0634c8f8aae3/images/tn.png)
 
 ---
 
@@ -233,7 +233,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/5e059b4130c5ade86f3ebcfa32487bc7df07d28f/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/b995baa371e5289bc1ad756a3756fa415fae85bf/images/tn.png)
 
 ---
 
