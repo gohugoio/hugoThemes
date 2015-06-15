@@ -117,6 +117,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-creative-theme](https://github.com/git@github.com:digitalcraftsman/hugo-creative-theme)
+*image not available* :hankey:
+
+---
+
 ## [hugo-theme-crisp](https://github.com/Zenithar/hugo-theme-crisp)
 ![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/f178ba762cc3b1fd7324fbfbb80a0ccbc95da55f/images/tn.png)
 
@@ -162,13 +167,13 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
-## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
-![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/a7be047d31f54a0a5378e0fd22d5b4ab2be8e860/images/tn.png)
+## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
+![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/a644ec06918a2956105dc41923438993004463c1/images/tn.png)
 
 ---
 
-## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
-![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/a644ec06918a2956105dc41923438993004463c1/images/tn.png)
+## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
+![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/a7be047d31f54a0a5378e0fd22d5b4ab2be8e860/images/tn.png)
 
 ---
 
@@ -177,13 +182,13 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
-## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1a7140a4d7fd4b5834178c721fdb636e96db2dd6/images/tn.png)
+## [hyde-x](https://github.com/zyro/hyde-x)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/29f88edc454b8744e85cbe1549eb5b7a7c9d1bc4/images/tn.png)
 
 ---
 
-## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/29f88edc454b8744e85cbe1549eb5b7a7c9d1bc4/images/tn.png)
+## [hyde](https://github.com/spf13/hyde)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1a7140a4d7fd4b5834178c721fdb636e96db2dd6/images/tn.png)
 
 ---
 

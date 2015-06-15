@@ -54,7 +54,7 @@ command -v curl >/dev/null 2>&1 || {
     exit 1
 }
 
-tmpfile="$(mktemp -t)"
+tmpfile=$(mktemp /tmp/hugotheme.XXXX) || { echo "Failed to create temp file"; exit 1; }
 trap cleanup EXIT
 echo "Writing to ${tmpfile}"
 echo "${autogen_warning}" >> $tmpfile

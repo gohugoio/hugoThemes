@@ -112,3 +112,6 @@
 [submodule "freelancer"]
 	path = freelancer
 	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git
+[submodule "creative"]
+	path = creative
+	url = git@github.com:digitalcraftsman/hugo-creative-theme.git
