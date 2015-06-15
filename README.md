@@ -222,6 +222,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-theme-persona](https://github.com/pcdummy/hugo-theme-persona)
+![pcdummy/hugo-theme-persona](https://raw.githubusercontent.com/pcdummy/hugo-theme-persona/afb2d458f97b6fe1c295afbcd336b3c6e71028d0/images/tn.png)
+
+---
+
 ## [hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll)
 *image not available* :hankey:
 

@@ -115,3 +115,6 @@
 [submodule "creative"]
 	path = creative
 	url = git@github.com:digitalcraftsman/hugo-creative-theme.git
+[submodule "persona"]
+	path = persona
+	url = https://github.com/pcdummy/hugo-theme-persona.git
