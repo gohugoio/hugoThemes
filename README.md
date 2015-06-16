@@ -92,6 +92,11 @@ Additional media may be provided in that same directory.
 
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
+## [hugo-agency-theme](https://github.com/git@github.com:digitalcraftsman/hugo-agency-theme)
+*image not available* :hankey:
+
+---
+
 ## [hugo_theme_aglaus](https://github.com/dim0627/hugo_theme_aglaus)
 ![dim0627/hugo_theme_aglaus](https://raw.githubusercontent.com/dim0627/hugo_theme_aglaus/13d97e05e189b43bce43861f6f6cf220e5e6ef2c/images/tn.png)
 

@@ -118,3 +118,6 @@
 [submodule "persona"]
 	path = persona
 	url = https://github.com/pcdummy/hugo-theme-persona.git
+[submodule "agency"]
+	path = agency
+	url = git@github.com:digitalcraftsman/hugo-agency-theme.git
