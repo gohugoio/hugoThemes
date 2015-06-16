@@ -114,10 +114,10 @@
 	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git
 [submodule "creative"]
 	path = creative
-	url = git@github.com:digitalcraftsman/hugo-creative-theme.git
+	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
 [submodule "persona"]
 	path = persona
 	url = https://github.com/pcdummy/hugo-theme-persona.git
 [submodule "agency"]
 	path = agency
-	url = git@github.com:digitalcraftsman/hugo-agency-theme.git
+	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
