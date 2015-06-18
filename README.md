@@ -34,7 +34,7 @@ git clone <em>URL_TO_THEME</em>
 * Add a `theme.toml` file to the root of the theme;
 * Add a `README.md` to the root of the theme;
 * Add `/images/snapshot.png` and `/images/tn.png`;
-* Send a Pull Request with the `git submodule` addition.
+* Open up a new Issue with a link to the theme's repository on GitHub.
 
 
 Each theme needs:
