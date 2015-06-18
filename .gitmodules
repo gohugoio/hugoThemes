@@ -121,3 +121,6 @@
 [submodule "agency"]
 	path = agency
 	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
+[submodule "artists"]
+	path = artists
+	url = https://github.com/digitalcraftsman/hugo-artists-theme.git
