@@ -28,7 +28,7 @@ git clone <em>URL_TO_THEME</em>
 * Test your theme against https://github.com/spf13/HugoBasicExample;
 * Add a `theme.toml` file to the root of the theme;
 * Add a `README.md` to the root of the theme;
-* Add `/images/snapshot.png` and `/images/tn.png`;
+* Add `/images/screenshot.png` and `/images/tn.png`;
 * Open up a new Issue with a link to the theme's repository on GitHub.
 
 
