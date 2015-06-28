@@ -93,7 +93,7 @@ Additional media may be provided in that same directory.
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
 ## [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme)
-![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/8f59eb0bcabc463534a1e722fd99951e280d5afa/images/tn.png)
+![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/fa0176229a5b81a93e59675165fb40b97bf6a4d4/images/tn.png)
 
 ---
 
@@ -108,7 +108,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-artists-theme](https://github.com/digitalcraftsman/hugo-artists-theme)
-![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/9e17f31bccdc86584fc0a0aa758afea6008b38f8/images/tn.png)
+![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/f8d4588d3257ae4221312fd8f8ac28b594ae0b17/images/tn.png)
 
 ---
 
@@ -123,12 +123,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/0e2a2a3fc1efee2c95286cb04d5e60d29683e330/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/3d77e3d7619283c2e27cc01e7ec55a2cd6608fdf/images/tn.png)
 
 ---
 
 ## [hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme)
-![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/da80f63abcc570422ece2e2cbb136f6b81e88231/images/tn.png)
+![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/28f985b38851f3185e5f75b3f051c579a53a22e9/images/tn.png)
 
 ---
 
@@ -138,7 +138,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/5e7f69f068f6bb8ec85ff6afdb5be80fa07577e2/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/1361ab6f5128eb3620ad882022c103b41f6c71c8/images/tn.png)
 
 ---
 
@@ -193,7 +193,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/8d56a8d85e99f3aba18a9daff73f0634c8f8aae3/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d559617a125d3a35365524f2fa050c4ac503cfce/images/tn.png)
 
 ---
 
@@ -263,7 +263,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-shiori](https://github.com/chibicode/hugo-theme-shiori)
-![chibicode/hugo-theme-shiori](https://raw.githubusercontent.com/chibicode/hugo-theme-shiori/fc21db77938e91f8c7b9451f0ca34ab8f5ff772b/images/tn.png)
+![chibicode/hugo-theme-shiori](https://raw.githubusercontent.com/chibicode/hugo-theme-shiori/86d134adbb7371abfecf671ff02613b40092e74a/images/tn.png)
 
 ---
 
