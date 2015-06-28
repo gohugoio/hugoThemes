@@ -227,6 +227,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-theme-next](https://github.com/leopku/hugo-theme-next)
+*image not available* :hankey:
+
+---
+
 ## [nofancy](https://github.com/gizak/nofancy)
 ![gizak/nofancy](https://raw.githubusercontent.com/gizak/nofancy/9cd8c1f29be39baaf1e8e2f6468f656641174f70/images/tn.png)
 

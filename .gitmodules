@@ -124,3 +124,6 @@
 [submodule "artists"]
 	path = artists
 	url = https://github.com/digitalcraftsman/hugo-artists-theme.git
+[submodule "next"]
+	path = next
+	url = https://github.com/leopku/hugo-theme-next.git
