@@ -127,3 +127,6 @@
 [submodule "next"]
 	path = next
 	url = https://github.com/leopku/hugo-theme-next.git
+[submodule "polymer"]
+	path = polymer
+	url = https://github.com/pdevty/polymer.git

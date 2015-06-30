@@ -247,6 +247,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [polymer](https://github.com/pdevty/polymer)
+![pdevty/polymer](https://raw.githubusercontent.com/pdevty/polymer/d8be0028b80dcf7026489598f4f8905ecc291611/images/tn.png)
+
+---
+
 ## [poopshow](https://github.com/esell/poopshow)
 ![esell/poopshow](https://raw.githubusercontent.com/esell/poopshow/459da0109a6a22d77b3275c6c92d9d390ddc09c3/images/tn.png)
 
