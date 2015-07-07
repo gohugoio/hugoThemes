@@ -93,7 +93,7 @@ Additional media may be provided in that same directory.
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
 ## [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme)
-![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/fa0176229a5b81a93e59675165fb40b97bf6a4d4/images/tn.png)
+![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/fb4bebc66a95958996833843fa3724065e5bd2fe/images/tn.png)
 
 ---
 
@@ -108,12 +108,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-artists-theme](https://github.com/digitalcraftsman/hugo-artists-theme)
-![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/f8d4588d3257ae4221312fd8f8ac28b594ae0b17/images/tn.png)
+![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/2c19e2ddf1e2b8fe3c5a48965d76314c8352fc6c/images/tn.png)
 
 ---
 
 ## [hugo_theme_beg](https://github.com/dim0627/hugo_theme_beg)
-![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/1ea4bec734d361d402768151b21f1cedff8062e7/images/tn.png)
+![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/6adb408537697e6ed5dea6b875a9086140ef5029/images/tn.png)
 
 ---
 
@@ -138,7 +138,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/1361ab6f5128eb3620ad882022c103b41f6c71c8/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/ae97c3a5f9703eceb51724bfbb7ea0494434f614/images/tn.png)
 
 ---
 
@@ -148,7 +148,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [heather-hugo](https://github.com/hbpasti/heather-hugo)
-![hbpasti/heather-hugo](https://raw.githubusercontent.com/hbpasti/heather-hugo/3df3bfe5711c373995413900be78ed0ae0f5119e/images/tn.png)
+*image not available* :hankey:
 
 ---
 
@@ -223,12 +223,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [material-design](https://github.com/pdevty/material-design)
-![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/3a9d77ad467295f55caa67281be92d2369ae5df7/images/tn.png)
+![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/448591c262cc31a07d5940a7a1847dd6f0a98cd4/images/tn.png)
 
 ---
 
 ## [hugo-theme-next](https://github.com/leopku/hugo-theme-next)
-![leopku/hugo-theme-next](https://raw.githubusercontent.com/leopku/hugo-theme-next/98f1199b595e3f69f6b8551cef6313078c9272de/images/tn.png)
+![leopku/hugo-theme-next](https://raw.githubusercontent.com/leopku/hugo-theme-next/a3ae2398786a25154167e2049fd9aeabd168a7d3/images/tn.png)
 
 ---
 
@@ -288,7 +288,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [startbootstrap-clean-blog](https://github.com/humboldtux/startbootstrap-clean-blog)
-![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/cbff51828bb5d4485d1b97c470a3b4f0c5a0e5c2/images/tn.png)
+![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/6e5ab43bb88c0de319d31684682c82e7c9df60ba/images/tn.png)
 
 ---
 
@@ -308,7 +308,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [vienna](https://github.com/keichi/vienna)
-![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/ff7b17393a8da8919c435fd6414b0260a00a7baf/images/tn.png)
+![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/cb1ad43e277b6dcbb70a14e7426406ea30824a18/images/tn.png)
 
 ---
 
