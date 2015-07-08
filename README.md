@@ -143,7 +143,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [greyshade](https://github.com/cxfksword/greyshade)
-![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/2341a288c2301d6993432b4545e78a8407e91a58/images/tn.png)
+![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/04bf772526c01d733cad01557b0c7a0956dcb8bc/images/tn.png)
 
 ---
 
@@ -173,7 +173,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-incorporated](https://github.com/nilproductions/hugo-incorporated)
-![nilproductions/hugo-incorporated](https://raw.githubusercontent.com/nilproductions/hugo-incorporated/717e7533f8dccdd4785349c59d2fb731b6633366/images/tn.png)
+![nilproductions/hugo-incorporated](https://raw.githubusercontent.com/nilproductions/hugo-incorporated/cb92ac8ad754090a77a925cdd9da3b2e79f823f6/images/tn.png)
 
 ---
 
@@ -223,7 +223,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [material-design](https://github.com/pdevty/material-design)
-![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/448591c262cc31a07d5940a7a1847dd6f0a98cd4/images/tn.png)
+![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/0d88058fead04a70d14f34552e07a1fd81911ca6/images/tn.png)
 
 ---
 
@@ -233,7 +233,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [nofancy](https://github.com/gizak/nofancy)
-![gizak/nofancy](https://raw.githubusercontent.com/gizak/nofancy/9cd8c1f29be39baaf1e8e2f6468f656641174f70/images/tn.png)
+![gizak/nofancy](https://raw.githubusercontent.com/gizak/nofancy/de9c124bcbe45246454ff6d34fb109c8c90bd76e/images/tn.png)
 
 ---
 
@@ -243,7 +243,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll)
-*image not available* :hankey:
+![azmelanar/hugo-theme-pixyll](https://raw.githubusercontent.com/azmelanar/hugo-theme-pixyll/9a2516774a1587c7b335b256b3f0490254780b9f/images/tn.png)
 
 ---
 
@@ -273,7 +273,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [simple-a](https://github.com/AlexFinn/simple-a)
-![AlexFinn/simple-a](https://raw.githubusercontent.com/AlexFinn/simple-a/f0ed2c78dd5e2d6e6b344371ff720d93a59d0a22/images/tn.png)
+![AlexFinn/simple-a](https://raw.githubusercontent.com/AlexFinn/simple-a/7b590cb38942481f4c73e6a65530977ca4af8a74/images/tn.png)
 
 ---
 
@@ -298,7 +298,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [tinyce-hugo-theme](https://github.com/roperzh/tinyce-hugo-theme)
-![roperzh/tinyce-hugo-theme](https://raw.githubusercontent.com/roperzh/tinyce-hugo-theme/ae1511ae02f1f3f586ed68bc50f29e3b1549b03e/images/tn.png)
+![roperzh/tinyce-hugo-theme](https://raw.githubusercontent.com/roperzh/tinyce-hugo-theme/ec650dfeeda9ae94152e51f0b8b01d61dbbf9e0c/images/tn.png)
 
 ---
 
