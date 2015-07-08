@@ -243,7 +243,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-pixyll](https://github.com/azmelanar/hugo-theme-pixyll)
-*image not available* :hankey:
+![azmelanar/hugo-theme-pixyll](https://raw.githubusercontent.com/azmelanar/hugo-theme-pixyll/master/images/tn.png)
 
 ---
 
