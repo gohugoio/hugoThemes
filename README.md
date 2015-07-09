@@ -123,7 +123,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/3d77e3d7619283c2e27cc01e7ec55a2cd6608fdf/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/a7b35818e47ea09194266f1f64b17148a3ba1469/images/tn.png)
 
 ---
 
@@ -213,7 +213,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [lanyon-hugo](https://github.com/tummychow/lanyon-hugo)
-![tummychow/lanyon-hugo](https://raw.githubusercontent.com/tummychow/lanyon-hugo/febd4a0e378392b5e2834da8f87badaa9b039fba/images/tn.png)
+![tummychow/lanyon-hugo](https://raw.githubusercontent.com/tummychow/lanyon-hugo/15f399bfabfdbe033895ba0c6005d794aa1f788f/images/tn.png)
 
 ---
 
@@ -278,7 +278,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [simple-hugo](https://github.com/druzza/simple-hugo)
-![druzza/simple-hugo](https://raw.githubusercontent.com/druzza/simple-hugo/7246d24953f244871140a932e5d88ac725e029bd/images/tn.png)
+![druzza/simple-hugo](https://raw.githubusercontent.com/druzza/simple-hugo/20d9086e64e8493b931a419e52866e007e8699e7/images/tn.png)
 
 ---
 
