@@ -93,7 +93,7 @@ Additional media may be provided in that same directory.
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
 ## [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme)
-![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/fb4bebc66a95958996833843fa3724065e5bd2fe/images/tn.png)
+![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/e3bce7a7de44158a104da94df13a344ca2c9f8ce/images/tn.png)
 
 ---
 
@@ -108,7 +108,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-artists-theme](https://github.com/digitalcraftsman/hugo-artists-theme)
-![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/2c19e2ddf1e2b8fe3c5a48965d76314c8352fc6c/images/tn.png)
+![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/f29337287fa8cfbe9615ce78ba2a01613efae14a/images/tn.png)
 
 ---
 
@@ -128,7 +128,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme)
-![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/28f985b38851f3185e5f75b3f051c579a53a22e9/images/tn.png)
+![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/8baec4bec022cb9b62fee96e3023b670217b05d5/images/tn.png)
 
 ---
 
@@ -138,7 +138,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/ae97c3a5f9703eceb51724bfbb7ea0494434f614/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/44448dd5e806222282509f718909b59b706734a7/images/tn.png)
 
 ---
 
@@ -218,7 +218,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [liquorice](https://github.com/eliasson/liquorice)
-![eliasson/liquorice](https://raw.githubusercontent.com/eliasson/liquorice/a32161d3aaf0aa39e1040034cdc2206bf7435e5f/images/tn.png)
+![eliasson/liquorice](https://raw.githubusercontent.com/eliasson/liquorice/57de3c32ad8487ef9771d2b9f31a40fc03da2823/images/tn.png)
 
 ---
 
@@ -308,7 +308,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [vienna](https://github.com/keichi/vienna)
-![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/cb1ad43e277b6dcbb70a14e7426406ea30824a18/images/tn.png)
+![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/cfc3cd65024acb2851ea9185be777e30e31a644f/images/tn.png)
 
 ---
 
