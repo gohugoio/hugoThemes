@@ -108,7 +108,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-artists-theme](https://github.com/digitalcraftsman/hugo-artists-theme)
-![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/d1d928867918d3521023e6f0f800f6b5e5951a39/images/tn.png)
+![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/c055ee496ddbe8e6d7e4768a1ba48d9452746c49/images/tn.png)
 
 ---
 
