@@ -93,7 +93,7 @@ Additional media may be provided in that same directory.
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
 ## [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme)
-![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/e3bce7a7de44158a104da94df13a344ca2c9f8ce/images/tn.png)
+![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/fcdfc37a16f3d267be0925549e3cfa20e8e81b68/images/tn.png)
 
 ---
 
@@ -108,7 +108,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-artists-theme](https://github.com/digitalcraftsman/hugo-artists-theme)
-![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/f29337287fa8cfbe9615ce78ba2a01613efae14a/images/tn.png)
+![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/d1d928867918d3521023e6f0f800f6b5e5951a39/images/tn.png)
 
 ---
 
@@ -118,7 +118,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-bootie-docs](https://github.com/key-amb/hugo-theme-bootie-docs)
-![key-amb/hugo-theme-bootie-docs](https://raw.githubusercontent.com/key-amb/hugo-theme-bootie-docs/c2838f154fccd6f01ee7a5013f47d25b901474a8/images/tn.png)
+![key-amb/hugo-theme-bootie-docs](https://raw.githubusercontent.com/key-amb/hugo-theme-bootie-docs/a593157bc4870d219c8ef1f38d2cfdd574f59731/images/tn.png)
 
 ---
 
@@ -128,7 +128,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme)
-![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/8baec4bec022cb9b62fee96e3023b670217b05d5/images/tn.png)
+![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/107e61782595c37e9059a1d481fecbbc7c30fc33/images/tn.png)
 
 ---
 
@@ -138,7 +138,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/44448dd5e806222282509f718909b59b706734a7/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/500979dbe3aeb1d14ea19de78b0efbaef411a492/images/tn.png)
 
 ---
 
@@ -183,7 +183,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
-![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/a7be047d31f54a0a5378e0fd22d5b4ab2be8e860/images/tn.png)
+![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/024a89ace2a38f1e84b51d071d2245aa2379b391/images/tn.png)
 
 ---
 
@@ -258,7 +258,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/b995baa371e5289bc1ad756a3756fa415fae85bf/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/18fdd51015de1919dcbb3ae5737add272409ea65/images/tn.png)
 
 ---
 
