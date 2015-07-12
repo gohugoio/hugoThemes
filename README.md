@@ -128,7 +128,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme)
-![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/80d77ac660ce40901b362a4bdfcc38d7ee707caa/images/tn.png)
+![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/b7da2db630a5bc2b906937fd363677f27b0cbee9/images/tn.png)
 
 ---
 
@@ -138,7 +138,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/4eb9fcac2f67370608a5e9b40cf66a4a2201f176/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/b574053321e5bdb94efb8a01ca4e9e62944b18b0/images/tn.png)
 
 ---
 
