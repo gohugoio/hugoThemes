@@ -227,6 +227,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-material-lite](https://github.com/SamuelDebruyn/hugo-material-lite)
+![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/0a306147a55821ba8757bb8bc310a7f7839b5641/images/tn.png)
+
+---
+
 ## [hugo-theme-next](https://github.com/leopku/hugo-theme-next)
 ![leopku/hugo-theme-next](https://raw.githubusercontent.com/leopku/hugo-theme-next/a3ae2398786a25154167e2049fd9aeabd168a7d3/images/tn.png)
 
