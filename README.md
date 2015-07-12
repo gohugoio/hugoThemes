@@ -148,7 +148,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [heather-hugo](https://github.com/hbpasti/heather-hugo)
-*image not available* :hankey:
+![hbpasti/heather-hugo](https://raw.githubusercontent.com/hbpasti/heather-hugo/3390c6b565bb01b2f47887c22e9a4b7cf56e32f9/images/tn.png)
 
 ---
 
@@ -224,6 +224,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ## [material-design](https://github.com/pdevty/material-design)
 ![pdevty/material-design](https://raw.githubusercontent.com/pdevty/material-design/0d88058fead04a70d14f34552e07a1fd81911ca6/images/tn.png)
+
+---
+
+## [hugo-material-lite](https://github.com/SamuelDebruyn/hugo-material-lite)
+![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/0a306147a55821ba8757bb8bc310a7f7839b5641/images/tn.png)
 
 ---
 
