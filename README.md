@@ -198,7 +198,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/2d0f48c7f8ed5c1ef5ee0e8a4c52b309a1a5e648/images/tn.png)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/75ea79ab8b68986ca164380a5f65ca6e2f35f9b3/images/tn.png)
 
 ---
 
