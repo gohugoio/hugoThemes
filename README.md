@@ -198,7 +198,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1a7140a4d7fd4b5834178c721fdb636e96db2dd6/images/tn.png)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/d84c5080b69a2ef40ad73ca2dc15e7afa7716c97/images/tn.png)
 
 ---
 
@@ -228,7 +228,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-material-lite](https://github.com/SamuelDebruyn/hugo-material-lite)
-![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/66997e1d9672df14268c0c9e54b3eb84382ebaed/images/tn.png)
+![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/bd831da60c2eb4db0f66173a37b61cb3c1b38fea/images/tn.png)
 
 ---
 
