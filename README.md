@@ -36,7 +36,7 @@ git clone <em>URL_TO_THEME</em>
 * Add `/images/screenshot.png` and `/images/tn.png`;
 * Open up a new Issue with a link to the theme's repository on GitHub.
 
-If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`. **NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. See [Artist theme's exampleSite](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example.
+If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`. **NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. See [Artist theme's exampleSite](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example. And please make the site's content as neutral as possible.
 
 Each theme needs:
 
