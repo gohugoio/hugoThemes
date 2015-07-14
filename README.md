@@ -148,7 +148,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [heather-hugo](https://github.com/hbpasti/heather-hugo)
-*image not available* :hankey:
+![hbpasti/heather-hugo](https://raw.githubusercontent.com/hbpasti/heather-hugo/e2d185d424e21ab357d10d2afc1e19ecb5c669f0/images/tn.png)
 
 ---
 
