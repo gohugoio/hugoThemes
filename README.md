@@ -154,7 +154,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [herring-cove](https://github.com/spf13/herring-cove)
-![spf13/herring-cove](https://raw.githubusercontent.com/spf13/herring-cove/a107a7a7e352c40ca4af47207a1e0a0fc34084cd/images/tn.png)
+*image not available* :hankey:
 
 ---
 
@@ -199,7 +199,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/75ea79ab8b68986ca164380a5f65ca6e2f35f9b3/images/tn.png)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/a874cebd9844764360be9ab93568cc6e334b0e4e/images/tn.png)
 
 ---
 
