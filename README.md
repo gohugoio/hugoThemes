@@ -229,7 +229,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-material-lite](https://github.com/SamuelDebruyn/hugo-material-lite)
-![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/bd831da60c2eb4db0f66173a37b61cb3c1b38fea/images/tn.png)
+![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/042e4337fb951580c70525e0e7e78eadda1ac958/images/tn.png)
 
 ---
 
@@ -264,7 +264,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/18fdd51015de1919dcbb3ae5737add272409ea65/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/8c71c646af24fd7290d1da652b2e351482e7aaad/images/tn.png)
 
 ---
 
@@ -299,7 +299,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [tachyons](https://github.com/marloncabrera/tachyons)
-![marloncabrera/tachyons](https://raw.githubusercontent.com/marloncabrera/tachyons/bd29edd0c05763b87336cf312cb657303aaa6d4d/images/tn.png)
+![marloncabrera/tachyons](https://raw.githubusercontent.com/marloncabrera/tachyons/49462e77f67c098a855f495b035672118a622710/images/tn.png)
 
 ---
 
