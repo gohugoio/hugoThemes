@@ -144,7 +144,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [greyshade](https://github.com/cxfksword/greyshade)
-![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/04bf772526c01d733cad01557b0c7a0956dcb8bc/images/tn.png)
+![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/28fb061bb674a2add89724dfbbf167f88f381d40/images/tn.png)
 
 ---
 
@@ -164,7 +164,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-base-theme](https://github.com/crakjie/hugo-base-theme)
-![crakjie/hugo-base-theme](https://raw.githubusercontent.com/crakjie/hugo-base-theme/f1b5289d9949a5a7352495d5e8cc56cf94b5e848/images/tn.png)
+![crakjie/hugo-base-theme](https://raw.githubusercontent.com/crakjie/hugo-base-theme/d67df9b5788c4c42a5549b0f9c9471d9cd4714cb/images/tn.png)
 
 ---
 
@@ -179,12 +179,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
-![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/b11d353b04930674153180038629e0d43f41aa25/images/tn.png)
+![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/c2c84193cbbd38558dc220b50ab379371ff45623/images/tn.png)
 
 ---
 
 ## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
-![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/024a89ace2a38f1e84b51d071d2245aa2379b391/images/tn.png)
+![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/3aabdde6737039ede492c7df1b1924a9f74d8416/images/tn.png)
 
 ---
 
@@ -209,7 +209,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [landing-page-hugo](https://github.com/crakjie/landing-page-hugo)
-![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/61b32ea77809d13c809fe9defd5c84dfb3a128c3/images/tn.png)
+![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/574e10aeb30a3a962c3c45784a4301a55d38a78c/images/tn.png)
 
 ---
 
@@ -229,7 +229,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-material-lite](https://github.com/SamuelDebruyn/hugo-material-lite)
-![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/af634baf907c1f34614e8ad8e72470ec150edb32/images/tn.png)
+![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/cca13c30215ca8b0ee3e67b30952a0125ce21c65/images/tn.png)
 
 ---
 
@@ -299,7 +299,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [tachyons](https://github.com/marloncabrera/tachyons)
-![marloncabrera/tachyons](https://raw.githubusercontent.com/marloncabrera/tachyons/ce99c902b526a30f8e45ec0ad566a6c4ceae05b1/images/tn.png)
+![marloncabrera/tachyons](https://raw.githubusercontent.com/marloncabrera/tachyons/a98c649c0afc175d2332c9ba9a6e0cc92aa7346b/images/tn.png)
 
 ---
 
