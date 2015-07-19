@@ -209,7 +209,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [landing-page-hugo](https://github.com/crakjie/landing-page-hugo)
-![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/574e10aeb30a3a962c3c45784a4301a55d38a78c/images/tn.png)
+![crakjie/landing-page-hugo](https://raw.githubusercontent.com/crakjie/landing-page-hugo/349e62216222629ba21a199f5a23c5a0d108a1b4/images/tn.png)
 
 ---
 
