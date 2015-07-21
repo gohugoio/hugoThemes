@@ -123,6 +123,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/f6b6e2159a74c40c34885b79c7e4bab5aa0985db/images/tn.png)
+
+---
+
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
 ![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/b6bfe0b1d33d9433fc9daa92cde7012ac72ff024/images/tn.png)
 
