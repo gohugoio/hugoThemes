@@ -273,6 +273,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo_theme_robust](https://github.com/dim0627/hugo_theme_robust)
+![dim0627/hugo_theme_robust](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/5cf572a9694dbb1fc4d5abc8fff8fa7820705be1/images/tn.png)
+
+---
+
 ## [hugo-theme-shiori](https://github.com/chibicode/hugo-theme-shiori)
 ![chibicode/hugo-theme-shiori](https://raw.githubusercontent.com/chibicode/hugo-theme-shiori/86d134adbb7371abfecf671ff02613b40092e74a/images/tn.png)
 
