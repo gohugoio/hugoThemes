@@ -133,3 +133,6 @@
 [submodule "material-lite"]
 	path = material-lite
 	url = https://github.com/SamuelDebruyn/hugo-material-lite
+[submodule "robust"]
+	path = robust
+	url = https://github.com/dim0627/hugo_theme_robust.git
