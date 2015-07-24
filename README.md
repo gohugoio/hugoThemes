@@ -103,6 +103,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-theme-air](https://github.com/syui/hugo-theme-air)
+![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/2147ab7da62242ab885ea00ced682566c8719990/images/tn.png)
+
+---
+
 ## [angels-ladder](https://github.com/tanksuzuki/angels-ladder)
 ![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/fe086ecf531fbc67306f57127cc44e7ad423d1a5/images/tn.png)
 
