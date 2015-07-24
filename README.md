@@ -183,6 +183,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-h5bp-simple](https://github.com/garvincasimir/hugo-h5bp-simple)
+![garvincasimir/hugo-h5bp-simple](https://raw.githubusercontent.com/garvincasimir/hugo-h5bp-simple/0f6994af43c569275c8fda0071468771b25628db/images/tn.png)
+
+---
+
 ## [hugo-incorporated](https://github.com/nilproductions/hugo-incorporated)
 ![nilproductions/hugo-incorporated](https://raw.githubusercontent.com/nilproductions/hugo-incorporated/cb92ac8ad754090a77a925cdd9da3b2e79f823f6/images/tn.png)
 
