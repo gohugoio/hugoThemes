@@ -99,7 +99,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo_theme_aglaus](https://github.com/dim0627/hugo_theme_aglaus)
-![dim0627/hugo_theme_aglaus](https://raw.githubusercontent.com/dim0627/hugo_theme_aglaus/95d05895905cfb777702efa057f9ff9dd10fc377/images/tn.png)
+![dim0627/hugo_theme_aglaus](https://raw.githubusercontent.com/dim0627/hugo_theme_aglaus/86ee37faa87873627ddcb6d063ee869d4185adb0/images/tn.png)
 
 ---
 
@@ -114,7 +114,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo_theme_beg](https://github.com/dim0627/hugo_theme_beg)
-![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/6adb408537697e6ed5dea6b875a9086140ef5029/images/tn.png)
+![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/c9e272d3940ab6eefb5278d311a058b13ab15b28/images/tn.png)
 
 ---
 
@@ -124,7 +124,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/cbc33a62a3b86d953b0ba91c991afbcf5a8dd2a2/images/tn.png)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/2e995c707fbe94a6d4ebf80316f4245520f890b5/images/tn.png)
 
 ---
 
@@ -319,12 +319,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [twentyfourteen](https://github.com/jaden/twentyfourteen)
-![jaden/twentyfourteen](https://raw.githubusercontent.com/jaden/twentyfourteen/499670f6fe999b072d402da0d8cbf58a33dca5de/images/tn.png)
+![jaden/twentyfourteen](https://raw.githubusercontent.com/jaden/twentyfourteen/ad1be327ace6bbc8b4e8af1026f9c04244c3c9ae/images/tn.png)
 
 ---
 
 ## [vienna](https://github.com/keichi/vienna)
-![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/0698e89a422ad8533f1891d877d170330f2b2780/images/tn.png)
+![keichi/vienna](https://raw.githubusercontent.com/keichi/vienna/890e97c5a052984d04294862ac60c7e0bfc6a934/images/tn.png)
 
 ---
 
