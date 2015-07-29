@@ -283,6 +283,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-theme-projecthub](https://github.com/vjeantet/hugo-theme-projecthub)
+![vjeantet/hugo-theme-projecthub](https://raw.githubusercontent.com/vjeantet/hugo-theme-projecthub/d0fb856de1d22a396659a9c3deeeddeb4eeb256e/images/tn.png)
+
+---
+
 ## [purehugo](https://github.com/dplesca/purehugo)
 ![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/8c71c646af24fd7290d1da652b2e351482e7aaad/images/tn.png)
 

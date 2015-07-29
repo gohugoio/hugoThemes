@@ -148,3 +148,6 @@
 [submodule "hikari"]
 	path = hikari
 	url = https://github.com/digitalcraftsman/hugo-hikari-theme.git
+[submodule "projecthub"]
+	path = projecthub
+	url = https://github.com/vjeantet/hugo-theme-projecthub.git
