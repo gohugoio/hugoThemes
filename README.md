@@ -168,6 +168,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-hikari-theme](https://github.com/digitalcraftsman/hugo-hikari-theme)
+![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/81da599bf1638f526e42e6a48d9945a75c7d5931/images/tn.png)
+
+---
+
 ## [hugo-theme-html5](https://github.com/simonmika/hugo-theme-html5)
 *image not available* :hankey:
 
