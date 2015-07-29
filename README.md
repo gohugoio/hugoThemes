@@ -104,7 +104,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-air](https://github.com/syui/hugo-theme-air)
-![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/2147ab7da62242ab885ea00ced682566c8719990/images/tn.png)
+![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/43fa52f3c845a549a39220c971c624db43a12945/images/tn.png)
 
 ---
 
@@ -124,17 +124,17 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-bootie-docs](https://github.com/key-amb/hugo-theme-bootie-docs)
-![key-amb/hugo-theme-bootie-docs](https://raw.githubusercontent.com/key-amb/hugo-theme-bootie-docs/a593157bc4870d219c8ef1f38d2cfdd574f59731/images/tn.png)
+![key-amb/hugo-theme-bootie-docs](https://raw.githubusercontent.com/key-amb/hugo-theme-bootie-docs/81e1459dac71f81285cb4f4b3fe2aae7878136cb/images/tn.png)
 
 ---
 
 ## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/2e995c707fbe94a6d4ebf80316f4245520f890b5/images/tn.png)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/b74962f2e4a8d442146cea6532dbc23baaf99d93/images/tn.png)
 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/b6bfe0b1d33d9433fc9daa92cde7012ac72ff024/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/10d6061120d2f8af0498934556955f3996ecd9e3/images/tn.png)
 
 ---
 
@@ -189,7 +189,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-h5bp-simple](https://github.com/garvincasimir/hugo-h5bp-simple)
-![garvincasimir/hugo-h5bp-simple](https://raw.githubusercontent.com/garvincasimir/hugo-h5bp-simple/0f6994af43c569275c8fda0071468771b25628db/images/tn.png)
+![garvincasimir/hugo-h5bp-simple](https://raw.githubusercontent.com/garvincasimir/hugo-h5bp-simple/9c6b6d6101107586295e0d9435fa758aa74a0833/images/tn.png)
 
 ---
 
@@ -199,7 +199,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
-![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/c2c84193cbbd38558dc220b50ab379371ff45623/images/tn.png)
+![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/8aed1451d3cb2d99e2be3065dd1a9ea2971f6344/images/tn.png)
 
 ---
 
@@ -214,7 +214,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d559617a125d3a35365524f2fa050c4ac503cfce/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/944d1501e5e97fefa5052f851f35e63d1c8e8c15/images/tn.png)
 
 ---
 
@@ -249,7 +249,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-material-lite](https://github.com/SamuelDebruyn/hugo-material-lite)
-![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/cca13c30215ca8b0ee3e67b30952a0125ce21c65/images/tn.png)
+![SamuelDebruyn/hugo-material-lite](https://raw.githubusercontent.com/SamuelDebruyn/hugo-material-lite/5c942647500b3202cd92a179c93150c7cb3d8d90/images/tn.png)
 
 ---
 
