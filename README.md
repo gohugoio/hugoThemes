@@ -104,7 +104,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-air](https://github.com/syui/hugo-theme-air)
-![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/43fa52f3c845a549a39220c971c624db43a12945/images/tn.png)
+![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/0e632113ba9db2f9c600ff6b205b157110a17239/images/tn.png)
 
 ---
 
@@ -134,7 +134,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
-![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/10d6061120d2f8af0498934556955f3996ecd9e3/images/tn.png)
+![vjeantet/hugo-theme-casper](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/9c20b5961c76979f428c48c8aba70faf43e83c0a/images/tn.png)
 
 ---
 
@@ -169,7 +169,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-hikari-theme](https://github.com/digitalcraftsman/hugo-hikari-theme)
-![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/81da599bf1638f526e42e6a48d9945a75c7d5931/images/tn.png)
+![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/c3669837151ea1562127d798ea5785b2bada454d/images/tn.png)
 
 ---
 
@@ -239,7 +239,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [liquorice](https://github.com/eliasson/liquorice)
-![eliasson/liquorice](https://raw.githubusercontent.com/eliasson/liquorice/57de3c32ad8487ef9771d2b9f31a40fc03da2823/images/tn.png)
+![eliasson/liquorice](https://raw.githubusercontent.com/eliasson/liquorice/c5d9efa7301e3cedf1c0d9a3f433cd1cd09e97b0/images/tn.png)
 
 ---
 
