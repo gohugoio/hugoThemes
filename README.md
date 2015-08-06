@@ -119,7 +119,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo_theme_beg](https://github.com/dim0627/hugo_theme_beg)
-![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/c9e272d3940ab6eefb5278d311a058b13ab15b28/images/tn.png)
+![dim0627/hugo_theme_beg](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/379b57138aff25c2aa25017f8c9ae5b9099aa892/images/tn.png)
 
 ---
 
@@ -129,7 +129,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/b74962f2e4a8d442146cea6532dbc23baaf99d93/images/tn.png)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/5ca36081483d9de186072856281e4905d525810d/images/tn.png)
 
 ---
 
@@ -169,7 +169,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-hikari-theme](https://github.com/digitalcraftsman/hugo-hikari-theme)
-![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/c3669837151ea1562127d798ea5785b2bada454d/images/tn.png)
+![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/87f2a45164bc0eaffbdc44d52b88006e0761c9dc/images/tn.png)
 
 ---
 
@@ -189,7 +189,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-h5bp-simple](https://github.com/garvincasimir/hugo-h5bp-simple)
-![garvincasimir/hugo-h5bp-simple](https://raw.githubusercontent.com/garvincasimir/hugo-h5bp-simple/9c6b6d6101107586295e0d9435fa758aa74a0833/images/tn.png)
+![garvincasimir/hugo-h5bp-simple](https://raw.githubusercontent.com/garvincasimir/hugo-h5bp-simple/7741bbce77c9fd66843ca102ae4ed118b42dd06e/images/tn.png)
 
 ---
 
@@ -214,12 +214,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/944d1501e5e97fefa5052f851f35e63d1c8e8c15/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/cdeacff20b0798034629243c1bb02eb640157423/images/tn.png)
 
 ---
 
 ## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/4124bae9cecdcad5352fd095a72f1f01b54de6c9/images/tn.png)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/52c5552a437b2eda38a9f28656a8a28cc0e4815b/images/tn.png)
 
 ---
 
