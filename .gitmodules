@@ -151,3 +151,6 @@
 [submodule "projecthub"]
 	path = projecthub
 	url = https://github.com/vjeantet/hugo-theme-projecthub.git
+[submodule "strata"]
+	path = strata
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git

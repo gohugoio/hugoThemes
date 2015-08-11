@@ -289,7 +289,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/8c71c646af24fd7290d1da652b2e351482e7aaad/images/tn.png)
+*image not available* :hankey:
 
 ---
 
@@ -325,6 +325,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ## [startbootstrap-clean-blog](https://github.com/humboldtux/startbootstrap-clean-blog)
 ![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/6e5ab43bb88c0de319d31684682c82e7c9df60ba/images/tn.png)
+
+---
+
+## [hugo-strata-theme](https://github.com/digitalcraftsman/hugo-strata-theme)
+![digitalcraftsman/hugo-strata-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-strata-theme/bca3b7b12aebd206dae445f4415c88ee59f215f3/images/tn.png)
 
 ---
 
