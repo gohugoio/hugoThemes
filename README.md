@@ -104,7 +104,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-air](https://github.com/syui/hugo-theme-air)
-![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/0e632113ba9db2f9c600ff6b205b157110a17239/images/tn.png)
+![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/66455486a30905055a4b7f5bb6326682ac37dc68/images/tn.png)
 
 ---
 
@@ -174,7 +174,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-hikari-theme](https://github.com/digitalcraftsman/hugo-hikari-theme)
-![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/87f2a45164bc0eaffbdc44d52b88006e0761c9dc/images/tn.png)
+![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/174bee7dc82b127f9fbe884dd6c2c10df35a1b84/images/tn.png)
 
 ---
 
@@ -294,7 +294,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/8c71c646af24fd7290d1da652b2e351482e7aaad/images/tn.png)
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/a1291a9f9e7bc0ac1b4456f3b55bf7908e45fcc7/images/tn.png)
 
 ---
 
