@@ -153,6 +153,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [gindoro](https://github.com/cdipaolo/gindoro)
+![cdipaolo/gindoro](https://raw.githubusercontent.com/cdipaolo/gindoro/6420e3beaf72e5ea5d211d7fd1d1c0fd29bfac03/images/tn.png)
+
+---
+
 ## [greyshade](https://github.com/cxfksword/greyshade)
 ![cxfksword/greyshade](https://raw.githubusercontent.com/cxfksword/greyshade/28fb061bb674a2add89724dfbbf167f88f381d40/images/tn.png)
 
@@ -289,7 +294,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [purehugo](https://github.com/dplesca/purehugo)
-*image not available* :hankey:
+![dplesca/purehugo](https://raw.githubusercontent.com/dplesca/purehugo/8c71c646af24fd7290d1da652b2e351482e7aaad/images/tn.png)
 
 ---
 

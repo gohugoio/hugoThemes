@@ -154,3 +154,6 @@
 [submodule "strata"]
 	path = strata
 	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
+[submodule "gindoro"]
+	path = gindoro
+	url = https://github.com/cdipaolo/gindoro.git
