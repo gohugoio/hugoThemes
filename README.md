@@ -94,7 +94,7 @@ Additional media may be provided in that same directory.
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
 ## [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme)
-![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/95a231fee993d42090fd4e8d65a7dce52ae12c21/images/tn.png)
+![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/12c60c8bbff6272660ce4de499a52e7d3d0ed056/images/tn.png)
 
 ---
 
@@ -104,7 +104,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-air](https://github.com/syui/hugo-theme-air)
-![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/66455486a30905055a4b7f5bb6326682ac37dc68/images/tn.png)
+![syui/hugo-theme-air](https://raw.githubusercontent.com/syui/hugo-theme-air/ab601fb8a46ccfe3542ce5c39c24a9b957d0c34c/images/tn.png)
 
 ---
 
@@ -219,12 +219,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/cdeacff20b0798034629243c1bb02eb640157423/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d744d7b357fa98cbe933cd64582a7a6045d8a955/images/tn.png)
 
 ---
 
 ## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/52c5552a437b2eda38a9f28656a8a28cc0e4815b/images/tn.png)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1bb0a5b332b24c810a4635a63d20d87602620df0/images/tn.png)
 
 ---
 
@@ -259,7 +259,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-next](https://github.com/leopku/hugo-theme-next)
-![leopku/hugo-theme-next](https://raw.githubusercontent.com/leopku/hugo-theme-next/0c9ab9db8faaebc1200b59e0b40adbe81947f926/images/tn.png)
+![leopku/hugo-theme-next](https://raw.githubusercontent.com/leopku/hugo-theme-next/7234b44e344b6359abb07bc76191e4ce4703b0e5/images/tn.png)
 
 ---
 
@@ -324,7 +324,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-slim](https://github.com/zhe/hugo-theme-slim)
-![zhe/hugo-theme-slim](https://raw.githubusercontent.com/zhe/hugo-theme-slim/ccdd0de582c4f36a51a05e2cb11c0a5f190cbe49/images/tn.png)
+![zhe/hugo-theme-slim](https://raw.githubusercontent.com/zhe/hugo-theme-slim/f56bb9ec0322042d1774a845569454e470a2fdcd/images/tn.png)
 
 ---
 
