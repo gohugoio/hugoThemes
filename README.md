@@ -94,7 +94,7 @@ Additional media may be provided in that same directory.
 The README file serves double purposes. It is used on GitHub as the content for the main page. It also will become the content on the detailed theme view page for (the future) themes.gohugo.io. It should be in Markdown format and called `README.md`.
 # Theme List
 ## [hugo-agency-theme](https://github.com/digitalcraftsman/hugo-agency-theme)
-![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/12c60c8bbff6272660ce4de499a52e7d3d0ed056/images/tn.png)
+![digitalcraftsman/hugo-agency-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-agency-theme/a248b4d0851449f33db2a7466318bcd974dd8702/images/tn.png)
 
 ---
 
@@ -109,12 +109,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [angels-ladder](https://github.com/tanksuzuki/angels-ladder)
-![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/fe086ecf531fbc67306f57127cc44e7ad423d1a5/images/tn.png)
+![tanksuzuki/angels-ladder](https://raw.githubusercontent.com/tanksuzuki/angels-ladder/6483dd39ea6075fb47ccb02ddacc712e25727d3f/images/tn.png)
 
 ---
 
 ## [hugo-artists-theme](https://github.com/digitalcraftsman/hugo-artists-theme)
-![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/5cb1668dc2aab9b65a28c71403237c0992a60115/images/tn.png)
+![digitalcraftsman/hugo-artists-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-artists-theme/54e9a41c3f686a53ff765e8937918ff29049738f/images/tn.png)
 
 ---
 
@@ -129,7 +129,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/5ca36081483d9de186072856281e4905d525810d/images/tn.png)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/a96945b17edd0be631777cd5c1ae1cf22a907b12/images/tn.png)
 
 ---
 
@@ -144,7 +144,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme)
-![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/b44758a3b81ad59fa6c6b6994977d41fef3afebf/images/tn.png)
+![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/c151ee4aca07aa939797df03dd6278d80d0a567b/images/tn.png)
 
 ---
 
@@ -154,7 +154,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
-![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/fd1b6850e7044efd50c2a6eb1f06dca63ac38c65/images/tn.png)
+![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/483be8fe48ca6847664f8b5ff4044aae67bb4e83/images/tn.png)
 
 ---
 
@@ -179,7 +179,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-hikari-theme](https://github.com/digitalcraftsman/hugo-hikari-theme)
-![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/174bee7dc82b127f9fbe884dd6c2c10df35a1b84/images/tn.png)
+![digitalcraftsman/hugo-hikari-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-hikari-theme/29b07c7f1328720c4d4ea999e2eb572d2ddf2b97/images/tn.png)
 
 ---
 
@@ -309,7 +309,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo_theme_robust](https://github.com/dim0627/hugo_theme_robust)
-![dim0627/hugo_theme_robust](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/5cf572a9694dbb1fc4d5abc8fff8fa7820705be1/images/tn.png)
+![dim0627/hugo_theme_robust](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/57b752fb02af64add069c8923b4a32aeed330801/images/tn.png)
 
 ---
 
