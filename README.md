@@ -138,6 +138,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme)
+![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/c10b0581a33f8fc38e792bf6bcb7714d5d75321f/images/tn.png)
+
+---
+
 ## [hugo-creative-theme](https://github.com/digitalcraftsman/hugo-creative-theme)
 ![digitalcraftsman/hugo-creative-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-creative-theme/b44758a3b81ad59fa6c6b6994977d41fef3afebf/images/tn.png)
 
@@ -330,6 +335,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ## [startbootstrap-clean-blog](https://github.com/humboldtux/startbootstrap-clean-blog)
 ![humboldtux/startbootstrap-clean-blog](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/6e5ab43bb88c0de319d31684682c82e7c9df60ba/images/tn.png)
+
+---
+
+## [hugo-steam-theme](https://github.com/digitalcraftsman/hugo-steam-theme)
+![digitalcraftsman/hugo-steam-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-steam-theme/b5e9eedaff1b15be27d3620fa72875681c1187d6/images/tn.png)
 
 ---
 

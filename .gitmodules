@@ -157,3 +157,9 @@
 [submodule "gindoro"]
 	path = gindoro
 	url = https://github.com/cdipaolo/gindoro.git
+[submodule "cocoa"]
+	path = cocoa
+	url = https://github.com/nishanths/cocoa-hugo-theme.git
+[submodule "steam"]
+	path = steam
+	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
