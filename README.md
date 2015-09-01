@@ -174,7 +174,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [herring-cove](https://github.com/spf13/herring-cove)
-*image not available* :hankey:
+![spf13/herring-cove](https://raw.githubusercontent.com/spf13/herring-cove/3ebc2669d84bb849394f623f1b728e00a404bb0d/images/tn.png)
 
 ---
 
