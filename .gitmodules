@@ -163,3 +163,6 @@
 [submodule "steam"]
 	path = steam
 	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
+[submodule "hugo-zen"]
+	path = hugo-zen
+	url = https://github.com/rakuishi/hugo-zen.git
