@@ -139,7 +139,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme)
-![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/c10b0581a33f8fc38e792bf6bcb7714d5d75321f/images/tn.png)
+![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/ecea5cb65a47a84bb7ad2d021bda6f4f848b5e18/images/tn.png)
 
 ---
 
@@ -149,7 +149,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-crisp](https://github.com/Zenithar/hugo-theme-crisp)
-![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/f178ba762cc3b1fd7324fbfbb80a0ccbc95da55f/images/tn.png)
+![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/49a7789f6c652b48906aa12a9f89b0ce52688a19/images/tn.png)
 
 ---
 
@@ -304,12 +304,12 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-redlounge](https://github.com/tmaiaroto/hugo-redlounge)
-![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/f6f223881d945c1bcb31d3630ebb8b76a977531c/images/tn.png)
+![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/5bd8c830f3db6f4c6e055b9a811c5f33fc7e8b9e/images/tn.png)
 
 ---
 
 ## [hugo_theme_robust](https://github.com/dim0627/hugo_theme_robust)
-![dim0627/hugo_theme_robust](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/57b752fb02af64add069c8923b4a32aeed330801/images/tn.png)
+![dim0627/hugo_theme_robust](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/248ece3eb4869f8581a249877b2f7d7e43070dc1/images/tn.png)
 
 ---
 
