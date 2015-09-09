@@ -139,7 +139,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme)
-![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/ecea5cb65a47a84bb7ad2d021bda6f4f848b5e18/images/tn.png)
+![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/d36d3aa373212ea37260b964cbc56cb65377d4fc/images/tn.png)
 
 ---
 
@@ -149,7 +149,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-crisp](https://github.com/Zenithar/hugo-theme-crisp)
-![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/49a7789f6c652b48906aa12a9f89b0ce52688a19/images/tn.png)
+![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/3e86c5c33246b2fd19f29832755c8385ef25119c/images/tn.png)
 
 ---
 
@@ -208,13 +208,18 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
+![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/3aabdde6737039ede492c7df1b1924a9f74d8416/images/tn.png)
+
+---
+
 ## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
 ![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/8aed1451d3cb2d99e2be3065dd1a9ea2971f6344/images/tn.png)
 
 ---
 
-## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
-![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/3aabdde6737039ede492c7df1b1924a9f74d8416/images/tn.png)
+## [hugo-zen](https://github.com/rakuishi/hugo-zen)
+![rakuishi/hugo-zen](https://raw.githubusercontent.com/rakuishi/hugo-zen/cfe8995d7ef33e21ea4ef26441603722fa5b12bc/images/tn.png)
 
 ---
 
@@ -223,13 +228,13 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
-## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d744d7b357fa98cbe933cd64582a7a6045d8a955/images/tn.png)
+## [hyde](https://github.com/spf13/hyde)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1bb0a5b332b24c810a4635a63d20d87602620df0/images/tn.png)
 
 ---
 
-## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1bb0a5b332b24c810a4635a63d20d87602620df0/images/tn.png)
+## [hyde-x](https://github.com/zyro/hyde-x)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d744d7b357fa98cbe933cd64582a7a6045d8a955/images/tn.png)
 
 ---
 
@@ -304,7 +309,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-redlounge](https://github.com/tmaiaroto/hugo-redlounge)
-![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/5bd8c830f3db6f4c6e055b9a811c5f33fc7e8b9e/images/tn.png)
+![tmaiaroto/hugo-redlounge](https://raw.githubusercontent.com/tmaiaroto/hugo-redlounge/f82896be30888f66bb47f6b03b12cefa31c5d6ce/images/tn.png)
 
 ---
 
@@ -319,7 +324,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [simple-a](https://github.com/AlexFinn/simple-a)
-![AlexFinn/simple-a](https://raw.githubusercontent.com/AlexFinn/simple-a/7b590cb38942481f4c73e6a65530977ca4af8a74/images/tn.png)
+![AlexFinn/simple-a](https://raw.githubusercontent.com/AlexFinn/simple-a/36f117755ab8e5e30d150b524aa9346e06ee27fd/images/tn.png)
 
 ---
 
@@ -339,7 +344,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-steam-theme](https://github.com/digitalcraftsman/hugo-steam-theme)
-![digitalcraftsman/hugo-steam-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-steam-theme/b5e9eedaff1b15be27d3620fa72875681c1187d6/images/tn.png)
+![digitalcraftsman/hugo-steam-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-steam-theme/7c570d2fb5a41683c09515be701734a70aad60ed/images/tn.png)
 
 ---
 
