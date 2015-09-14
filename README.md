@@ -129,7 +129,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/a96945b17edd0be631777cd5c1ae1cf22a907b12/images/tn.png)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/22c8662eb47ac0d77f571eba180868c0a32c65c5/images/tn.png)
 
 ---
 
@@ -208,18 +208,18 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
-## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
-![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/3aabdde6737039ede492c7df1b1924a9f74d8416/images/tn.png)
-
----
-
 ## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
 ![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/8aed1451d3cb2d99e2be3065dd1a9ea2971f6344/images/tn.png)
 
 ---
 
-## [hugo-zen](https://github.com/rakuishi/hugo-zen)
-![rakuishi/hugo-zen](https://raw.githubusercontent.com/rakuishi/hugo-zen/cfe8995d7ef33e21ea4ef26441603722fa5b12bc/images/tn.png)
+## [hugoThemes](https://github.com/git@github.com:spf13/hugoThemes)
+*image not available* :hankey:
+
+---
+
+## [hugoscroll](https://github.com/SenjinDarashiva/hugoscroll)
+![SenjinDarashiva/hugoscroll](https://raw.githubusercontent.com/SenjinDarashiva/hugoscroll/3aabdde6737039ede492c7df1b1924a9f74d8416/images/tn.png)
 
 ---
 
@@ -228,13 +228,18 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
-## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1bb0a5b332b24c810a4635a63d20d87602620df0/images/tn.png)
+## [hyde-x](https://github.com/zyro/hyde-x)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d744d7b357fa98cbe933cd64582a7a6045d8a955/images/tn.png)
 
 ---
 
-## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d744d7b357fa98cbe933cd64582a7a6045d8a955/images/tn.png)
+## [hyde-y](https://github.com/enten/hyde-y)
+![enten/hyde-y](https://raw.githubusercontent.com/enten/hyde-y/be4b320af0de09169a7ff4315c082495f2a671db/images/tn.png)
+
+---
+
+## [hyde](https://github.com/spf13/hyde)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1bb0a5b332b24c810a4635a63d20d87602620df0/images/tn.png)
 
 ---
 

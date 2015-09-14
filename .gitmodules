@@ -166,3 +166,6 @@
 [submodule "hugo-zen"]
 	path = hugo-zen
 	url = https://github.com/rakuishi/hugo-zen.git
+[submodule "hyde-y"]
+	path = hyde-y
+	url = https://github.com/enten/hyde-y.git
