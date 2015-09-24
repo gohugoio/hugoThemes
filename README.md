@@ -139,7 +139,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme)
-![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/d36d3aa373212ea37260b964cbc56cb65377d4fc/images/tn.png)
+![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/a8c677a4b48c838e745258fa2d3b4b7a8a3575e1/images/tn.png)
 
 ---
 
@@ -149,7 +149,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-theme-crisp](https://github.com/Zenithar/hugo-theme-crisp)
-![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/3e86c5c33246b2fd19f29832755c8385ef25119c/images/tn.png)
+![Zenithar/hugo-theme-crisp](https://raw.githubusercontent.com/Zenithar/hugo-theme-crisp/e5bec577c2d425a4b644d24792a6345408c1ce10/images/tn.png)
 
 ---
 
@@ -189,7 +189,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-base-theme](https://github.com/crakjie/hugo-base-theme)
-![crakjie/hugo-base-theme](https://raw.githubusercontent.com/crakjie/hugo-base-theme/d67df9b5788c4c42a5549b0f9c9471d9cd4714cb/images/tn.png)
+![crakjie/hugo-base-theme](https://raw.githubusercontent.com/crakjie/hugo-base-theme/f0cbfe2c1b3ccfff9e7d39397a37a112ccecbcb9/images/tn.png)
 
 ---
 
@@ -229,17 +229,17 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hyde-x](https://github.com/zyro/hyde-x)
-![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/d744d7b357fa98cbe933cd64582a7a6045d8a955/images/tn.png)
+![zyro/hyde-x](https://raw.githubusercontent.com/zyro/hyde-x/db6a20d96a9201babaef4da6d773ed60262d4334/images/tn.png)
 
 ---
 
 ## [hyde-y](https://github.com/enten/hyde-y)
-![enten/hyde-y](https://raw.githubusercontent.com/enten/hyde-y/be4b320af0de09169a7ff4315c082495f2a671db/images/tn.png)
+![enten/hyde-y](https://raw.githubusercontent.com/enten/hyde-y/2db1c2ba0162b19e505e1c8f238da24b953d3389/images/tn.png)
 
 ---
 
 ## [hyde](https://github.com/spf13/hyde)
-![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/1bb0a5b332b24c810a4635a63d20d87602620df0/images/tn.png)
+![spf13/hyde](https://raw.githubusercontent.com/spf13/hyde/bf6f0a4426a40ac8e9ebd165797b976733aa5812/images/tn.png)
 
 ---
 
@@ -369,7 +369,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [twentyfourteen](https://github.com/jaden/twentyfourteen)
-![jaden/twentyfourteen](https://raw.githubusercontent.com/jaden/twentyfourteen/ad1be327ace6bbc8b4e8af1026f9c04244c3c9ae/images/tn.png)
+![jaden/twentyfourteen](https://raw.githubusercontent.com/jaden/twentyfourteen/8f2cdc087f9a6d82f7f764c7a2b7e6077032cb1f/images/tn.png)
 
 ---
 
