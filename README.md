@@ -153,6 +153,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-theme-blueberry-detox](https://github.com/allnightgrocery/hugo-theme-blueberry-detox)
+![allnightgrocery/hugo-theme-blueberry-detox](https://raw.githubusercontent.com/allnightgrocery/hugo-theme-blueberry-detox/f3fdcb46679ba3df6355025756880e895a9b2893/images/tn.png)
+
+---
+
 ## [hugo-freelancer-theme](https://github.com/digitalcraftsman/hugo-freelancer-theme)
 ![digitalcraftsman/hugo-freelancer-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-freelancer-theme/483be8fe48ca6847664f8b5ff4044aae67bb4e83/images/tn.png)
 

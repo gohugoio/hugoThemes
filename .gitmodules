@@ -169,3 +169,6 @@
 [submodule "hyde-y"]
 	path = hyde-y
 	url = https://github.com/enten/hyde-y.git
+[submodule "detox"]
+	path = detox
+	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox.git
