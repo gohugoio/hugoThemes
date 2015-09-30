@@ -173,6 +173,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [grid-side](https://github.com/chipsenkbeil/grid-side)
+![chipsenkbeil/grid-side](https://raw.githubusercontent.com/chipsenkbeil/grid-side/56675bc3f98949480bc56b7202ca7de4dff3ff6a/images/tn.png)
+
+---
+
 ## [heather-hugo](https://github.com/hbpasti/heather-hugo)
 ![hbpasti/heather-hugo](https://raw.githubusercontent.com/hbpasti/heather-hugo/e2d185d424e21ab357d10d2afc1e19ecb5c669f0/images/tn.png)
 

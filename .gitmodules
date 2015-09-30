@@ -172,3 +172,6 @@
 [submodule "detox"]
 	path = detox
 	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox.git
+[submodule "grid-side"]
+	path = grid-side
+	url = https://github.com/chipsenkbeil/grid-side.git
