@@ -129,7 +129,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-cactus-theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/22c8662eb47ac0d77f571eba180868c0a32c65c5/images/tn.png)
+![digitalcraftsman/hugo-cactus-theme](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/f227662372eb628788057b1e2dbf97263f66d683/images/tn.png)
 
 ---
 
