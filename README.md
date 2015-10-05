@@ -139,7 +139,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme)
-![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/a8c677a4b48c838e745258fa2d3b4b7a8a3575e1/images/tn.png)
+![nishanths/cocoa-hugo-theme](https://raw.githubusercontent.com/nishanths/cocoa-hugo-theme/223ca294522727e3f710372cef824970e0ddbea8/images/tn.png)
 
 ---
 
@@ -164,7 +164,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [gindoro](https://github.com/cdipaolo/gindoro)
-![cdipaolo/gindoro](https://raw.githubusercontent.com/cdipaolo/gindoro/6420e3beaf72e5ea5d211d7fd1d1c0fd29bfac03/images/tn.png)
+![cdipaolo/gindoro](https://raw.githubusercontent.com/cdipaolo/gindoro/6bfc86bd85d02e524b69aca3bfd134abd5cecab7/images/tn.png)
 
 ---
 
@@ -174,7 +174,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [grid-side](https://github.com/chipsenkbeil/grid-side)
-![chipsenkbeil/grid-side](https://raw.githubusercontent.com/chipsenkbeil/grid-side/56675bc3f98949480bc56b7202ca7de4dff3ff6a/images/tn.png)
+![chipsenkbeil/grid-side](https://raw.githubusercontent.com/chipsenkbeil/grid-side/d3846256bb43410ddcd0288a60884506abeb42ff/images/tn.png)
 
 ---
 
@@ -199,7 +199,7 @@ The README file serves double purposes. It is used on GitHub as the content for 
 ---
 
 ## [hugo-base-theme](https://github.com/crakjie/hugo-base-theme)
-![crakjie/hugo-base-theme](https://raw.githubusercontent.com/crakjie/hugo-base-theme/f0cbfe2c1b3ccfff9e7d39397a37a112ccecbcb9/images/tn.png)
+![crakjie/hugo-base-theme](https://raw.githubusercontent.com/crakjie/hugo-base-theme/2d7c110fd6464714b36f4a663aaa2cf54e6a1397/images/tn.png)
 
 ---
 
