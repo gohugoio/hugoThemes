@@ -218,6 +218,11 @@ The README file serves double purposes. It is used on GitHub as the content for 
 
 ---
 
+## [hugo-multi-bootswatch](https://github.com/mpas/hugo-multi-bootswatch)
+![mpas/hugo-multi-bootswatch](https://raw.githubusercontent.com/mpas/hugo-multi-bootswatch/644c4d0c1e22ff9fdaf2ff4b74e2a0f7807afc2e/images/tn.png)
+
+---
+
 ## [hugo-uno](https://github.com/SenjinDarashiva/hugo-uno)
 ![SenjinDarashiva/hugo-uno](https://raw.githubusercontent.com/SenjinDarashiva/hugo-uno/8aed1451d3cb2d99e2be3065dd1a9ea2971f6344/images/tn.png)
 
