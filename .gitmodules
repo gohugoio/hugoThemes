@@ -178,3 +178,6 @@
 [submodule "hugo-multi-bootswatch"]
 	path = hugo-multi-bootswatch
 	url = https://github.com/mpas/hugo-multi-bootswatch.git
+[submodule "hugo-mdl"]
+	path = hugo-mdl
+	url = https://github.com/jchatkinson/HugoMDL.git
