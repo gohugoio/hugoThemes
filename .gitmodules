@@ -184,3 +184,6 @@
 [submodule "hugo-icarus"]
 	path = hugo-icarus
 	url = https://github.com/digitalcraftsman/hugo-icarus-theme.git
+[submodule "hugo-minimalist"]
+	path = hugo-minimalist
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
