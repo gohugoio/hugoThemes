@@ -187,3 +187,6 @@
 [submodule "hugo-minimalist"]
 	path = hugo-minimalist
 	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/mmrath/hugo-bootstrap.git
