@@ -18,7 +18,7 @@ Every theme in this list will automatically be added to the theme site.
 
 If you would like to install all of the available Hugo themes, simply clone the entire repository from within your working directory with this command:
 
-    git clone --recursive https://github.com/spf13/hugoThemes.git themes
+    git clone --depth 1 --recursive https://github.com/spf13/hugoThemes.git themes
 
 ## Installing a single theme
 
