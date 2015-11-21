@@ -190,3 +190,6 @@
 [submodule "bootstrap"]
 	path = bootstrap
 	url = https://github.com/mmrath/hugo-bootstrap.git
+[submodule "allegiant"]
+	path = allegiant
+	url = https://github.com/brycematheson/allegiant.git
