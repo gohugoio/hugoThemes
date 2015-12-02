@@ -193,3 +193,6 @@
 [submodule "freelancer"]
 	path = freelancer
 	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git
+[submodule "ghostwriter"]
+	path = ghostwriter
+	url = https://github.com/jbub/ghostwriter.git
