@@ -196,3 +196,6 @@
 [submodule "ghostwriter"]
 	path = ghostwriter
 	url = https://github.com/jbub/ghostwriter.git
+[submodule "github-project-landing-page"]
+	path = github-project-landing-page
+	url = https://github.com/oarrabi/github-project-landing-page.git
