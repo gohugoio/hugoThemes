@@ -109,9 +109,6 @@
 [submodule "crisp"]
 	path = crisp
 	url = https://github.com/Zenithar/hugo-theme-crisp
-[submodule "freelancer"]
-	path = freelancer
-	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git
 [submodule "creative"]
 	path = creative
 	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
@@ -193,3 +190,6 @@
 [submodule "allegiant"]
 	path = allegiant
 	url = https://github.com/brycematheson/allegiant.git
+[submodule "freelancer"]
+	path = freelancer
+	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git
