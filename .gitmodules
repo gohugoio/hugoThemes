@@ -202,3 +202,6 @@
 [submodule "github-project-landing-page"]
 	path = github-project-landing-page
 	url = https://github.com/oarrabi/github-project-landing-page.git
+[submodule "base16"]
+	path = base16
+	url = https://github.com/htdvisser/hugo-base16-theme.git
