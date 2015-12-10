@@ -196,3 +196,6 @@
 [submodule "ghostwriter"]
 	path = ghostwriter
 	url = https://github.com/jbub/ghostwriter.git
+[submodule "base16"]
+	path = base16
+	url = https://github.com/htdvisser/hugo-base16-theme.git
