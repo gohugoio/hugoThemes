@@ -79,9 +79,6 @@
 [submodule "hurock"]
 	path = hurock
 	url = https://github.com/TiTi/hurock
-[submodule "poopshow"]
-	path = poopshow
-	url = https://github.com/esell/poopshow.git
 [submodule "greyshade"]
 	path = greyshade
 	url = https://github.com/cxfksword/greyshade.git
