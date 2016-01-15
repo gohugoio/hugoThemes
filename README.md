@@ -8,7 +8,7 @@ hugoThemes
 
 All Themes Hugo
 
-See a complete listing of all of these themes along with screenshots and demos at http://themes.gohugo.io/.
+See a complete listing of all of these themes along with screenshots and demos at [themes.gohugo.io](http://themes.gohugo.io/).
 
 Every theme in this list will automatically be added to the theme site.
 
@@ -91,4 +91,4 @@ Additional media may be provided in that same directory.
 
 ## README
 
-The README file serves double purposes. It is used on GitHub as the content for the main page. It is also used as the content on the detailed theme view page for themes.gohugo.io. It should be in Markdown format and called `README.md`.
+The README file serves double purposes. It is used on GitHub as the content for the main page. It is also used as the content on the detailed theme view page for [themes.gohugo.io](http://themes.gohugo.io/). It should be in Markdown format and called `README.md`.
