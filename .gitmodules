@@ -205,3 +205,6 @@
 [submodule "slender"]
 	path = slender
 	url = https://github.com/CrimsonRay/slender.git
+[submodule "hugo-plus"]
+	path = hugo-plus
+	url = https://github.com/H4tch/hugo-plus.git
