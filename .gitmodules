@@ -208,3 +208,6 @@
 [submodule "hugo-plus"]
 	path = hugo-plus
 	url = https://github.com/H4tch/hugo-plus.git
+[submodule "aurora"]
+	path = aurora
+	url = https://github.com/coryshaw/hugo-aurora-theme.git
