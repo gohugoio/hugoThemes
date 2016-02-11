@@ -220,3 +220,6 @@
 [submodule "geo"]
 	path = geo
 	url = https://github.com/alexurquhart/hugo-geo.git
+[submodule "blackburn"]
+	path = blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
