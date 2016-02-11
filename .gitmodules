@@ -218,7 +218,7 @@
 	path = type
 	url = git://github.com/digitalcraftsman/hugo-type-theme.git
 [submodule "geo"]
-	path = geo
+	path = hugo-geo
 	url = https://github.com/alexurquhart/hugo-geo.git
 [submodule "blackburn"]
 	path = blackburn
