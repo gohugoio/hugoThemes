@@ -223,3 +223,6 @@
 [submodule "blackburn"]
 	path = blackburn
 	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "hugo-octopress"]
+	path = hugo-octopress
+	url = https://github.com/parsiya/Hugo-Octopress
