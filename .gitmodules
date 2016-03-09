@@ -226,3 +226,6 @@
 [submodule "hugo-octopress"]
 	path = hugo-octopress
 	url = https://github.com/parsiya/Hugo-Octopress
+[submodule "material-docs"]
+	path = material-docs
+	url = git@github.com:digitalcraftsman/hugo-material-docs.git
