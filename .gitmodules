@@ -228,4 +228,4 @@
 	url = https://github.com/parsiya/Hugo-Octopress
 [submodule "material-docs"]
 	path = material-docs
-	url = git@github.com:digitalcraftsman/hugo-material-docs.git
+	url = https://github.com/digitalcraftsman/hugo-material-docs.git
