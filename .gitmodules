@@ -232,3 +232,6 @@
 [submodule "internet-weblog"]
 	path = internet-weblog
 	url = https://github.com/jnjosh/internet-weblog.git
+[submodule "hugo-phlat-theme"]
+	path = hugo-phlat-theme
+	url = https://github.com/nraboy/hugo-phlat-theme
