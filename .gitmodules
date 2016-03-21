@@ -238,3 +238,6 @@
 [submodule "beautifulhugo"]
 	path = beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "future-imperfect"]
+	path = future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
