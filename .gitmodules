@@ -235,3 +235,6 @@
 [submodule "hugo-phlat-theme"]
 	path = hugo-phlat-theme
 	url = https://github.com/nraboy/hugo-phlat-theme
+[submodule "hugo-future-imperfect"]
+	path = hugo-future-imperfect
+	url = git@github.com:jpescador/hugo-future-imperfect.git
