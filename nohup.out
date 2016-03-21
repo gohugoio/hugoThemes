@@ -1,0 +1,3 @@
+QProcess::start: Process is already running
+QProcess::start: Process is already running
+2016-03-21 15:55:30.254 LiteIDE[9339:39518] modalSession has been exited prematurely - check for a reentrant call to endModalSession:
