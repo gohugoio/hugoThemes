@@ -241,3 +241,6 @@
 [submodule "future-imperfect"]
 	path = future-imperfect
 	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "hugo-pacman-theme"]
+	path = hugo-pacman-theme
+	url = https://github.com/coderzh/hugo-pacman-theme.git
