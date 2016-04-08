@@ -244,3 +244,6 @@
 [submodule "hugo-pacman-theme"]
 	path = hugo-pacman-theme
 	url = https://github.com/coderzh/hugo-pacman-theme.git
+[submodule "hugo-identity-theme"]
+	path = hugo-identity-theme
+	url = https://github.com/aerohub/hugo-identity-theme.git
