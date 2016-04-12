@@ -247,3 +247,6 @@
 [submodule "hugo-identity-theme"]
 	path = hugo-identity-theme
 	url = https://github.com/aerohub/hugo-identity-theme.git
+[submodule "hugo-theme-learn"]
+	path = hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
