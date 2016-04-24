@@ -253,3 +253,6 @@
 [submodule "hugo-darkdoc-theme"]
 	path = hugo-darkdoc-theme
 	url = https://github.com/adejoux/hugo-darkdoc-theme.git
+[submodule "hugo-bootstrap-premium"]
+	path = hugo-bootstrap-premium
+	url = https://github.com/appernetic/hugo-bootstrap-premium.git
