@@ -256,3 +256,6 @@
 [submodule "hugo-bootstrap-premium"]
 	path = hugo-bootstrap-premium
 	url = https://github.com/appernetic/hugo-bootstrap-premium.git
+[submodule "hugo-academic"]
+	path = hugo-academic
+	url = https://github.com/gcushen/hugo-academic.git
