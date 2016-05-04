@@ -259,3 +259,6 @@
 [submodule "hugo-academic"]
 	path = hugo-academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "hugo-theme-geppaku"]
+	path = hugo-theme-geppaku
+	url = https://github.com/masa0221/hugo-theme-geppaku.git
