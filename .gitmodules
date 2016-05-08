@@ -262,3 +262,6 @@
 [submodule "hugo-theme-geppaku"]
 	path = hugo-theme-geppaku
 	url = https://github.com/masa0221/hugo-theme-geppaku.git
+[submodule "hugo-lithium-theme"]
+	path = hugo-lithium-theme
+	url = https://github.com/jrutheiser/hugo-lithium-theme.git
