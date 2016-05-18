@@ -265,3 +265,6 @@
 [submodule "hugo-lithium-theme"]
 	path = hugo-lithium-theme
 	url = https://github.com/jrutheiser/hugo-lithium-theme.git
+[submodule "hugo-theme-arch"]
+	path = hugo-theme-arch
+	url = https://github.com/syui/hugo-theme-arch
