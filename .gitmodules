@@ -268,3 +268,6 @@
 [submodule "hugo-theme-arch"]
 	path = hugo-theme-arch
 	url = https://github.com/syui/hugo-theme-arch
+[submodule "Shapez-Theme"]
+	path = Shapez-Theme
+	url = https://github.com/djuelg/Shapez-Theme
