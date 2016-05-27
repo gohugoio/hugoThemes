@@ -199,9 +199,6 @@
 [submodule "github-project-landing-page"]
 	path = github-project-landing-page
 	url = https://github.com/oarrabi/github-project-landing-page.git
-[submodule "slender"]
-	path = slender
-	url = https://github.com/CrimsonRay/slender.git
 [submodule "hugo-plus"]
 	path = hugo-plus
 	url = https://github.com/H4tch/hugo-plus.git
