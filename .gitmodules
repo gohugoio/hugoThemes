@@ -268,3 +268,6 @@
 [submodule "Shapez-Theme"]
 	path = Shapez-Theme
 	url = https://github.com/djuelg/Shapez-Theme
+[submodule "hugo-alabaster-theme"]
+	path = hugo-alabaster-theme
+	url = https://github.com/digitalcraftsman/hugo-alabaster-theme
