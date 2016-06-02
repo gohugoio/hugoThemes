@@ -271,3 +271,6 @@
 [submodule "hugo-alabaster-theme"]
 	path = hugo-alabaster-theme
 	url = https://github.com/digitalcraftsman/hugo-alabaster-theme
+[submodule "hugo-theme-wave"]
+	path = hugo-theme-wave
+	url = https://gitlab.com/syui/hugo-theme-wave.git
