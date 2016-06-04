@@ -274,3 +274,6 @@
 [submodule "hugo-theme-wave"]
 	path = hugo-theme-wave
 	url = https://github.com/syui/hugo-theme-wave
+[submodule "highlights"]
+	path = highlights
+	url = https://github.com/schmanat/hugo-highlights-theme.git
