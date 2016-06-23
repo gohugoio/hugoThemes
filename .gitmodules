@@ -277,3 +277,6 @@
 [submodule "highlights"]
 	path = highlights
 	url = https://github.com/schmanat/hugo-highlights-theme.git
+[submodule "would-have-been-cool-in-the-80s"]
+	path = would-have-been-cool-in-the-80s
+	url = https://github.com/pedrodude/would-have-been-cool-in-the-80s.git
