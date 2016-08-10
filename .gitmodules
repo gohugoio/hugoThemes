@@ -283,3 +283,6 @@
 [submodule "hugo-dgraph-theme"]
 	path = hugo-dgraph-theme
 	url = https://github.com/dgraph-io/hugo-dgraph-theme
+[submodule "paperback"]
+	path = paperback
+	url = https://github.com/damiencaselli/paperback
