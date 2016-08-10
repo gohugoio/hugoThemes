@@ -280,3 +280,6 @@
 [submodule "would-have-been-cool-in-the-80s"]
 	path = would-have-been-cool-in-the-80s
 	url = https://github.com/pedrodude/would-have-been-cool-in-the-80s.git
+[submodule "hugo-dgraph-theme"]
+	path = hugo-dgraph-theme
+	url = https://github.com/dgraph-io/hugo-dgraph-theme
