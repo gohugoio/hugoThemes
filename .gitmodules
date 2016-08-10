@@ -286,3 +286,6 @@
 [submodule "paperback"]
 	path = paperback
 	url = https://github.com/damiencaselli/paperback
+[submodule "hugo-universal-theme"]
+	path = hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
