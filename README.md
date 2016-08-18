@@ -14,8 +14,7 @@ If you would like to install all of the available Hugo themes, simply clone the 
 
 ## Installing a single theme
 
-<pre><code>
-cd themes
+<pre><code>cd themes
 git clone <em>URL_TO_THEME</em>
 </code></pre>
 
@@ -28,7 +27,9 @@ git clone <em>URL_TO_THEME</em>
 * Add `/images/screenshot.png` and `/images/tn.png` (see below);
 * Open up a new Issue with a link to the theme's repository on GitHub.
 
-If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`. **NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. It mirrors the root directory of a Hugo website and allows you to add custom content, assets and a config file with preset values
+If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`.
+
+**NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. It mirrors the root directory of a Hugo website and allows you to add custom content, assets and a config file with preset values
 
 See [Artist theme's exampleSite](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example. And please make the site's content as neutral as possible.
 
@@ -88,3 +89,5 @@ Additional media may be provided in that same directory.
 ## README
 
 The README file serves double purposes. It is used on GitHub as the content for the main page. It is also used as the content on the detailed theme view page for [themes.gohugo.io](http://themes.gohugo.io/). It should be written in Markdown and called `README.md`.
+
+**Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. This works great on GitHub but those relative paths don't correspond to the directory structure of [themes.gohugo.io](http://themes.gohugo.io/).
