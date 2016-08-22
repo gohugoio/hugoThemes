@@ -3,6 +3,11 @@
 
 A collection of all themes that were created by the Hugo community. See a complete listing of all of these themes along with screenshots and demos at [themes.gohugo.io](http://themes.gohugo.io/). Every theme in this list will automatically be added to the theme site.
 
+## Build script
+
+For the curious,
+[here's how](https://github.com/spf13/hugoThemeSiteScript/blob/master/generateThemeSite.sh)
+this automatic adding is accomplished.
 
 # Installation
 
