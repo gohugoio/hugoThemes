@@ -29,16 +29,16 @@ git clone <em>URL_TO_THEME</em>
 
 If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`.
 
-**NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. It mirrors the root directory of a Hugo website and allows you to add custom content, assets and a config file with preset values
+**NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. It mirrors the root directory of a Hugo website and allows you to add custom content, assets and a config file with preset values.
 
 See [Artist theme's exampleSite](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example. And please make the site's content as neutral as possible.
 
 Each theme needs:
 
-1. to be added to the hugoThemes repo;
-2. to have the right fields in `theme.toml`;
-3. to have the right images;
-4. a good README.
+1. To be added to the hugoThemes repo;
+1. To have the right fields in `theme.toml`;
+1. To have the right images; and
+1. A good README.
 
 ## theme.toml
 
@@ -88,6 +88,12 @@ Additional media may be provided in that same directory.
 
 ## README
 
-The README file serves double purposes. It is used on GitHub as the content for the main page. It is also used as the content on the detailed theme view page for [themes.gohugo.io](http://themes.gohugo.io/). It should be written in Markdown and called `README.md`.
+Your theme's README file
+(which should be written in Markdown and called `README.md`)
+serves a double purpose.
+This is because its content will appear in two places&mdash;i.e., it will appear:
+
+1. On your theme's details page at [themes.gohugo.io](http://themes.gohugo.io/); and
+1. At GitHub (as usual), on your theme's regular main page.
 
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. This works great on GitHub but those relative paths don't correspond to the directory structure of [themes.gohugo.io](http://themes.gohugo.io/).
