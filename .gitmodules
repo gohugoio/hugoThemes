@@ -289,3 +289,6 @@
 [submodule "hugo-universal-theme"]
 	path = hugo-universal-theme
 	url = https://github.com/devcows/hugo-universal-theme
+[submodule "hugrid"]
+	path = hugrid
+	url = https://github.com/aerohub/hugrid
