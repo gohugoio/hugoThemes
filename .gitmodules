@@ -295,3 +295,6 @@
 [submodule "hugo-finite"]
 	path = hugo-finite
 	url = https://github.com/lambdafu/hugo-finite
+[submodule "lunancy"]
+	path = lunancy
+	url = https://github.com/christat/Lunacy
