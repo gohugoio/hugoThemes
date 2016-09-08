@@ -91,7 +91,7 @@ Screenshots are used as preview in the list. Make sure that they have the right 
 
 Additional media may be provided in that same directory.
 
-## README
+## README.md
 
 Your theme's README file
 (which should be written in Markdown and called `README.md`)
