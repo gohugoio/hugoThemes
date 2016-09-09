@@ -310,3 +310,6 @@
 [submodule "anybodyhome"]
 	path = anybodyhome
 	url = https://github.com/lasseborly/anybodyhome
+[submodule "hugo-theme-vec"]
+	path = hugo-theme-vec
+	url = https://github.com/IvanChou/hugo-theme-vec
