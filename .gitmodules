@@ -313,3 +313,6 @@
 [submodule "hugo-theme-vec"]
 	path = hugo-theme-vec
 	url = https://github.com/IvanChou/hugo-theme-vec
+[submodule "martial-paper"]
+	path = martial-paper
+	url = https://github.com/pedrodude/martial-paper
