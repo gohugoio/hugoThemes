@@ -319,3 +319,6 @@
 [submodule "after-dark"]
 	path = after-dark
 	url = https://github.com/comfusion/after-dark
+[submodule "hugo-faq-theme"]
+	path = hugo-faq-theme
+	url = https://github.com/aerohub/hugo-faq-theme
