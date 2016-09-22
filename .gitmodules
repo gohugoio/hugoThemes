@@ -322,3 +322,6 @@
 [submodule "hugo-faq-theme"]
 	path = hugo-faq-theme
 	url = https://github.com/aerohub/hugo-faq-theme
+[submodule "hemingway"]
+	path = hemingway
+	url = https://github.com/tanksuzuki/hemingway
