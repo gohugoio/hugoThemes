@@ -325,3 +325,6 @@
 [submodule "hemingway"]
 	path = hemingway
 	url = https://github.com/tanksuzuki/hemingway
+[submodule "hugo-orbit-theme"]
+	path = hugo-orbit-theme
+	url = https://github.com/aerohub/hugo-orbit-theme
