@@ -328,3 +328,6 @@
 [submodule "hugo-orbit-theme"]
 	path = hugo-orbit-theme
 	url = https://github.com/aerohub/hugo-orbit-theme
+[submodule "hugo_theme_solit"]
+	path = hugo_theme_solit
+	url = https://github.com/dim0627/hugo_theme_solit
