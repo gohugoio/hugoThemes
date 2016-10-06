@@ -331,3 +331,6 @@
 [submodule "hugo_theme_solit"]
 	path = hugo_theme_solit
 	url = https://github.com/dim0627/hugo_theme_solit
+[submodule "hugo-theme-nix"]
+	path = hugo-theme-nix
+	url = https://github.com/LordMathis/hugo-theme-nix
