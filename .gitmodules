@@ -334,3 +334,6 @@
 [submodule "hugo-theme-nix"]
 	path = hugo-theme-nix
 	url = https://github.com/LordMathis/hugo-theme-nix
+[submodule "hugo-goa"]
+	path = hugo-goa
+	url = https://github.com/shenoybr/hugo-goa
