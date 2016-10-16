@@ -337,3 +337,6 @@
 [submodule "hugo-goa"]
 	path = hugo-goa
 	url = https://github.com/shenoybr/hugo-goa
+[submodule "blank"]
+	path = blank
+	url = https://github.com/vimux/blank
