@@ -340,3 +340,6 @@
 [submodule "blank"]
 	path = blank
 	url = https://github.com/vimux/blank
+[submodule "hugo-smpl-theme"]
+	path = hugo-smpl-theme
+	url = https://github.com/christianmendoza/hugo-smpl-theme
