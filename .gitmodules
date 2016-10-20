@@ -343,3 +343,6 @@
 [submodule "hugo-smpl-theme"]
 	path = hugo-smpl-theme
 	url = https://github.com/christianmendoza/hugo-smpl-theme
+[submodule "docuapi"]
+	path = docuapi
+	url = https://github.com/bep/docuapi.git
