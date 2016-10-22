@@ -352,3 +352,6 @@
 [submodule "phugo"]
 	path = phugo
 	url = https://github.com/aerohub/phugo
+[submodule "hugo-sustain"]
+	path = hugo-sustain
+	url = https://github.com/sumaxime/hugo-sustain
