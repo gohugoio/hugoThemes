@@ -349,3 +349,6 @@
 [submodule "hugo-theme-bootstrap4-blog"]
 	path = hugo-theme-bootstrap4-blog
 	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog
+[submodule "phugo"]
+	path = phugo
+	url = https://github.com/aerohub/phugo
