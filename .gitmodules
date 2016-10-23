@@ -355,3 +355,6 @@
 [submodule "hugo-sustain"]
 	path = hugo-sustain
 	url = https://github.com/sumaxime/hugo-sustain
+[submodule "hpstr-hugo-theme"]
+	path = hpstr-hugo-theme
+	url = https://github.com/dldx/hpstr-hugo-theme
