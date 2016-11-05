@@ -358,3 +358,6 @@
 [submodule "hpstr-hugo-theme"]
 	path = hpstr-hugo-theme
 	url = https://github.com/dldx/hpstr-hugo-theme
+[submodule "hugo-privacy-cactus-theme"]
+	path = hugo-privacy-cactus-theme
+	url = https://github.com/lucaspiller/hugo-privacy-cactus-theme.git
