@@ -358,3 +358,6 @@
 [submodule "hpstr-hugo-theme"]
 	path = hpstr-hugo-theme
 	url = https://github.com/dldx/hpstr-hugo-theme
+[submodule "hugo-tranquilpeak-theme"]
+	path = hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme
