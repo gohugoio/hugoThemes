@@ -361,3 +361,6 @@
 [submodule "hugo-tranquilpeak-theme"]
 	path = hugo-tranquilpeak-theme
 	url = https://github.com/kakawait/hugo-tranquilpeak-theme
+[submodule "hugo-creative-portfolio-theme"]
+	path = hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
