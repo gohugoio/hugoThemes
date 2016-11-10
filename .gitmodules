@@ -364,3 +364,6 @@
 [submodule "hugo-creative-portfolio-theme"]
 	path = hugo-creative-portfolio-theme
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
+[submodule "light-hugo"]
+	path = light-hugo
+	url = https://github.com/tblyler/light-hugo
