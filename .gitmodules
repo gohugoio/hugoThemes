@@ -373,3 +373,6 @@
 [submodule "hugo-frais"]
 	path = hugo-frais
 	url = https://github.com/the2ne/hugo-frais
+[submodule "slender"]
+	path = slender
+	url = https://github.com/Eisenbarth/slender
