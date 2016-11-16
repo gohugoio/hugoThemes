@@ -367,3 +367,6 @@
 [submodule "light-hugo"]
 	path = light-hugo
 	url = https://github.com/tblyler/light-hugo
+[submodule "hugo-sp-minimal"]
+	path = hugo-sp-minimal
+	url = https://github.com/eueung/hugo-sp-minimal
