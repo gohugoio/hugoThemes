@@ -379,3 +379,6 @@
 [submodule "hugo-elate-theme"]
 	path = hugo-elate-theme
 	url = https://github.com/saey55/hugo-elate-theme
+[submodule "gohugo-amp"]
+	path = gohugo-amp
+	url = https://github.com/wildhaber/gohugo-amp
