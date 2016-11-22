@@ -382,3 +382,6 @@
 [submodule "gohugo-amp"]
 	path = gohugo-amp
 	url = https://github.com/wildhaber/gohugo-amp
+[submodule "hugo-hello-programmer-theme"]
+	path = hugo-hello-programmer-theme
+	url = https://github.com/lubang/hugo-hello-programmer-theme
