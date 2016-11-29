@@ -388,3 +388,6 @@
 [submodule "mtl-pure"]
 	path = mtl-pure
 	url = https://github.com/nrechn/mtl-pure
+[submodule "yume"]
+	path = yume
+	url = https://github.com/nrechn/yume
