@@ -391,3 +391,6 @@
 [submodule "yume"]
 	path = yume
 	url = https://github.com/nrechn/yume
+[submodule "nixon"]
+	path = nixon
+	url = https://github.com/mdhender/nixon
