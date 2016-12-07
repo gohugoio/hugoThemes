@@ -394,3 +394,6 @@
 [submodule "nixon"]
 	path = nixon
 	url = https://github.com/mdhender/nixon
+[submodule "hugo_eiio"]
+	path = hugo_eiio
+	url = https://github.com/leonhe/hugo_eiio
