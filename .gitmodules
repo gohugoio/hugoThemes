@@ -397,3 +397,6 @@
 [submodule "hugo_eiio"]
 	path = hugo_eiio
 	url = https://github.com/leonhe/hugo_eiio
+[submodule "foundation-theme"]
+	path = foundation-theme
+	url = https://github.com/hdcdstr8fwd/foundation-theme
