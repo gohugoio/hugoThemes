@@ -406,3 +406,6 @@
 [submodule "hugo-theme-foundation6-blog"]
 	path = hugo-theme-foundation6-blog
 	url = https://github.com/htko89/hugo-theme-foundation6-blog
+[submodule "hugo-paper-now"]
+	path = hugo-paper-now
+	url = https://github.com/eueung/hugo-paper-now
