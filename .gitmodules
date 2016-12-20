@@ -213,7 +213,7 @@
 	url = https://github.com/esell/rocktopus.git
 [submodule "type"]
 	path = type
-	url = git://github.com/digitalcraftsman/hugo-type-theme.git
+	url = https://github.com/digitalcraftsman/hugo-type-theme.git
 [submodule "hugo-geo"]
 	path = hugo-geo
 	url = https://github.com/alexurquhart/hugo-geo.git
