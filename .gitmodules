@@ -409,3 +409,6 @@
 [submodule "hugo-paper-now"]
 	path = hugo-paper-now
 	url = https://github.com/eueung/hugo-paper-now
+[submodule "hugo-remark-minion"]
+	path = hugo-remark-minion
+	url = https://github.com/eueung/hugo-remark-minion
