@@ -415,3 +415,6 @@
 [submodule "cocoa-eh-hugo-theme"]
 	path = cocoa-eh-hugo-theme
 	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme
+[submodule "hugo-remark-twemoji"]
+	path = hugo-remark-twemoji
+	url = https://github.com/eueung/hugo-remark-twemoji
