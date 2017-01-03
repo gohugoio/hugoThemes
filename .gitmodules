@@ -418,3 +418,6 @@
 [submodule "hugo-remark-twemoji"]
 	path = hugo-remark-twemoji
 	url = https://github.com/eueung/hugo-remark-twemoji
+[submodule "darksimplicity"]
+	path = darksimplicity
+	url = https://github.com/kritoke/darksimplicity
