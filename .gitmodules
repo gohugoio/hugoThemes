@@ -352,9 +352,6 @@
 [submodule "phugo"]
 	path = phugo
 	url = https://github.com/aerohub/phugo
-[submodule "hugo-sustain"]
-	path = hugo-sustain
-	url = https://github.com/sumaxime/hugo-sustain
 [submodule "hpstr-hugo-theme"]
 	path = hpstr-hugo-theme
 	url = https://github.com/dldx/hpstr-hugo-theme
@@ -421,3 +418,6 @@
 [submodule "darksimplicity"]
 	path = darksimplicity
 	url = https://github.com/kritoke/darksimplicity
+[submodule "hugo-sustain"]
+	path = hugo-sustain
+	url = https://github.com/nurlansu/hugo-sustain
