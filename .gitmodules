@@ -421,3 +421,6 @@
 [submodule "hugo-sustain"]
 	path = hugo-sustain
 	url = https://github.com/nurlansu/hugo-sustain
+[submodule "black-and-light"]
+	path = black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
