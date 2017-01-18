@@ -421,3 +421,6 @@
 [submodule "hugo-sustain"]
 	path = hugo-sustain
 	url = https://github.com/nurlansu/hugo-sustain
+[submodule "hemingway2"]
+	path = hemingway2
+	url = https://github.com/beli3ver/hemingway2
