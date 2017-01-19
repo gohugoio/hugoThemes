@@ -424,3 +424,12 @@
 [submodule "black-and-light"]
 	path = black-and-light
 	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
+[submodule "hemingway2"]
+	path = hemingway2
+	url = https://github.com/beli3ver/hemingway2
+[submodule "prologue"]
+	path = prologue
+	url = https://github.com/sethmacleod/prologue
+[submodule "aerial"]
+	path = aerial
+	url = https://github.com/sethmacleod/aerial
