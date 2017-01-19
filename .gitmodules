@@ -427,3 +427,6 @@
 [submodule "prologue"]
 	path = prologue
 	url = https://github.com/sethmacleod/prologue
+[submodule "aerial"]
+	path = aerial
+	url = https://github.com/sethmacleod/aerial
