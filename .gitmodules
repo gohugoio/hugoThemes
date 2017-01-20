@@ -433,3 +433,6 @@
 [submodule "aerial"]
 	path = aerial
 	url = https://github.com/sethmacleod/aerial
+[submodule "dimension"]
+	path = dimension
+	url = https://github.com/sethmacleod/dimension
