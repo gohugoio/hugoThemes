@@ -382,12 +382,6 @@
 [submodule "hugo-hello-programmer-theme"]
 	path = hugo-hello-programmer-theme
 	url = https://github.com/lubang/hugo-hello-programmer-theme
-[submodule "mtl-pure"]
-	path = mtl-pure
-	url = https://github.com/nrechn/mtl-pure
-[submodule "yume"]
-	path = yume
-	url = https://github.com/nrechn/yume
 [submodule "nixon"]
 	path = nixon
 	url = https://github.com/mdhender/nixon
