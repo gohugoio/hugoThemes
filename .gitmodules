@@ -436,3 +436,6 @@
 [submodule "sofya"]
 	path = sofya
 	url = https://github.com/jonathondilworth/sofya
+[submodule "hugo-code-editor-theme"]
+	path = hugo-code-editor-theme
+	url = https://github.com/aubm/hugo-code-editor-theme
