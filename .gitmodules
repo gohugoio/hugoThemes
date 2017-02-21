@@ -442,3 +442,6 @@
 [submodule "plain-blog"]
 	path = plain-blog
 	url = https://github.com/LiaungYip/plain-blog
+[submodule "retrofulhugo"]
+	path = retrofulhugo
+	url = https://github.com/5ARMALE/retrofulhugo
