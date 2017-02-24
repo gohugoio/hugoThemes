@@ -448,3 +448,6 @@
 [submodule "hugo-theme-minos"]
 	path = hugo-theme-minos
 	url = https://github.com/carsonip/hugo-theme-minos
+[submodule "hugo-tracks-theme"]
+	path = hugo-tracks-theme
+	url = https://github.com/ageekymonk/hugo-tracks-theme
