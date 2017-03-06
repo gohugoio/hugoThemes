@@ -451,3 +451,6 @@
 [submodule "hugo-tracks-theme"]
 	path = hugo-tracks-theme
 	url = https://github.com/ageekymonk/hugo-tracks-theme
+[submodule "hucore"]
+	path = hucore
+	url = https://github.com/mgjohansen/hucore
