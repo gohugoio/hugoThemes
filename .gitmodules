@@ -451,3 +451,6 @@
 [submodule "hucore"]
 	path = hucore
 	url = https://github.com/mgjohansen/hucore
+[submodule "crab"]
+	path = crab
+	url = https://github.com/thomasheller/crab
