@@ -454,3 +454,6 @@
 [submodule "crab"]
 	path = crab
 	url = https://github.com/thomasheller/crab
+[submodule "hugo-theme-introduction"]
+	path = hugo-theme-introduction
+	url = https://github.com/vickylaixy/hugo-theme-introduction
