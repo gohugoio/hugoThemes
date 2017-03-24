@@ -164,7 +164,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
-            hugo --quiet -s exampleSite2 -d ../themeSite/static/theme/$x/ --canonifyURLs=true -t $x -b $BASEURL/theme/$x/
+            ${HUGO} --quiet -s exampleSite2 -d ../themeSite/static/theme/$x/ --canonifyURLs=true -t $x -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
                 errorCounter=$((errorCounter + 1))
@@ -191,7 +191,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             cat themeSite/templates/${paramsConfig} >>${themeConfig}
 
             echo "Building site for theme ${x} using config ${themeConfig}"
-            hugo --quiet -s exampleSite --config=${themeConfig} --canonifyURLs=true -d ../themeSite/static/theme/$x/ -t $x -b $BASEURL/theme/$x/
+            ${HUGO} --quiet -s exampleSite --config=${themeConfig} --canonifyURLs=true -d ../themeSite/static/theme/$x/ -t $x -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
                 errorCounter=$((errorCounter + 1))
