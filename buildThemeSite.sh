@@ -7,4 +7,10 @@ cd _script
 
 ./generateThemeSite.sh
 
+echo "Building site to public ..."
+
+hugo --quiet -s hugoThemeSite/themeSite
+
 cd ..
+
+echo "Done!"
