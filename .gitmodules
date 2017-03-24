@@ -457,3 +457,6 @@
 [submodule "hugo-theme-introduction"]
 	path = hugo-theme-introduction
 	url = https://github.com/vickylaixy/hugo-theme-introduction
+[submodule "hugo-theme-zen"]
+	path = hugo-theme-zen
+	url = https://github.com/frjo/hugo-theme-zen
