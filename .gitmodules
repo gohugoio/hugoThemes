@@ -392,7 +392,7 @@
 	path = mainroad
 	url = https://github.com/Vimux/mainroad
 [submodule "hugo-theme-foundation6-blog"]
-	path = hugo-theme-foundation6-blog
+	path = hugo-theme-foundation6
 	url = https://github.com/htko89/hugo-theme-foundation6-blog
 [submodule "hugo-paper-now"]
 	path = hugo-paper-now
