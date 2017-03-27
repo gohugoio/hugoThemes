@@ -98,7 +98,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/spf13/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'purehugo')
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'purehugo', "hugo-theme-arch")
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
@@ -146,11 +146,13 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	echo "lastmod = \"$themeUpdated\"" >>themeSite/content/$x.md
 
 	echo "source = \"$repo\"" >>themeSite/content/$x.md
-
+	
+	demoDestination="../themeSite/static/theme/$x/"
+            
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
-            # Use content and config in exampleSite
-            echo "Building site for theme ${x} using its own exampleSite"
+        	# Use content and config in exampleSite
+            echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
 
             # Hugo should exit with an error code on these ...
             if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
@@ -164,10 +166,12 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
-            ${HUGO} --quiet -s exampleSite2 -d ../themeSite/static/theme/$x/ --canonifyURLs=true -t $x -b $BASEURL/theme/$x/
+            destionation="../themeSite/static/theme/$x/"
+            ${HUGO} --quiet -s exampleSite2 -d ${demoDestination} --canonifyURLs=true -t $x -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
                 errorCounter=$((errorCounter + 1))
+                rm -rf ${demoDestination}
                 generateDemo=false
             fi
             rm ${siteDir}/exampleSite2/themes
@@ -190,10 +194,11 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             cat themeSite/templates/${baseConfig} >${themeConfig}
             cat themeSite/templates/${paramsConfig} >>${themeConfig}
 
-            echo "Building site for theme ${x} using config ${themeConfig}"
-            ${HUGO} --quiet -s exampleSite --config=${themeConfig} --canonifyURLs=true -d ../themeSite/static/theme/$x/ -t $x -b $BASEURL/theme/$x/
+            echo "Building site for theme ${x} using config ${themeConfig} to ${demoDestination}"
+            ${HUGO} --quiet -s exampleSite --config=${themeConfig} --canonifyURLs=true -d ${demoDestination} -t $x -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
+                rm -rf ${demoDestination}
                 errorCounter=$((errorCounter + 1))
                 generateDemo=false
             fi
