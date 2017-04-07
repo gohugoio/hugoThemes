@@ -463,3 +463,6 @@
 [submodule "bulma"]
 	path = bulma
 	url = https://github.com/jeblister/bulma
+[submodule "hugo-fabric"]
+	path = hugo-fabric
+	url = https://github.com/wd/hugo-fabric
