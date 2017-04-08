@@ -110,7 +110,7 @@ noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-theme-l
 
 errorCounter=0
 
-for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -not -path "*_script" | xargs basename`; do
+for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -not -path "*_script" | xargs -n1 basename`; do
 
 
 	blacklisted=`echo ${blacklist[*]} | grep "$x"`
