@@ -13,11 +13,13 @@ echo "Using ${HUGO} ..."
 
 cd _script
 
-./generateThemeSite.sh
+BASEURL=${BASEURL:-http://localhost:1313}
 
-echo "Building site to public ..."
+./generateThemeSite.sh ${BASEURL}
 
-${HUGO} --quiet -s hugoThemeSite/themeSite
+echo "Building site to public with baseURL ${BASEURL}..."
+
+${HUGO} --quiet -s hugoThemeSite/themeSite -b ${BASEURL}
 
 cd ..
 
