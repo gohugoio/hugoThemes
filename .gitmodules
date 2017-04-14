@@ -463,3 +463,6 @@
 [submodule "hugo-fabric"]
 	path = hugo-fabric
 	url = https://github.com/wd/hugo-fabric
+[submodule "kube"]
+	path = kube
+	url = https://github.com/jeblister/kube
