@@ -301,9 +301,6 @@
 [submodule "strange-case"]
 	path = strange-case
 	url = https://github.com/ExchangeRate-API/strange-case
-[submodule "hugo-me-theme"]
-	path = hugo-me-theme
-	url = https://github.com/aerohub/hugo-me-theme
 [submodule "amp"]
 	path = amp
 	url = https://github.com/pdevty/amp
