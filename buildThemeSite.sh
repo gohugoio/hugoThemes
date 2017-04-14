@@ -2,14 +2,9 @@
 
 git submodule update --init --recursive
 
-export HUGO="hugo"
+echo "Hugo env:"
 
-if ((${#REPOSITORY_URL[@]})); then
-	# Netlify
-	export HUGO="hugo_0.19"
-fi
-
-echo "Using ${HUGO} ..."
+hugo env
 
 cd _script
 
@@ -19,7 +14,7 @@ BASEURL=${BASEURL:-http://localhost:1313}
 
 echo "Building site to public with baseURL ${BASEURL}..."
 
-${HUGO} --quiet -s hugoThemeSite/themeSite -b ${BASEURL}
+hugo --quiet -s hugoThemeSite/themeSite -b ${BASEURL}
 
 cd ..
 
