@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git submodule update --init --recursive
-
 echo "Hugo env:"
 
 hugo env
