@@ -212,8 +212,12 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	cat ${themesDir}/$x/theme.toml >> themeSite/content/$x.md
 	echo -en "\n+++\n\n" >>themeSite/content/$x.md
 
-	fixReadme ${themesDir}/$x/README.md >> themeSite/content/$x.md
-
+	if [ -f "${themesDir}/$x/README.md" ]; then
+		fixReadme ${themesDir}/$x/README.md >> themeSite/content/$x.md
+	else
+		fixReadme ${themesDir}/$x/readme.md >> themeSite/content/$x.md
+	fi
+		
 	if ((errorCounter > 50)); then
 		echo "FAILED: Too many ($errorCounter) errors!"
 		exit 1
