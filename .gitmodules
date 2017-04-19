@@ -466,3 +466,6 @@
 [submodule "kube"]
 	path = kube
 	url = https://github.com/jeblister/kube
+[submodule "gohugo-theme-ananke"]
+	path = gohugo-theme-ananke
+	url = https://github.com/budparr/gohugo-theme-ananke
