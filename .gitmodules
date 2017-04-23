@@ -469,3 +469,6 @@
 [submodule "gohugo-theme-ananke"]
 	path = gohugo-theme-ananke
 	url = https://github.com/budparr/gohugo-theme-ananke
+[submodule "hugo-dusk"]
+	path = hugo-dusk
+	url = https://github.com/gyorb/hugo-dusk
