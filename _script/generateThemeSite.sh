@@ -98,7 +98,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/spf13/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch", "bootstrap", "robust")
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch", "bootstrap", "robust", "purehugo")
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
