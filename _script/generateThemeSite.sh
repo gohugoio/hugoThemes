@@ -14,8 +14,17 @@ function fixReadme() {
 	# Make images viewable outside GitHub
 	content=$(echo "$content" | perl -p -e 's/github\.com\/(.*?)\/blob\/master\/images/raw\.githubusercontent\.com\/$1\/master\/images/g;')
 	# Tell Hugo not to process shortcode samples
-	content=$(echo "$content" | perl -0pe 's/{{%(.*?)%}}/{{%\/*$1*\/%}}/sg;')
-	content=$(echo "$content" | perl -0pe 's/{{<(.*?)>}}/{{<\/*$1*\/>}}/sg;')
+	content=$(echo "$content" | perl -0pe 's/{{%([^\/].*?)%}}/{{%\/*$1*\/%}}/sg;')
+	content=$(echo "$content" | perl -0pe 's/{{<([^\/].*?)>}}/{{<\/*$1*\/>}}/sg;')
+
+	echo "$content"
+}
+
+function fixThemeTOML() {
+	local content=$(cat $1)
+
+	# Make sure min_version is string, i.e min_version = 0.20.1 => min_version = "0.20.1"
+	content=$(echo "$content" | perl -pe 's/min_version = (\d\S*)\n/min_version = "$1"\n/sg;')
 
 	echo "$content"
 }
@@ -98,7 +107,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/spf13/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch", "bootstrap", "robust", "purehugo")
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch")
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
@@ -209,7 +218,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 		echo "demo = \"/theme/$x/\"" >> themeSite/content/$x.md
 	fi
 
-	cat ${themesDir}/$x/theme.toml >> themeSite/content/$x.md
+	fixThemeTOML ${themesDir}/$x/theme.toml >> themeSite/content/$x.md
 	echo -en "\n+++\n\n" >>themeSite/content/$x.md
 
 	if [ -f "${themesDir}/$x/README.md" ]; then
