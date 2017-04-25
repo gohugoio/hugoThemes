@@ -8,11 +8,11 @@ cd _script
 
 BASEURL=${BASEURL:-http://localhost:1313}
 
-if ! ./generateThemeSite.sh ${BASEURL}; then exit 1
+./generateThemeSite.sh ${BASEURL} | exit 1
 
 echo "Building site to public with baseURL ${BASEURL}..."
 
-if ! hugo --quiet -s hugoThemeSite/themeSite -b ${BASEURL}; then exit 1
+hugo --quiet -s hugoThemeSite/themeSite -b ${BASEURL} | exit 1
 
 cd ..
 
