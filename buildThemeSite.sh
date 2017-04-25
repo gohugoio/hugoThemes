@@ -17,7 +17,7 @@ fi
 
 echo "Building site to public with baseURL ${BASEURL}..."
 
-hugo -s hugoThemeSite/themeSite -b ${BASEURL}
+hugo --quiet -s hugoThemeSite/themeSite -b ${BASEURL}
 code=$?
 if [ $code -ne 0 ]; then
 	echo "building theme site failed. exit status $code"
