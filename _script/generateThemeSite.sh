@@ -151,6 +151,10 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	popd
 	popd
 
+	if [ -z "$themeCreated" ]; then
+		themeCreated=${themeUpdated}
+	fi
+
 	echo "date = \"$themeCreated\"" >>themeSite/content/$x.md
 	echo "lastmod = \"$themeUpdated\"" >>themeSite/content/$x.md
 
