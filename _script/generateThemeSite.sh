@@ -168,10 +168,6 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
                 echo "Example site for theme ${x} missing /content folder"
                 generateDemo=false
             fi
-            if [ ! -d "${themesDir}/$x/exampleSite/static" ]; then
-                echo "Example site for theme ${x} missing /static folder"
-                generateDemo=false
-            fi
 
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
