@@ -36,8 +36,6 @@ If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme
 
 **NOTE:** The folder name here is important, as this folder will be picked up and used by the script that generates the Hugo Theme Site. It mirrors the root directory of a Hugo website and allows you to add custom content, assets and a config file with preset values.
 
-The build script for the theme site also expects a `static` folder in the `exampleSite` directory. You don't have to populate the folder with assets (unless you want to use specific ones for the demo). To make the folder trackable add an empty file like `.gitkeep`.
-
 See [Artist theme's exampleSite](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example. And please make the site's content as neutral as possible.
 
 Each theme needs:
