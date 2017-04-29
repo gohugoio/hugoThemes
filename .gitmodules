@@ -472,3 +472,6 @@
 [submodule "hugo-dusk"]
 	path = hugo-dusk
 	url = https://github.com/gyorb/hugo-dusk
+[submodule "docdock"]
+	path = docdock
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
