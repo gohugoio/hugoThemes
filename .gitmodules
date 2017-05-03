@@ -475,3 +475,6 @@
 [submodule "docdock"]
 	path = docdock
 	url = https://github.com/vjeantet/hugo-theme-docdock.git
+[submodule "castanet"]
+	path = castanet
+	url = https://github.com/mattstratton/castanet
