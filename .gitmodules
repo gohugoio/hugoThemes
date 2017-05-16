@@ -478,3 +478,6 @@
 [submodule "castanet"]
 	path = castanet
 	url = https://github.com/mattstratton/castanet
+[submodule "osprey"]
+	path = osprey
+	url = https://github.com/tomanistor/osprey
