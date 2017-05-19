@@ -481,3 +481,6 @@
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/tomanistor/osprey
+[submodule "slate"]
+	path = slate
+	url = https://github.com/gesquive/slate.git
