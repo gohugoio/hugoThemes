@@ -481,3 +481,6 @@
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/tomanistor/osprey
+[submodule "BluestNight"]
+	path = BluestNight
+	url = https://github.com/Shadow53/BluestNight
