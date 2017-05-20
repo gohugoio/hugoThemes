@@ -484,3 +484,6 @@
 [submodule "BluestNight"]
 	path = BluestNight
 	url = https://github.com/Shadow53/BluestNight
+[submodule "slate"]
+	path = slate
+	url = https://github.com/gesquive/slate.git
