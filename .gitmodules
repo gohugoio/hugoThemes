@@ -487,3 +487,6 @@
 [submodule "slate"]
 	path = slate
 	url = https://github.com/gesquive/slate.git
+[submodule "minimo"]
+	path = minimo
+	url = https://github.com/MunifTanjim/minimo
