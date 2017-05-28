@@ -40,8 +40,8 @@ popd() {
 }
 
 # Load the repositories from the provided environment variables or our defaults
-HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/spf13/HugoThemesSite.git}
-HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/spf13/HugoBasicExample.git}
+HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/spf13/hugoThemesSite.git}
+HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/spf13/hugoBasicExample.git}
 #HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/spf13/hugoThemes.git}
 
 #echo "Using ${HUGO_THEMES_REPO} for themes"
@@ -68,10 +68,10 @@ pushd hugoThemeSite
 
 if [ -d themeSite ]; then
 	pushd themeSite
-	git pull --rebase
+	git pull --rebase --recurse-submodules origin master
 	popd
 else
-	git clone ${HUGO_THEME_SITE_REPO} themeSite
+	git clone --recursive ${HUGO_THEME_SITE_REPO} themeSite
 fi
 
 if [ -d exampleSite ]; then
