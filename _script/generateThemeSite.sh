@@ -69,6 +69,7 @@ pushd hugoThemeSite
 if [ -d themeSite ]; then
 	pushd themeSite
 	git pull --rebase --recurse-submodules origin master
+	git submodule update --init --recursive
 	popd
 else
 	git clone --recursive ${HUGO_THEME_SITE_REPO} themeSite
