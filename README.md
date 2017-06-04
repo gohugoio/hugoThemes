@@ -47,7 +47,7 @@ Each theme needs:
 
 ## theme.toml
 
-This file contains metadata about the theme and its creator. The following fields are required:
+This file contains metadata about the theme and its creator. **Only `theme.toml` is accepted, not `theme.yaml` or not `theme.json`**. The following fields are required:
 
 ```toml
 name = "Hyde"
@@ -57,7 +57,7 @@ description = "An elegant open source and mobile first theme"
 homepage = "http://siteforthistheme.com/"
 tags = ["blog", "company"]
 features = ["blog", ]
-min_version = 0.13
+min_version = 0.21
 
 [author]
     name = "spf13"
@@ -69,15 +69,6 @@ min_version = 0.13
     homepage = "http://hyde.getpoole.com/"
     repo = "https://www.github.com/mdo/hyde"
 ```
-
-> **Notes:**
->
-> 1. This is different from the file created by `hugo new theme` in the old v0.12.
->    The current Hugo v0.13 does create the same template with the new fields
->    except `min_version` that was added in 0.14-DEV.
->
-> 2. Only `theme.toml` is accepted, not `theme.yaml` or not `theme.json`.
-
 
 ## Media
 
