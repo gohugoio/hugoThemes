@@ -40,9 +40,9 @@ popd() {
 }
 
 # Load the repositories from the provided environment variables or our defaults
-HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/spf13/hugoThemesSite.git}
-HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/spf13/hugoBasicExample.git}
-#HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/spf13/hugoThemes.git}
+HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/gohugoio/hugoThemesSite.git}
+HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/gohugoio/hugoBasicExample.git}
+#HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/gohugoio/hugoThemes.git}
 
 #echo "Using ${HUGO_THEMES_REPO} for themes"
 echo "Using ${HUGO_THEME_SITE_REPO} for theme site"
@@ -107,14 +107,14 @@ fi
 # journal discontinued
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
-# yume: fails to render site for unknown reason, see https://github.com/spf13/hugoThemes/issues/190
+# yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
 blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch")
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
 # hugo-theme-arch: themes generates blank homepage
 # hugo-smpl-theme: Promotional non-Hugo links
-# hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/spf13/hugoThemes/issues/172
+# hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/172
 # hugo-finite: Too big
 noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-theme-learn', 'hugo-finite')
 
