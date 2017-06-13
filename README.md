@@ -1,7 +1,7 @@
 
 # Hugo themes
 
-A collection of all themes that were created by the Hugo community. See a complete listing of all of these themes along with screenshots and demos at [themes.gohugo.io](http://themes.gohugo.io/). Every theme in this list will automatically be added to the theme site. Theme updates aren't scheduled but usually happen at least once a week.
+A collection of all themes that were created by the Hugo community. See a complete listing of all of these themes along with screenshots and demos at [themes.gohugo.io](https://themes.gohugo.io/). Every theme in this list will automatically be added to the theme site. Theme updates aren't scheduled but usually happen at least once a week.
 
 ## Build script
 
@@ -15,7 +15,7 @@ this automatic adding is accomplished.
 
 If you would like to install all of the available Hugo themes, simply clone the entire repository from within your working directory with this command:
 
-    git clone --depth 1 --recursive https://github.com/spf13/hugoThemes.git themes
+    git clone --depth 1 --recursive https://github.com/gohugoio/hugoThemes.git themes
 
 ## Installing a single theme
 
@@ -26,7 +26,7 @@ git clone <em>URL_TO_THEME</em>
 # Adding a theme to the list
 
 * Create your theme using <code>hugo new theme <em>THEMENAME</em></code>;
-* Test your theme against https://github.com/spf13/HugoBasicExample;
+* Test your theme against https://github.com/gohugoio/HugoBasicExample;
 * Add a `theme.toml` file to the root of the theme and add some metadata about the theme;
 * Add a descriptive `README.md` to the root of the theme;
 * Add `/images/screenshot.png` and `/images/tn.png` (see below);
@@ -89,7 +89,7 @@ Your theme's README file
 serves a double purpose.
 This is because its content will appear in two places&mdash;i.e., it will appear:
 
-1. On your theme's details page at [themes.gohugo.io](http://themes.gohugo.io/); and
+1. On your theme's details page at [themes.gohugo.io](https://themes.gohugo.io/); and
 1. At GitHub (as usual), on your theme's regular main page.
 
-**Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](http://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
+**Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](https://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
