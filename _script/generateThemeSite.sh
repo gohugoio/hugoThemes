@@ -139,7 +139,11 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	cp ${themesDir}/$x/images/screenshot.png themeSite/static/images/$x.screenshot.png
 	cp ${themesDir}/$x/images/tn.png themeSite/static/images/$x.tn.png
 
+
+	title=$( echo "${x}" | tr "-" " " | awk '{for(i=1;i<=NF;i++)sub(/./,toupper(substr($i,1,1)),$i)}1')
+
 	echo "+++" >themeSite/content/$x.md
+	echo "title = \"$title\"" >>themeSite/content/$x.md
 	echo "screenshot = \"/images/$x.screenshot.png\"" >>themeSite/content/$x.md
 	echo "thumbnail = \"/images/$x.tn.png\"" >>themeSite/content/$x.md
 	echo "images = [\"/images/$x.tn.png\"]" >>themeSite/content/$x.md # adds thumbnail for twitter cards
