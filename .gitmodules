@@ -48,13 +48,13 @@
 	url = https://github.com/crakjie/hugo-base-theme.git
 [submodule "aglaus"]
 	path = aglaus
-	url = https://github.com/dim0627/hugo_theme_aglaus
+	url = https://github.com/dim0627/hugo_theme_aglaus.git
 [submodule "nofancy"]
 	path = nofancy
 	url = https://github.com/gizak/nofancy.git
 [submodule "twentyfourteen"]
 	path = twentyfourteen
-	url = https://github.com/jaden/twentyfourteen
+	url = https://github.com/jaden/twentyfourteen.git
 [submodule "tachyons"]
 	path = tachyons
 	url = https://github.com/marloncabrera/tachyons.git
@@ -78,7 +78,7 @@
 	url = https://github.com/chibicode/hugo-theme-shiori.git
 [submodule "hurock"]
 	path = hurock
-	url = https://github.com/TiTi/hurock
+	url = https://github.com/TiTi/hurock.git
 [submodule "greyshade"]
 	path = greyshade
 	url = https://github.com/cxfksword/greyshade.git
@@ -87,7 +87,7 @@
 	url = https://github.com/hbpasti/heather-hugo.git
 [submodule "bootie-docs"]
 	path = bootie-docs
-	url = https://github.com/key-amb/hugo-theme-bootie-docs
+	url = https://github.com/key-amb/hugo-theme-bootie-docs.git
 [submodule "slim"]
 	path = slim
 	url = https://github.com/zhe/hugo-theme-slim.git
@@ -99,13 +99,13 @@
 	url = https://github.com/pdevty/material-design.git
 [submodule "startbootstrap-clean-blog"]
 	path = startbootstrap-clean-blog
-	url = https://github.com/humboldtux/startbootstrap-clean-blog
+	url = https://github.com/humboldtux/startbootstrap-clean-blog.git
 [submodule "simple-hugo"]
 	path = simple-hugo
-	url = https://github.com/druzza/simple-hugo
+	url = https://github.com/druzza/simple-hugo.git
 [submodule "crisp"]
 	path = crisp
-	url = https://github.com/Zenithar/hugo-theme-crisp
+	url = https://github.com/Zenithar/hugo-theme-crisp.git
 [submodule "creative"]
 	path = creative
 	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
@@ -126,7 +126,7 @@
 	url = https://github.com/pdevty/polymer.git
 [submodule "material-lite"]
 	path = material-lite
-	url = https://github.com/SamuelDebruyn/hugo-material-lite
+	url = https://github.com/SamuelDebruyn/hugo-material-lite.git
 [submodule "robust"]
 	path = robust
 	url = https://github.com/dim0627/hugo_theme_robust.git
@@ -222,7 +222,7 @@
 	url = https://github.com/yoshiharuyamashita/blackburn.git
 [submodule "hugo-octopress"]
 	path = hugo-octopress
-	url = https://github.com/parsiya/Hugo-Octopress
+	url = https://github.com/parsiya/Hugo-Octopress.git
 [submodule "material-docs"]
 	path = material-docs
 	url = https://github.com/digitalcraftsman/hugo-material-docs.git
@@ -231,7 +231,7 @@
 	url = https://github.com/jnjosh/internet-weblog.git
 [submodule "hugo-phlat-theme"]
 	path = hugo-phlat-theme
-	url = https://github.com/nraboy/hugo-phlat-theme
+	url = https://github.com/nraboy/hugo-phlat-theme.git
 [submodule "beautifulhugo"]
 	path = beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
@@ -264,16 +264,16 @@
 	url = https://github.com/jrutheiser/hugo-lithium-theme.git
 [submodule "hugo-theme-arch"]
 	path = hugo-theme-arch
-	url = https://github.com/syui/hugo-theme-arch
+	url = https://github.com/syui/hugo-theme-arch.git
 [submodule "Shapez-Theme"]
 	path = Shapez-Theme
-	url = https://github.com/djuelg/Shapez-Theme
+	url = https://github.com/djuelg/Shapez-Theme.git
 [submodule "hugo-alabaster-theme"]
 	path = hugo-alabaster-theme
-	url = https://github.com/digitalcraftsman/hugo-alabaster-theme
+	url = https://github.com/digitalcraftsman/hugo-alabaster-theme.git
 [submodule "hugo-theme-wave"]
 	path = hugo-theme-wave
-	url = https://github.com/syui/hugo-theme-wave
+	url = https://github.com/syui/hugo-theme-wave.git
 [submodule "highlights"]
 	path = highlights
 	url = https://github.com/schmanat/hugo-highlights-theme.git
@@ -282,217 +282,217 @@
 	url = https://github.com/pedrodude/would-have-been-cool-in-the-80s.git
 [submodule "hugo-dgraph-theme"]
 	path = hugo-dgraph-theme
-	url = https://github.com/dgraph-io/hugo-dgraph-theme
+	url = https://github.com/dgraph-io/hugo-dgraph-theme.git
 [submodule "paperback"]
 	path = paperback
-	url = https://github.com/damiencaselli/paperback
+	url = https://github.com/damiencaselli/paperback.git
 [submodule "hugo-universal-theme"]
 	path = hugo-universal-theme
-	url = https://github.com/devcows/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme.git
 [submodule "hugrid"]
 	path = hugrid
-	url = https://github.com/aerohub/hugrid
+	url = https://github.com/aerohub/hugrid.git
 [submodule "hugo-finite"]
 	path = hugo-finite
-	url = https://github.com/lambdafu/hugo-finite
+	url = https://github.com/lambdafu/hugo-finite.git
 [submodule "lunancy"]
 	path = lunancy
-	url = https://github.com/christat/Lunacy
+	url = https://github.com/christat/Lunacy.git
 [submodule "strange-case"]
 	path = strange-case
-	url = https://github.com/ExchangeRate-API/strange-case
+	url = https://github.com/ExchangeRate-API/strange-case.git
 [submodule "amp"]
 	path = amp
-	url = https://github.com/pdevty/amp
+	url = https://github.com/pdevty/amp.git
 [submodule "anybodyhome"]
 	path = anybodyhome
-	url = https://github.com/lasseborly/anybodyhome
+	url = https://github.com/lasseborly/anybodyhome.git
 [submodule "hugo-theme-vec"]
 	path = hugo-theme-vec
-	url = https://github.com/IvanChou/hugo-theme-vec
+	url = https://github.com/IvanChou/hugo-theme-vec.git
 [submodule "martial-paper"]
 	path = martial-paper
-	url = https://github.com/pedrodude/martial-paper
+	url = https://github.com/pedrodude/martial-paper.git
 [submodule "after-dark"]
 	path = after-dark
-	url = https://github.com/comfusion/after-dark
+	url = https://github.com/comfusion/after-dark.git
 [submodule "hugo-faq-theme"]
 	path = hugo-faq-theme
-	url = https://github.com/aerohub/hugo-faq-theme
+	url = https://github.com/aerohub/hugo-faq-theme.git
 [submodule "hemingway"]
 	path = hemingway
-	url = https://github.com/tanksuzuki/hemingway
+	url = https://github.com/tanksuzuki/hemingway.git
 [submodule "hugo-orbit-theme"]
 	path = hugo-orbit-theme
-	url = https://github.com/aerohub/hugo-orbit-theme
+	url = https://github.com/aerohub/hugo-orbit-theme.git
 [submodule "hugo_theme_solit"]
 	path = hugo_theme_solit
-	url = https://github.com/dim0627/hugo_theme_solit
+	url = https://github.com/dim0627/hugo_theme_solit.git
 [submodule "hugo-theme-nix"]
 	path = hugo-theme-nix
-	url = https://github.com/LordMathis/hugo-theme-nix
+	url = https://github.com/LordMathis/hugo-theme-nix.git
 [submodule "hugo-goa"]
 	path = hugo-goa
-	url = https://github.com/shenoybr/hugo-goa
+	url = https://github.com/shenoybr/hugo-goa.git
 [submodule "blank"]
 	path = blank
-	url = https://github.com/vimux/blank
+	url = https://github.com/vimux/blank.git
 [submodule "hugo-smpl-theme"]
 	path = hugo-smpl-theme
-	url = https://github.com/christianmendoza/hugo-smpl-theme
+	url = https://github.com/christianmendoza/hugo-smpl-theme.git
 [submodule "docuapi"]
 	path = docuapi
 	url = https://github.com/bep/docuapi.git
 [submodule "hugo-theme-bootstrap4-blog"]
 	path = hugo-theme-bootstrap4-blog
-	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog
+	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog.git
 [submodule "phugo"]
 	path = phugo
-	url = https://github.com/aerohub/phugo
+	url = https://github.com/aerohub/phugo.git
 [submodule "hpstr-hugo-theme"]
 	path = hpstr-hugo-theme
-	url = https://github.com/dldx/hpstr-hugo-theme
+	url = https://github.com/dldx/hpstr-hugo-theme.git
 [submodule "hugo-tranquilpeak-theme"]
 	path = hugo-tranquilpeak-theme
-	url = https://github.com/kakawait/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
 [submodule "hugo-creative-portfolio-theme"]
 	path = hugo-creative-portfolio-theme
-	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
 [submodule "light-hugo"]
 	path = light-hugo
-	url = https://github.com/tblyler/light-hugo
+	url = https://github.com/tblyler/light-hugo.git
 [submodule "hugo-sp-minimal"]
 	path = hugo-sp-minimal
-	url = https://github.com/eueung/hugo-sp-minimal
+	url = https://github.com/eueung/hugo-sp-minimal.git
 [submodule "hugo-frais"]
 	path = hugo-frais
-	url = https://github.com/the2ne/hugo-frais
+	url = https://github.com/the2ne/hugo-frais.git
 [submodule "hugo-elate-theme"]
 	path = hugo-elate-theme
-	url = https://github.com/saey55/hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme.git
 [submodule "gohugo-amp"]
 	path = gohugo-amp
-	url = https://github.com/wildhaber/gohugo-amp
+	url = https://github.com/wildhaber/gohugo-amp.git
 [submodule "hugo-hello-programmer-theme"]
 	path = hugo-hello-programmer-theme
-	url = https://github.com/lubang/hugo-hello-programmer-theme
+	url = https://github.com/lubang/hugo-hello-programmer-theme.git
 [submodule "nixon"]
 	path = nixon
-	url = https://github.com/mdhender/nixon
+	url = https://github.com/mdhender/nixon.git
 [submodule "hugo_eiio"]
 	path = hugo_eiio
-	url = https://github.com/leonhe/hugo_eiio
+	url = https://github.com/leonhe/hugo_eiio.git
 [submodule "foundation-theme"]
 	path = foundation-theme
-	url = https://github.com/hdcdstr8fwd/foundation-theme
+	url = https://github.com/hdcdstr8fwd/foundation-theme.git
 [submodule "mainroad"]
 	path = mainroad
-	url = https://github.com/Vimux/mainroad
+	url = https://github.com/Vimux/mainroad.git
 [submodule "hugo-theme-foundation6-blog"]
 	path = hugo-theme-foundation6
-	url = https://github.com/htko89/hugo-theme-foundation6-blog
+	url = https://github.com/htko89/hugo-theme-foundation6-blog.git
 [submodule "hugo-paper-now"]
 	path = hugo-paper-now
-	url = https://github.com/eueung/hugo-paper-now
+	url = https://github.com/eueung/hugo-paper-now.git
 [submodule "hugo-remark-minion"]
 	path = hugo-remark-minion
-	url = https://github.com/eueung/hugo-remark-minion
+	url = https://github.com/eueung/hugo-remark-minion.git
 [submodule "cocoa-eh-hugo-theme"]
 	path = cocoa-eh-hugo-theme
-	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme
+	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
 [submodule "hugo-remark-twemoji"]
 	path = hugo-remark-twemoji
-	url = https://github.com/eueung/hugo-remark-twemoji
+	url = https://github.com/eueung/hugo-remark-twemoji.git
 [submodule "darksimplicity"]
 	path = darksimplicity
-	url = https://github.com/kritoke/darksimplicity
+	url = https://github.com/kritoke/darksimplicity.git
 [submodule "hugo-sustain"]
 	path = hugo-sustain
-	url = https://github.com/nurlansu/hugo-sustain
+	url = https://github.com/nurlansu/hugo-sustain.git
 [submodule "black-and-light"]
 	path = black-and-light
 	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
 [submodule "hemingway2"]
 	path = hemingway2
-	url = https://github.com/beli3ver/hemingway2
+	url = https://github.com/beli3ver/hemingway2.git
 [submodule "prologue"]
 	path = prologue
-	url = https://github.com/sethmacleod/prologue
+	url = https://github.com/sethmacleod/prologue.git
 [submodule "aerial"]
 	path = aerial
-	url = https://github.com/sethmacleod/aerial
+	url = https://github.com/sethmacleod/aerial.git
 [submodule "dimension"]
 	path = dimension
-	url = https://github.com/sethmacleod/dimension
+	url = https://github.com/sethmacleod/dimension.git
 [submodule "hugo-theme-cactus-plus"]
 	path = hugo-theme-cactus-plus
-	url = https://github.com/nodejh/hugo-theme-cactus-plus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
 [submodule "sofya"]
 	path = sofya
-	url = https://github.com/jonathondilworth/sofya
+	url = https://github.com/jonathondilworth/sofya.git
 [submodule "hugo-code-editor-theme"]
 	path = hugo-code-editor-theme
-	url = https://github.com/aubm/hugo-code-editor-theme
+	url = https://github.com/aubm/hugo-code-editor-theme.git
 [submodule "plain-blog"]
 	path = plain-blog
-	url = https://github.com/LiaungYip/plain-blog
+	url = https://github.com/LiaungYip/plain-blog.git
 [submodule "retrofulhugo"]
 	path = retrofulhugo
-	url = https://github.com/5ARMALE/retrofulhugo
+	url = https://github.com/5ARMALE/retrofulhugo.git
 [submodule "hugo-theme-minos"]
 	path = hugo-theme-minos
-	url = https://github.com/carsonip/hugo-theme-minos
+	url = https://github.com/carsonip/hugo-theme-minos.git
 [submodule "hugo-tracks-theme"]
 	path = hugo-tracks-theme
-	url = https://github.com/ageekymonk/hugo-tracks-theme
+	url = https://github.com/ageekymonk/hugo-tracks-theme.git
 [submodule "hucore"]
 	path = hucore
-	url = https://github.com/mgjohansen/hucore
+	url = https://github.com/mgjohansen/hucore.git
 [submodule "crab"]
 	path = crab
-	url = https://github.com/thomasheller/crab
+	url = https://github.com/thomasheller/crab.git
 [submodule "hugo-theme-introduction"]
 	path = hugo-theme-introduction
-	url = https://github.com/vickylaixy/hugo-theme-introduction
+	url = https://github.com/vickylaixy/hugo-theme-introduction.git
 [submodule "hugo-theme-zen"]
 	path = hugo-theme-zen
-	url = https://github.com/frjo/hugo-theme-zen
+	url = https://github.com/frjo/hugo-theme-zen.git
 [submodule "bulma"]
 	path = bulma
-	url = https://github.com/jeblister/bulma
+	url = https://github.com/jeblister/bulma.git
 [submodule "hugo-fabric"]
 	path = hugo-fabric
-	url = https://github.com/wd/hugo-fabric
+	url = https://github.com/wd/hugo-fabric.git
 [submodule "kube"]
 	path = kube
-	url = https://github.com/jeblister/kube
+	url = https://github.com/jeblister/kube.git
 [submodule "gohugo-theme-ananke"]
 	path = gohugo-theme-ananke
-	url = https://github.com/budparr/gohugo-theme-ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "hugo-dusk"]
 	path = hugo-dusk
-	url = https://github.com/gyorb/hugo-dusk
+	url = https://github.com/gyorb/hugo-dusk.git
 [submodule "docdock"]
 	path = docdock
 	url = https://github.com/vjeantet/hugo-theme-docdock.git
 [submodule "castanet"]
 	path = castanet
-	url = https://github.com/mattstratton/castanet
+	url = https://github.com/mattstratton/castanet.git
 [submodule "osprey"]
 	path = osprey
-	url = https://github.com/tomanistor/osprey
+	url = https://github.com/tomanistor/osprey.git
 [submodule "BluestNight"]
 	path = BluestNight
-	url = https://gitlab.com/Shadow53/BluestNight.git 
+	url = https://gitlab.com/Shadow53/BluestNight.git
 [submodule "slate"]
 	path = slate
 	url = https://github.com/gesquive/slate.git
 [submodule "minimo"]
 	path = minimo
-	url = https://github.com/MunifTanjim/minimo
+	url = https://github.com/MunifTanjim/minimo.git
 [submodule "sublime-hugo-theme"]
 	path = sublime-hugo-theme
-	url = https://github.com/dt801ts/sublime-hugo-theme
+	url = https://github.com/dt801ts/sublime-hugo-theme.git
 [submodule "hugo-xmin"]
 	path = hugo-xmin
-	url = https://github.com/yihui/hugo-xmin
+	url = https://github.com/yihui/hugo-xmin.git
