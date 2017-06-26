@@ -496,3 +496,6 @@
 [submodule "hugo-xmin"]
 	path = hugo-xmin
 	url = https://github.com/yihui/hugo-xmin.git
+[submodule "airspace-hugo"]
+	path = airspace-hugo
+	url = https://github.com/karju-dev/airspace-hugo.git
