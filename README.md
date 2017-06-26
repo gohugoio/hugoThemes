@@ -6,7 +6,7 @@ A collection of all themes that were created by the Hugo community. See a comple
 ## Build script
 
 For the curious,
-[here's how](buildThemeSite.sh)
+[here’s how](buildThemeSite.sh)
 this automatic adding is accomplished.
 
 # Installation
@@ -53,11 +53,11 @@ This file contains metadata about the theme and its creator. **Only `theme.toml`
 name = "Hyde"
 license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
-description = "An elegant open source and mobile first theme"
-homepage = "http://siteforthistheme.com/"
+description = "An elegant open-source and mobile-first theme"
+homepage = "http://example.com/"
 tags = ["blog", "company"]
 features = ["blog", ]
-min_version = 0.21
+min_version = 0.24
 
 [author]
     name = "spf13"
