@@ -496,3 +496,6 @@
 [submodule "hugo-xmin"]
 	path = hugo-xmin
 	url = https://github.com/yihui/hugo-xmin.git
+[submodule "hugo-travelify-theme"]
+	path = hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme
