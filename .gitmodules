@@ -499,3 +499,6 @@
 [submodule "hugo-travelify-theme"]
 	path = hugo-travelify-theme
 	url = https://github.com/balaramadurai/hugo-travelify-theme
+[submodule "manis-hugo-theme"]
+	path = manis-hugo-theme
+	url = https://github.com/yursan9/manis-hugo-theme
