@@ -502,3 +502,6 @@
 [submodule "manis-hugo-theme"]
 	path = manis-hugo-theme
 	url = https://github.com/yursan9/manis-hugo-theme
+[submodule "hugo-now"]
+	path = hugo-now
+	url = https://github.com/mikeblum/hugo-now
