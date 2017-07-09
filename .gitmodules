@@ -505,3 +505,6 @@
 [submodule "hugo-now"]
 	path = hugo-now
 	url = https://github.com/mikeblum/hugo-now
+[submodule "minimal"]
+	path = minimal
+	url = https://github.com/calintat/minimal
