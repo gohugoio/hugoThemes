@@ -508,3 +508,6 @@
 [submodule "minimal"]
 	path = minimal
 	url = https://github.com/calintat/minimal
+[submodule "hugo-classic"]
+	path = hugo-classic
+	url = https://github.com/goodroot/hugo-classic
