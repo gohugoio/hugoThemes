@@ -511,3 +511,6 @@
 [submodule "hugo-classic"]
 	path = hugo-classic
 	url = https://github.com/goodroot/hugo-classic
+[submodule "hugo-xmag"]
+	path = hugo-xmag
+	url = https://github.com/yihui/hugo-xmag
