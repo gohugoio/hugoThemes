@@ -87,7 +87,7 @@
 	url = https://github.com/hbpasti/heather-hugo.git
 [submodule "bootie-docs"]
 	path = bootie-docs
-	url = https://github.com/key-amb/hugo-theme-bootie-docs.git
+	url = https://github.com/progrhyme/hugo-theme-bootie-docs.git
 [submodule "slim"]
 	path = slim
 	url = https://github.com/zhe/hugo-theme-slim.git
