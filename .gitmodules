@@ -514,3 +514,6 @@
 [submodule "hugo-xmag"]
 	path = hugo-xmag
 	url = https://github.com/yihui/hugo-xmag
+[submodule "hugo-journal"]
+	path = hugo-journal
+	url = https://github.com/damiencaselli/hugo-journal
