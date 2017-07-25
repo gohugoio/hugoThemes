@@ -89,7 +89,6 @@ echo "BUILDING FROM" `pwd`
 # Clean before new build
 try rm -rf themeSite/public
 try rm -rf themeSite/static/theme
-try rm -rf themeSite/content
 try rm -rf themeSite/static/images
 try rm -rf exampleSite2
 
