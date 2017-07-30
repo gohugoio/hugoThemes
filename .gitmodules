@@ -517,3 +517,6 @@
 [submodule "hugo-journal"]
 	path = hugo-journal
 	url = https://github.com/damiencaselli/hugo-journal
+[submodule "newsprint"]
+	path = newsprint
+	url = https://bitbucket.org/SamWhited/newsprint.git
