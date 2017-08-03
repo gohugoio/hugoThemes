@@ -520,3 +520,6 @@
 [submodule "newsprint"]
 	path = newsprint
 	url = https://bitbucket.org/SamWhited/newsprint
+[submodule "hugo-nuo"]
+	path = hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo
