@@ -56,7 +56,7 @@ licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
 description = "An elegant open-source and mobile-first theme"
 homepage = "http://example.com/"
 tags = ["blog", "company"]
-features = ["blog", ]
+features = ["blog"]
 min_version = 0.24
 
 [author]
