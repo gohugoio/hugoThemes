@@ -527,3 +527,6 @@
 	path = hugo_theme_pickles
 	url = https://github.com/mismith0227/hugo_theme_pickles
 	branch = release
+[submodule "hugo-theme-even"]
+	path = hugo-theme-even
+	url = https://github.com/olOwOlo/hugo-theme-even
