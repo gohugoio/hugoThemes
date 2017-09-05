@@ -530,3 +530,6 @@
 [submodule "hugo-theme-even"]
 	path = hugo-theme-even
 	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "hugo-gentoo-theme"]
+	path = hugo-gentoo-theme
+	url = https://github.com/d-kusk/hugo-gentoo-theme
