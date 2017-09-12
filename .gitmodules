@@ -533,3 +533,6 @@
 [submodule "hugo-gentoo-theme"]
 	path = hugo-gentoo-theme
 	url = https://github.com/d-kusk/hugo-gentoo-theme
+[submodule "hugo-theme-lean-launch-page"]
+	path = hugo-theme-lean-launch-page
+	url = https://github.com/felicianotech/hugo-theme-lean-launch-page
