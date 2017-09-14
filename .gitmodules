@@ -483,7 +483,7 @@
 	url = https://github.com/tomanistor/osprey.git
 [submodule "BluestNight"]
 	path = BluestNight
-	url = https://gitlab.com/Shadow53/BluestNight.git
+	url = https://gitlab.com/BluestNight/BluestNight
 [submodule "slate"]
 	path = slate
 	url = https://github.com/gesquive/slate.git
