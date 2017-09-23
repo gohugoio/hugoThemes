@@ -536,3 +536,6 @@
 [submodule "hugo-theme-lean-launch-page"]
 	path = hugo-theme-lean-launch-page
 	url = https://github.com/felicianotech/hugo-theme-lean-launch-page
+[submodule "hugo-icon"]
+	path = hugo-icon
+	url = https://github.com/SteveLane/hugo-icon
