@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+
+ 				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta">
+ 							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
+ 						</div>
+ 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
+					</header>
+					<div class="entry-content">
+						{{ .Content }}
+					</div>
+				</article><!-- #post-## -->
+
+			</div>
+		</div> <!-- /row post  -->
+
+        <div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+                    {{ if .Params.Share }}
+                       {{ partial "sharethis.html" . }}
+                    {{ end }}
+				</div>
+			</div>
+		</div> <!-- /row share -->
+		<div class="clearfix"></div>
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="comments">
+                    {{ if .Params.Comments }}
+                       {{ partial "disqus.html" . }}
+                    {{ end }}
+				</div>
+			</div>
+		</div> <!-- /row comments -->
+		<div class="clearfix"></div>
+
+	</div>	<!-- /container -->
+
+</main>
+
+{{ partial "footer.html" . }}

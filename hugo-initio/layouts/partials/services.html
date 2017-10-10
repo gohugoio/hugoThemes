@@ -1,0 +1,12 @@
+<div class="row section featured topspace">
+    <h2 class="section-title"><span>Services</span></h2>
+    <div class="row">
+        {{ range where .Data.Pages "Section" "service" }}
+            <div class="col-sm-6 col-md-3">
+                <h3 class="text-center">{{ .Title }}</h3>
+                <p>{{ .Content }}</p>
+                <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
+            </div>
+        {{ end }}
+    </div>
+</div> <!-- / section -->

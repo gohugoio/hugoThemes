@@ -1,0 +1,15 @@
+<div class="row">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8">
+        {{ if .Site.Params.sharethis.custom }}
+            {{ range .Site.Params.social }}
+                {{ if .sharethis }}
+                    <div data-network="{{ .network }}" data-title="{{ .Title }} >> " class="st-custom-button"> <i class="fa {{ .icon }} fa-2x"></i> </div>
+                {{ end }}
+            {{ end }}
+            <div data-network="sharethis" data-title="{{ .Title }} >> " class="st-custom-button"> <i class="fa fa-share-alt-square fa-2x"></i> </div>
+        {{ else }}
+            <div class="sharethis-inline-share-buttons"></div>
+            <br>
+        {{ end }}
+    </div>
+</div> <!-- /row of widgets -->
