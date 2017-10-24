@@ -539,3 +539,6 @@
 [submodule "hugo-icon"]
 	path = hugo-icon
 	url = https://github.com/SteveLane/hugo-icon
+[submodule "hugo-theme-launch-page"]
+	path = hugo-theme-launch-page
+	url = https://github.com/binomads/hugo-theme-launch-page
