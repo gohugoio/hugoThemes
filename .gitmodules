@@ -542,3 +542,6 @@
 [submodule "kiss"]
 	path = kiss
 	url = https://github.com/ribice/kiss
+[submodule "hugo-conference"]
+	path = hugo-conference
+	url = https://github.com/jweslley/hugo-conference
