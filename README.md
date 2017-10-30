@@ -44,7 +44,7 @@ Each theme needs:
 1. To have the right fields in `theme.toml`;
 1. To have the right images;
 1. A good README;
-1. To have `https://example.com` as base url in `exampleSite/config.toml` to avoid the [abuse of unused domains](https://github.com/gohugoio/hugo/issues/2575).
+1. To have `https://example.com` as base url in `exampleSite/config.{toml, yaml, json}` to avoid the [abuse of unused domains](https://github.com/gohugoio/hugo/issues/2575).
 
 ## theme.toml
 
