@@ -548,3 +548,6 @@
 [submodule "bilberry-hugo-theme"]
 	path = bilberry-hugo-theme
 	url = https://github.com/Lednerb/bilberry-hugo-theme
+[submodule "onetwothree"]
+	path = onetwothree
+	url = https://github.com/schollz/onetwothree
