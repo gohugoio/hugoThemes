@@ -545,3 +545,6 @@
 [submodule "hugo-conference"]
 	path = hugo-conference
 	url = https://github.com/jweslley/hugo-conference
+[submodule "bilberry-hugo-theme"]
+	path = bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme
