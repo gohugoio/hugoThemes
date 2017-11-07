@@ -490,9 +490,6 @@
 [submodule "minimo"]
 	path = minimo
 	url = https://github.com/MunifTanjim/minimo.git
-[submodule "sublime-hugo-theme"]
-	path = sublime-hugo-theme
-	url = https://github.com/dt801ts/sublime-hugo-theme.git
 [submodule "hugo-xmin"]
 	path = hugo-xmin
 	url = https://github.com/yihui/hugo-xmin.git
