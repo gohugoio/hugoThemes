@@ -548,3 +548,6 @@
 [submodule "onetwothree"]
 	path = onetwothree
 	url = https://github.com/schollz/onetwothree
+[submodule "hugo-kiera"]
+	path = hugo-kiera
+	url = https://github.com/avianto/hugo-kiera
