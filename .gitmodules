@@ -551,3 +551,6 @@
 [submodule "hugo-kiera"]
 	path = hugo-kiera
 	url = https://github.com/avianto/hugo-kiera
+[submodule "hugo-theme-dream"]
+	path = hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream
