@@ -554,3 +554,6 @@
 [submodule "hugo-theme-dream"]
 	path = hugo-theme-dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream
+[submodule "forty"]
+	path = forty
+	url = https://github.com/MarcusVirg/forty
