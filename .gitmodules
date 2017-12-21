@@ -560,3 +560,6 @@
 [submodule "hugo-now-ui"]
 	path = hugo-now-ui
 	url = https://github.com/cboettig/hugo-now-ui
+[submodule "hugo-simpledoc-theme"]
+	path = hugo-simpledoc-theme
+	url = https://github.com/aerohub/hugo-simpledoc-theme
