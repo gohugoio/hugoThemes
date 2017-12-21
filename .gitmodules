@@ -563,3 +563,6 @@
 [submodule "hugo-simpledoc-theme"]
 	path = hugo-simpledoc-theme
 	url = https://github.com/aerohub/hugo-simpledoc-theme
+[submodule "whiteplain"]
+	path = whiteplain
+	url = https://github.com/taikii/whiteplain
