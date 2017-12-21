@@ -569,3 +569,6 @@
 [submodule "hugo-luxury-theme"]
 	path = hugo-luxury-theme
 	url = https://github.com/aerohub/hugo-luxury-theme
+[submodule "temple"]
+	path = temple
+	url = https://github.com/aos/temple
