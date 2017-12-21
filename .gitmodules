@@ -566,3 +566,6 @@
 [submodule "whiteplain"]
 	path = whiteplain
 	url = https://github.com/taikii/whiteplain
+[submodule "hugo-luxury-theme"]
+	path = hugo-luxury-theme
+	url = https://github.com/aerohub/hugo-luxury-theme
