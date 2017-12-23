@@ -572,3 +572,6 @@
 [submodule "temple"]
 	path = temple
 	url = https://github.com/aos/temple
+[submodule "hugo-split-theme"]
+	path = hugo-split-theme
+	url = https://github.com/christianmendoza/hugo-split-theme
