@@ -575,3 +575,6 @@
 [submodule "hugo-split-theme"]
 	path = hugo-split-theme
 	url = https://github.com/christianmendoza/hugo-split-theme
+[submodule "simplicity"]
+	path = simplicity
+	url = https://github.com/eshlox/simplicity
