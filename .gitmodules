@@ -578,3 +578,6 @@
 [submodule "simplicity"]
 	path = simplicity
 	url = https://github.com/eshlox/simplicity
+[submodule "hugo-casper-two"]
+	path = hugo-casper-two
+	url = https://github.com/eueung/hugo-casper-two
