@@ -3,7 +3,7 @@ version: 2.0
 jobs:
     build:
         docker:
-            - image: circleci/go:1.8  # This doesn't actually matter
+            - image: circleci/golang:1.8  # This doesn't actually matter
         steps:
             - checkout
             - run:
