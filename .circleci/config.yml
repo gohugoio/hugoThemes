@@ -7,6 +7,9 @@ jobs:
         steps:
             - checkout
             - run:
+                name: Checkout submodules
+                command: git submodule update --init
+            - run:
                 name: Install Hugo
                 command: wget https://github.com/gohugoio/hugo/releases/download/v0.32.2/hugo_0.32.2_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
             - run:
