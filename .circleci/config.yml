@@ -1,0 +1,20 @@
+version: 2.0
+
+jobs:
+    build:
+        docker:
+            - image: circleci/golang:1.8  # This doesn't actually matter
+        steps:
+            - checkout
+            - run:
+                name: Checkout submodules
+                command: git submodule update --init
+            - run:
+                name: Install Hugo
+                command: wget https://github.com/gohugoio/hugo/releases/download/v0.32.2/hugo_0.32.2_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
+            - run:
+                name: Generate Theme Site
+                command: cd _script && ./generateThemeSite.sh 
+            - run:
+                name: Build Theme Site
+                command: hugo -s _script/hugoThemeSite/themeSite
