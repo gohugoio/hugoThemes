@@ -295,9 +295,6 @@
 [submodule "hugo-finite"]
 	path = hugo-finite
 	url = https://github.com/lambdafu/hugo-finite.git
-[submodule "lunancy"]
-	path = lunancy
-	url = https://github.com/christat/Lunacy.git
 [submodule "strange-case"]
 	path = strange-case
 	url = https://github.com/ExchangeRate-API/strange-case.git
