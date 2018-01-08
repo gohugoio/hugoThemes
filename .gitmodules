@@ -578,3 +578,6 @@
 [submodule "hugo-casper-two"]
 	path = hugo-casper-two
 	url = https://github.com/eueung/hugo-casper-two
+[submodule "hugo-theme-one"]
+	path = hugo-theme-one
+	url = https://github.com/resugary/hugo-theme-one
