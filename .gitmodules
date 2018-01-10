@@ -581,3 +581,6 @@
 [submodule "hugo-theme-one"]
 	path = hugo-theme-one
 	url = https://github.com/resugary/hugo-theme-one
+[submodule "hugo-theme-revealjs"]
+	path = hugo-theme-revealjs
+	url = https://github.com/RealOrangeOne/hugo-theme-revealjs
