@@ -584,3 +584,6 @@
 [submodule "hugo-theme-revealjs"]
 	path = hugo-theme-revealjs
 	url = https://github.com/RealOrangeOne/hugo-theme-revealjs
+[submodule "elephants"]
+	path = elephants
+	url = https://github.com/meibenny/elephants
