@@ -587,3 +587,6 @@
 [submodule "elephants"]
 	path = elephants
 	url = https://github.com/meibenny/elephants
+[submodule "hugo-theme-w3css-basic"]
+	path = hugo-theme-w3css-basic
+	url = https://github.com/it-gro/hugo-theme-w3css-basic
