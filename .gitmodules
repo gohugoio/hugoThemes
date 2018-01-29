@@ -411,7 +411,7 @@
 	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
 [submodule "hemingway2"]
 	path = hemingway2
-	url = https://gitlab.com/beli3ver/hemingway2
+	url = https://gitlab.com/beli3ver/hemingway2.git
 [submodule "prologue"]
 	path = prologue
 	url = https://github.com/sethmacleod/prologue.git
@@ -480,7 +480,7 @@
 	url = https://github.com/tomanistor/osprey.git
 [submodule "BluestNight"]
 	path = BluestNight
-	url = https://gitlab.com/BluestNight/BluestNight
+	url = https://gitlab.com/BluestNight/BluestNight.git
 [submodule "slate"]
 	path = slate
 	url = https://github.com/gesquive/slate.git
@@ -492,101 +492,101 @@
 	url = https://github.com/yihui/hugo-xmin.git
 [submodule "hugo-travelify-theme"]
 	path = hugo-travelify-theme
-	url = https://github.com/balaramadurai/hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme.git
 [submodule "manis-hugo-theme"]
 	path = manis-hugo-theme
-	url = https://github.com/yursan9/manis-hugo-theme
+	url = https://github.com/yursan9/manis-hugo-theme.git
 [submodule "hugo-now"]
 	path = hugo-now
-	url = https://github.com/mikeblum/hugo-now
+	url = https://github.com/mikeblum/hugo-now.git
 [submodule "minimal"]
 	path = minimal
-	url = https://github.com/calintat/minimal
+	url = https://github.com/calintat/minimal.git
 [submodule "hugo-classic"]
 	path = hugo-classic
-	url = https://github.com/goodroot/hugo-classic
+	url = https://github.com/goodroot/hugo-classic.git
 [submodule "hugo-xmag"]
 	path = hugo-xmag
-	url = https://github.com/yihui/hugo-xmag
+	url = https://github.com/yihui/hugo-xmag.git
 [submodule "hugo-journal"]
 	path = hugo-journal
-	url = https://github.com/damiencaselli/hugo-journal
+	url = https://github.com/damiencaselli/hugo-journal.git
 [submodule "newsprint"]
 	path = newsprint
-	url = https://bitbucket.org/SamWhited/newsprint
+	url = https://bitbucket.org/SamWhited/newsprint.git
 [submodule "hugo-nuo"]
 	path = hugo-nuo
-	url = https://github.com/laozhu/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo.git
 [submodule "hugo_theme_pickles"]
 	path = hugo_theme_pickles
-	url = https://github.com/mismith0227/hugo_theme_pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
 	branch = release
 [submodule "hugo-theme-even"]
 	path = hugo-theme-even
-	url = https://github.com/olOwOlo/hugo-theme-even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
 [submodule "hugo-gentoo-theme"]
 	path = hugo-gentoo-theme
-	url = https://github.com/d-kusk/hugo-gentoo-theme
+	url = https://github.com/d-kusk/hugo-gentoo-theme.git
 [submodule "hugo-theme-lean-launch-page"]
 	path = hugo-theme-lean-launch-page
-	url = https://github.com/felicianotech/hugo-theme-lean-launch-page
+	url = https://github.com/felicianotech/hugo-theme-lean-launch-page.git
 [submodule "hugo-icon"]
 	path = hugo-icon
-	url = https://github.com/SteveLane/hugo-icon
+	url = https://github.com/SteveLane/hugo-icon.git
 [submodule "kiss"]
 	path = kiss
-	url = https://github.com/ribice/kiss
+	url = https://github.com/ribice/kiss.git
 [submodule "hugo-conference"]
 	path = hugo-conference
-	url = https://github.com/jweslley/hugo-conference
+	url = https://github.com/jweslley/hugo-conference.git
 [submodule "bilberry-hugo-theme"]
 	path = bilberry-hugo-theme
-	url = https://github.com/Lednerb/bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme.git
 [submodule "onetwothree"]
 	path = onetwothree
-	url = https://github.com/schollz/onetwothree
+	url = https://github.com/schollz/onetwothree.git
 [submodule "hugo-kiera"]
 	path = hugo-kiera
-	url = https://github.com/avianto/hugo-kiera
+	url = https://github.com/avianto/hugo-kiera.git
 [submodule "hugo-theme-dream"]
 	path = hugo-theme-dream
-	url = https://github.com/g1eny0ung/hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream.git
 [submodule "forty"]
 	path = forty
-	url = https://github.com/MarcusVirg/forty
+	url = https://github.com/MarcusVirg/forty.git
 [submodule "hugo-now-ui"]
 	path = hugo-now-ui
-	url = https://github.com/cboettig/hugo-now-ui
+	url = https://github.com/cboettig/hugo-now-ui.git
 [submodule "hugo-simpledoc-theme"]
 	path = hugo-simpledoc-theme
-	url = https://github.com/aerohub/hugo-simpledoc-theme
+	url = https://github.com/aerohub/hugo-simpledoc-theme.git
 [submodule "whiteplain"]
 	path = whiteplain
-	url = https://github.com/taikii/whiteplain
+	url = https://github.com/taikii/whiteplain.git
 [submodule "hugo-luxury-theme"]
 	path = hugo-luxury-theme
-	url = https://github.com/aerohub/hugo-luxury-theme
+	url = https://github.com/aerohub/hugo-luxury-theme.git
 [submodule "temple"]
 	path = temple
-	url = https://github.com/aos/temple
+	url = https://github.com/aos/temple.git
 [submodule "hugo-split-theme"]
 	path = hugo-split-theme
-	url = https://github.com/christianmendoza/hugo-split-theme
+	url = https://github.com/christianmendoza/hugo-split-theme.git
 [submodule "simplicity"]
 	path = simplicity
-	url = https://github.com/eshlox/simplicity
+	url = https://github.com/eshlox/simplicity.git
 [submodule "hugo-casper-two"]
 	path = hugo-casper-two
-	url = https://github.com/eueung/hugo-casper-two
+	url = https://github.com/eueung/hugo-casper-two.git
 [submodule "hugo-theme-one"]
 	path = hugo-theme-one
-	url = https://github.com/resugary/hugo-theme-one
+	url = https://github.com/resugary/hugo-theme-one.git
 [submodule "hugo-theme-revealjs"]
 	path = hugo-theme-revealjs
-	url = https://github.com/RealOrangeOne/hugo-theme-revealjs
+	url = https://github.com/RealOrangeOne/hugo-theme-revealjs.git
 [submodule "elephants"]
 	path = elephants
-	url = https://github.com/meibenny/elephants
+	url = https://github.com/meibenny/elephants.git
 [submodule "hugo-theme-w3css-basic"]
 	path = hugo-theme-w3css-basic
-	url = https://github.com/it-gro/hugo-theme-w3css-basic
+	url = https://github.com/it-gro/hugo-theme-w3css-basic.git
