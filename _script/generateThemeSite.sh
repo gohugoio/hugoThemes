@@ -165,6 +165,8 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	echo "source = \"$repo\"" >>themeSite/content/$x.md
 	
 	demoDestination="../themeSite/static/theme/$x/"
+
+	export HUGO_CANONIFYURLS=true
             
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
@@ -180,7 +182,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destionation="../themeSite/static/theme/$x/"
-            hugo --quiet -s exampleSite2 -d ${demoDestination} --canonifyURLs=true -t $x -b $BASEURL/theme/$x/
+            hugo --quiet -s exampleSite2 -d ${demoDestination} -t $x -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
                 errorCounter=$((errorCounter + 1))
