@@ -135,17 +135,17 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	echo " ==== PROCESSING " $x " ====== "
 
-	cp ${themesDir}/$x/images/screenshot.png themeSite/static/images/$x.screenshot.png
-	cp ${themesDir}/$x/images/tn.png themeSite/static/images/$x.tn.png
+	mkdir -p themeSite/content/$x
+
+	cp ${themesDir}/$x/images/screenshot.png themeSite/content/$x/screenshot-$x.png
+	# Use the thumbnail as featured image for the Twitter card etc.
+	cp ${themesDir}/$x/images/tn.png themeSite/content/$x/tn-featured-$x.png
 
 
 	title=$( echo "${x}" | tr "-" " " | awk '{for(i=1;i<=NF;i++)sub(/./,toupper(substr($i,1,1)),$i)}1')
 
-	echo "+++" >themeSite/content/$x.md
-	echo "title = \"$title\"" >>themeSite/content/$x.md
-	echo "screenshot = \"/images/$x.screenshot.png\"" >>themeSite/content/$x.md
-	echo "thumbnail = \"/images/$x.tn.png\"" >>themeSite/content/$x.md
-	echo "images = [\"/images/$x.tn.png\"]" >>themeSite/content/$x.md # adds thumbnail for twitter cards
+	echo "+++" >themeSite/content/$x/index.md
+	echo "title = \"$title\"" >>themeSite/content/$x/index.md
 	repo=`git -C ${themesDir}/$x remote -v | head -n 1 | awk '{print$2}'`
 
 	pushd ${themesDir}
@@ -159,10 +159,10 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 		themeCreated=${themeUpdated}
 	fi
 
-	echo "date = \"$themeCreated\"" >>themeSite/content/$x.md
-	echo "lastmod = \"$themeUpdated\"" >>themeSite/content/$x.md
+	echo "date = \"$themeCreated\"" >>themeSite/content/$x/index.md
+	echo "lastmod = \"$themeUpdated\"" >>themeSite/content/$x/index.md
 
-	echo "source = \"$repo\"" >>themeSite/content/$x.md
+	echo "source = \"$repo\"" >>themeSite/content/$x/index.md
 	
 	demoDestination="../themeSite/static/theme/$x/"
 
@@ -221,16 +221,16 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
     fi
 
 	if $generateDemo; then
-		echo "demo = \"/theme/$x/\"" >> themeSite/content/$x.md
+		echo "demo = \"/theme/$x/\"" >> themeSite/content/$x/index.md
 	fi
 
-	fixThemeTOML ${themesDir}/$x/theme.toml >> themeSite/content/$x.md
-	echo -en "\n+++\n\n" >>themeSite/content/$x.md
+	fixThemeTOML ${themesDir}/$x/theme.toml >> themeSite/content/$x/index.md
+	echo -en "\n+++\n\n" >>themeSite/content/$x/index.md
 
 	if [ -f "${themesDir}/$x/README.md" ]; then
-		fixReadme ${themesDir}/$x/README.md >> themeSite/content/$x.md
+		fixReadme ${themesDir}/$x/README.md >> themeSite/content/$x/index.md
 	else
-		fixReadme ${themesDir}/$x/readme.md >> themeSite/content/$x.md
+		fixReadme ${themesDir}/$x/readme.md >> themeSite/content/$x/index.md
 	fi
 		
 	if ((errorCounter > 50)); then
