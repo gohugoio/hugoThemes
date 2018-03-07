@@ -590,3 +590,6 @@
 [submodule "hugo-theme-w3css-basic"]
 	path = hugo-theme-w3css-basic
 	url = https://github.com/it-gro/hugo-theme-w3css-basic.git
+[submodule "hugo-theme-massively"]
+	path = hugo-theme-massively
+	url = https://github.com/curttimson/hugo-theme-massively
