@@ -593,3 +593,6 @@
 [submodule "hugo-theme-massively"]
 	path = hugo-theme-massively
 	url = https://github.com/curttimson/hugo-theme-massively
+[submodule "hugo-resume"]
+	path = hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume
