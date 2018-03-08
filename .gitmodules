@@ -596,3 +596,6 @@
 [submodule "hugo-resume"]
 	path = hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume
+[submodule "hugo-smorg"]
+	path = hugo-smorg
+	url = https://github.com/solutionroute/hugo-smorg
