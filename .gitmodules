@@ -608,3 +608,6 @@
 [submodule "kraiklyn"]
 	path = kraiklyn
 	url = https://github.com/jsnjack/kraiklyn
+[submodule "hugo-theme-sam"]
+	path = hugo-theme-sam
+	url = https://github.com/hivickylai/hugo-theme-sam
