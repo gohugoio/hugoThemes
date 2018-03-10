@@ -605,3 +605,6 @@
 [submodule "hugo-coder"]
 	path = hugo-coder
 	url = https://github.com/luizdepra/hugo-coder
+[submodule "kraiklyn"]
+	path = kraiklyn
+	url = https://github.com/jsnjack/kraiklyn
