@@ -611,3 +611,6 @@
 [submodule "hugo-theme-sam"]
 	path = hugo-theme-sam
 	url = https://github.com/hivickylai/hugo-theme-sam
+[submodule "hugo-bare-min-theme"]
+	path = hugo-bare-min-theme
+	url = https://github.com/kaushalmodi/hugo-bare-min-theme
