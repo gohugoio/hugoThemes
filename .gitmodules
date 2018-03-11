@@ -614,6 +614,3 @@
 [submodule "hugo-bare-min-theme"]
 	path = hugo-bare-min-theme
 	url = https://github.com/kaushalmodi/hugo-bare-min-theme
-[submodule "hugotube"]
-	path = hugotube
-	url = https://github.com/marcanuy/hugotube
