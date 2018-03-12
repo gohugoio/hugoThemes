@@ -617,3 +617,6 @@
 [submodule "hyde-hyde"]
 	path = hyde-hyde
 	url = https://github.com/htr3n/hyde-hyde
+[submodule "hugo-paper"]
+	path = hugo-paper
+	url = https://github.com/nanxiaobei/hugo-paper
