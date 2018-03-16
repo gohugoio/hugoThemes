@@ -620,3 +620,6 @@
 [submodule "hugo-paper"]
 	path = hugo-paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "hugo-natrium-theme"]
+	path = hugo-natrium-theme
+	url = https://github.com/mobybit/hugo-natrium-theme
