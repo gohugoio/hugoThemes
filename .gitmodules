@@ -623,3 +623,6 @@
 [submodule "hugo-natrium-theme"]
 	path = hugo-natrium-theme
 	url = https://github.com/mobybit/hugo-natrium-theme
+[submodule "hugotube"]
+	path = hugotube
+	url = https://github.com/marcanuy/hugotube
