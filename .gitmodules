@@ -626,3 +626,6 @@
 [submodule "hugotube"]
 	path = hugotube
 	url = https://github.com/marcanuy/hugotube
+[submodule "hugo-nederburg-theme"]
+	path = hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme
