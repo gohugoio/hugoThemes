@@ -629,3 +629,6 @@
 [submodule "hugo-nederburg-theme"]
 	path = hugo-nederburg-theme
 	url = https://github.com/appernetic/hugo-nederburg-theme
+[submodule "hestia-pure"]
+	path = hestia-pure
+	url = https://github.com/diwao/hestia-pure
