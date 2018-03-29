@@ -632,3 +632,6 @@
 [submodule "hestia-pure"]
 	path = hestia-pure
 	url = https://github.com/diwao/hestia-pure
+[submodule "hugo-dream-plus"]
+	path = hugo-dream-plus
+	url = https://github.com/UtkarshVerma/hugo-dream-plus
