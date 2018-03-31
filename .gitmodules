@@ -635,3 +635,6 @@
 [submodule "hugo-dream-plus"]
 	path = hugo-dream-plus
 	url = https://github.com/UtkarshVerma/hugo-dream-plus
+[submodule "hugo-initio"]
+	path = hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio
