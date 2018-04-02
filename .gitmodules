@@ -638,3 +638,6 @@
 [submodule "hugo-initio"]
 	path = hugo-initio
 	url = https://github.com/miguelsimoni/hugo-initio
+[submodule "hugo-theme-dopetrope"]
+	path = hugo-theme-dopetrope
+	url = https://github.com/curttimson/hugo-theme-dopetrope
