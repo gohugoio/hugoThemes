@@ -641,3 +641,6 @@
 [submodule "hugo-theme-dopetrope"]
 	path = hugo-theme-dopetrope
 	url = https://github.com/curttimson/hugo-theme-dopetrope
+[submodule "potato-dark"]
+	path = potato-dark
+	url = https://github.com/surajmandalcell/potato-dark
