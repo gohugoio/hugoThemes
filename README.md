@@ -51,24 +51,24 @@ Each theme needs:
 This file contains metadata about the theme and its creator. **Only `theme.toml` is accepted, not `theme.yaml` or not `theme.json`**. The following fields are required:
 
 ```toml
-name = "Hyde"
+name = "Theme Name"
 license = "MIT"
-licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
-description = "An elegant open-source and mobile-first theme"
-homepage = "http://example.com/"
+licenselink = "Link to theme's license"
+description = "Theme description"
+homepage = "Website of your theme"
 tags = ["blog", "company"]
-features = ["blog"]
-min_version = 0.24
+features = ["some", "awesome", "features"]
+min_version = 0.38
 
 [author]
-    name = "spf13"
-    homepage = "http://spf13.com/"
+    name = "Your name"
+    homepage = "Your website"
 
 # If porting an existing theme
 [original]
-    author = "mdo"
-    homepage = "http://hyde.getpoole.com/"
-    repo = "https://www.github.com/mdo/hyde"
+    author = "Name of original author"
+    homepage = "His/Her website"
+    repo = "Link to source code of original theme"
 ```
 
 ## Media
