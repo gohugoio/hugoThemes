@@ -644,3 +644,6 @@
 [submodule "potato-dark"]
 	path = potato-dark
 	url = https://github.com/surajmandalcell/potato-dark
+[submodule "hugo-theme-sarah"]
+	path = hugo-theme-sarah
+	url = https://github.com/avelino/hugo-theme-sarah.git
