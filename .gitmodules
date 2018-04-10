@@ -644,3 +644,6 @@
 [submodule "potato-dark"]
 	path = potato-dark
 	url = https://github.com/surajmandalcell/potato-dark
+[submodule "classless-hugo"]
+	path = classless-hugo
+	url = https://github.com/fiatjaf/classless-hugo
