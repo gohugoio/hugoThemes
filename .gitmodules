@@ -647,3 +647,6 @@
 [submodule "classless-hugo"]
 	path = classless-hugo
 	url = https://github.com/fiatjaf/classless-hugo
+[submodule "hugo-fresh"]
+    path = hugo-fresh
+    url = https://github.com/lucperkins/hugo-fresh
