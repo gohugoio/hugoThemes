@@ -650,3 +650,6 @@
 [submodule "hugo-bootstrap"]
 	path = hugo-bootstrap
 	url = https://github.com/Xzya/hugo-bootstrap
+[submodule "hugo-fresh"]
+	path = hugo-fresh
+	url = https://github.com/lucperkins/hugo-fresh
