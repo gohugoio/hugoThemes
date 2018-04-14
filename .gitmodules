@@ -571,7 +571,7 @@
 	url = https://github.com/aos/temple.git
 [submodule "hugo-split-theme"]
 	path = hugo-split-theme
-	url = https://github.com/christianmendoza/hugo-split-theme.git
+	url = https://github.com/escalate/hugo-split-theme
 [submodule "simplicity"]
 	path = simplicity
 	url = https://github.com/eshlox/simplicity.git
@@ -648,5 +648,8 @@
 	path = classless-hugo
 	url = https://github.com/fiatjaf/classless-hugo
 [submodule "hugo-fresh"]
-    path = hugo-fresh
-    url = https://github.com/lucperkins/hugo-fresh
+  path = hugo-fresh
+  url = https://github.com/lucperkins/hugo-fresh
+[submodule "hugo-bootstrap"]
+	path = hugo-bootstrap
+	url = https://github.com/Xzya/hugo-bootstrap
