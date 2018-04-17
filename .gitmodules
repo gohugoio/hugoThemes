@@ -653,3 +653,6 @@
 [submodule "hugo-fresh"]
 	path = hugo-fresh
 	url = https://github.com/lucperkins/hugo-fresh.git
+[submodule "airspace-hugo"]
+	path = airspace-hugo
+	url = https://github.com/themefisher/airspace-hugo
