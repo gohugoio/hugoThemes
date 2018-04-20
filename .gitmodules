@@ -656,3 +656,6 @@
 [submodule "airspace-hugo"]
 	path = airspace-hugo
 	url = https://github.com/themefisher/airspace-hugo
+[submodule "hugo-lodi-theme"]
+	path = hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
