@@ -662,3 +662,6 @@
 [submodule "apricot-hugo-theme"]
 	path = apricot-hugo-theme
 	url = https://github.com/otterpro/apricot-hugo-theme
+[submodule "hugo-material-blog"]
+	path = hugo-material-blog
+	url = https://github.com/Xzya/hugo-material-blog
