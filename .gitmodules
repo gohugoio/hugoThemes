@@ -659,3 +659,6 @@
 [submodule "hugo-lodi-theme"]
 	path = hugo-lodi-theme
 	url = https://github.com/xaviablaza/hugo-lodi-theme
+[submodule "apricot-hugo-theme"]
+	path = apricot-hugo-theme
+	url = https://github.com/otterpro/apricot-hugo-theme
