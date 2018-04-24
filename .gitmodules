@@ -665,3 +665,6 @@
 [submodule "hugo-material-blog"]
 	path = hugo-material-blog
 	url = https://github.com/Xzya/hugo-material-blog
+[submodule "hugo-startpage-theme"]
+	path = hugo-startpage-theme
+	url = https://github.com/tnwhitwell/hugo-startpage-theme
