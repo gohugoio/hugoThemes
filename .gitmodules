@@ -668,3 +668,6 @@
 [submodule "hugo-startpage-theme"]
 	path = hugo-startpage-theme
 	url = https://github.com/tnwhitwell/hugo-startpage-theme
+[submodule "sublime-hugo-theme"]
+	path = sublime-hugo-theme
+	url = https://github.com/dt801ts/sublime-hugo-theme
