@@ -655,19 +655,19 @@
 	url = https://github.com/lucperkins/hugo-fresh.git
 [submodule "airspace-hugo"]
 	path = airspace-hugo
-	url = https://github.com/themefisher/airspace-hugo
+	url = https://github.com/themefisher/airspace-hugo.git
 [submodule "hugo-lodi-theme"]
 	path = hugo-lodi-theme
-	url = https://github.com/xaviablaza/hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
 [submodule "apricot-hugo-theme"]
 	path = apricot-hugo-theme
-	url = https://github.com/otterpro/apricot-hugo-theme
+	url = https://github.com/otterpro/apricot-hugo-theme.git
 [submodule "hugo-material-blog"]
 	path = hugo-material-blog
-	url = https://github.com/Xzya/hugo-material-blog
+	url = https://github.com/Xzya/hugo-material-blog.git
 [submodule "hugo-startpage-theme"]
 	path = hugo-startpage-theme
-	url = https://github.com/tnwhitwell/hugo-startpage-theme
+	url = https://github.com/tnwhitwell/hugo-startpage-theme.git
 [submodule "sublime-hugo-theme"]
 	path = sublime-hugo-theme
-	url = https://github.com/dt801ts/sublime-hugo-theme
+	url = https://github.com/dt801ts/sublime-hugo-theme.git
