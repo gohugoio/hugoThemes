@@ -14,8 +14,8 @@ function fixReadme() {
 	# Make images viewable outside GitHub
 	content=$(echo "$content" | perl -p -e 's/github\.com\/(.*?)\/blob\/master\/images/raw\.githubusercontent\.com\/$1\/master\/images/g;')
 	# Tell Hugo not to process shortcode samples
-	content=$(echo "$content" | perl -0pe 's/{{%([^\/].*?)%}}/{{%\/*$1*\/%}}/sg;')
-	content=$(echo "$content" | perl -0pe 's/{{<([^\/].*?)>}}/{{<\/*$1*\/>}}/sg;')
+	content=$(echo "$content" | perl -0pe 's/\{\{%([^\/].*?)%\}\}/{{%\/*$1*\/%}}/sg;')
+	content=$(echo "$content" | perl -0pe 's/\{\{<([^\/].*?)>\}\}/{{<\/*$1*\/>}}/sg;')
 
 	echo "$content"
 }
