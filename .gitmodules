@@ -671,3 +671,6 @@
 [submodule "sublime-hugo-theme"]
 	path = sublime-hugo-theme
 	url = https://github.com/dt801ts/sublime-hugo-theme.git
+[submodule "seminyak"]
+	path = seminyak
+	url = https://github.com/comfusion/seminyak
