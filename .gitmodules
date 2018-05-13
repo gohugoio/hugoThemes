@@ -674,3 +674,6 @@
 [submodule "seminyak"]
 	path = seminyak
 	url = https://github.com/comfusion/seminyak
+[submodule "hugo-shopping-product-catalogue-simple"]
+	path = hugo-shopping-product-catalogue-simple
+	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple
