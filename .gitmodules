@@ -677,3 +677,6 @@
 [submodule "hugo-shopping-product-catalogue-simple"]
 	path = hugo-shopping-product-catalogue-simple
 	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple
+[submodule "alpha-church"]
+	path = alpha-church
+	url = https://github.com/funkydan2/alpha-church
