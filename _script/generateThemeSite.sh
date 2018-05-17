@@ -59,7 +59,7 @@ configTplPrefix="config-tpl"
 configBase="${configTplPrefix}-base"
 configBaseParams="${configTplPrefix}-params"
 
-export HUGO_THEMESDIR=${themesDir} 
+export HUGO_THEMESDIR=${themesDir}
 
 # This is the hugo Theme Site Builder
 mkdir -p hugoThemeSite
@@ -121,14 +121,13 @@ errorCounter=0
 
 for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -not -path "*_script" | xargs -n1 basename`; do
 
-
-	blacklisted=`echo ${blacklist[*]} | grep "$x"`
+	blacklisted=`echo ${blacklist[*]} | grep -w "$x"`
 	if [ "${blacklisted}" != "" ]; then
 		continue
 	fi
 
 	generateDemo=true
-	inNoDemo=`echo ${noDemo[*]} | grep "$x"`
+	inNoDemo=`echo ${noDemo[*]} | grep -w "$x"`
 	if [ "${inNoDemo}" != "" ]; then
 		generateDemo=false
 	fi
@@ -167,7 +166,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	demoDestination="../themeSite/static/theme/$x/"
 
 	export HUGO_CANONIFYURLS=true
-            
+
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
         	# Use content and config in exampleSite
