@@ -680,3 +680,6 @@
 [submodule "alpha-church"]
 	path = alpha-church
 	url = https://github.com/funkydan2/alpha-church
+[submodule "er"]
+	path = er
+	url = https://github.com/lingxz/er.git
