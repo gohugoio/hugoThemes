@@ -683,3 +683,6 @@
 [submodule "er"]
 	path = er
 	url = https://github.com/lingxz/er.git
+[submodule "reveal-hugo"]
+	path = reveal-hugo
+	url = https://github.com/dzello/reveal-hugo/
