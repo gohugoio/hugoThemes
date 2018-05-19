@@ -686,3 +686,6 @@
 [submodule "reveal-hugo"]
 	path = reveal-hugo
 	url = https://github.com/dzello/reveal-hugo/
+[submodule "capsule"]
+	path = capsule
+	url = https://github.com/sudorook/capsule
