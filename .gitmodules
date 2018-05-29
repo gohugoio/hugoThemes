@@ -676,19 +676,19 @@
 	url = https://github.com/comfusion/seminyak
 [submodule "hugo-shopping-product-catalogue-simple"]
 	path = hugo-shopping-product-catalogue-simple
-	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple
+	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple.git
 [submodule "alpha-church"]
 	path = alpha-church
-	url = https://github.com/funkydan2/alpha-church
+	url = https://github.com/funkydan2/alpha-church.git
 [submodule "er"]
 	path = er
 	url = https://github.com/lingxz/er.git
 [submodule "reveal-hugo"]
 	path = reveal-hugo
-	url = https://github.com/dzello/reveal-hugo/
+	url = https://github.com/dzello/reveal-hugo.git
 [submodule "capsule"]
 	path = capsule
-	url = https://github.com/sudorook/capsule
+	url = https://github.com/sudorook/capsule.git
 [submodule "min_night"]
 	path = min_night
-	url = https://github.com/nathancday/min_night
+	url = https://github.com/nathancday/min_night.git
