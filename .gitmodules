@@ -692,3 +692,6 @@
 [submodule "min_night"]
 	path = min_night
 	url = https://github.com/nathancday/min_night.git
+[submodule "yourfolio"]
+	path = yourfolio
+	url = https://github.com/serg/yourfolio
