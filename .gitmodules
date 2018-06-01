@@ -694,4 +694,7 @@
 	url = https://github.com/nathancday/min_night.git
 [submodule "yourfolio"]
 	path = yourfolio
-	url = https://github.com/serg/yourfolio
+	url = https://github.com/serg/yourfolio.git
+[submodule "vex-hugo"]
+	path = vex-hugo
+	url = https://github.com/themefisher/vex-hugo.git
