@@ -698,3 +698,6 @@
 [submodule "vex-hugo"]
 	path = vex-hugo
 	url = https://github.com/themefisher/vex-hugo.git
+[submodule "hugo-lamp"]
+	path = hugo-lamp
+	url = https://github.com/huyb1991/hugo-lamp
