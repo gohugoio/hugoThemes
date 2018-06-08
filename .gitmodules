@@ -676,22 +676,31 @@
 	url = https://github.com/comfusion/seminyak
 [submodule "hugo-shopping-product-catalogue-simple"]
 	path = hugo-shopping-product-catalogue-simple
-	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple
+	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple.git
 [submodule "alpha-church"]
 	path = alpha-church
-	url = https://github.com/funkydan2/alpha-church
+	url = https://github.com/funkydan2/alpha-church.git
 [submodule "er"]
 	path = er
 	url = https://github.com/lingxz/er.git
 [submodule "reveal-hugo"]
 	path = reveal-hugo
-	url = https://github.com/dzello/reveal-hugo/
+	url = https://github.com/dzello/reveal-hugo.git
 [submodule "capsule"]
 	path = capsule
-	url = https://github.com/sudorook/capsule
+	url = https://github.com/sudorook/capsule.git
 [submodule "min_night"]
 	path = min_night
-	url = https://github.com/nathancday/min_night
+	url = https://github.com/nathancday/min_night.git
+[submodule "yourfolio"]
+	path = yourfolio
+	url = https://github.com/serg/yourfolio.git
+[submodule "vex-hugo"]
+	path = vex-hugo
+	url = https://github.com/themefisher/vex-hugo.git
+[submodule "hugo-lamp"]
+	path = hugo-lamp
+	url = https://github.com/huyb1991/hugo-lamp
 [submodule "hugo-theme-sarah"]
 	path = hugo-theme-sarah
 	url = https://github.com/avelino/hugo-theme-sarah.git
