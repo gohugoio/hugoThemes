@@ -701,3 +701,6 @@
 [submodule "hugo-lamp"]
 	path = hugo-lamp
 	url = https://github.com/huyb1991/hugo-lamp
+[submodule "BeyondNothing"]
+	path = BeyondNothing
+	url = https://github.com/salcan/BeyondNothing
