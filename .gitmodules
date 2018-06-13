@@ -704,3 +704,6 @@
 [submodule "BeyondNothing"]
 	path = BeyondNothing
 	url = https://github.com/salcan/BeyondNothing
+[submodule "hugo-stellar-theme"]
+	path = hugo-stellar-theme
+	url = https://github.com/antonpolishko/hugo-stellar-theme
