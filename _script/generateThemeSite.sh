@@ -115,7 +115,8 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-smpl-theme: Promotional non-Hugo links
 # hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/172
 # hugo-finite: Too big
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-finite')
+# lamp: Icon font does not work with baseURL with sub-folder.
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-finite', 'lamp')
 
 errorCounter=0
 
