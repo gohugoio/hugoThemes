@@ -707,3 +707,6 @@
 [submodule "hugo-stellar-theme"]
 	path = hugo-stellar-theme
 	url = https://github.com/antonpolishko/hugo-stellar-theme
+[submodule "cstate"]
+	path = cstate
+	url = https://github.com/mistermantas/cstate
