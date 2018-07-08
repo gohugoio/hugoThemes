@@ -710,3 +710,6 @@
 [submodule "hugo-theme-cleanwhite"]
 	path = hugo-theme-cleanwhite
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
+[submodule "theer"]
+	path = theer
+	url = https://github.com/ghoostqq/theer
