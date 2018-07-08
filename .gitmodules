@@ -710,3 +710,6 @@
 [submodule "theer"]
 	path = theer
 	url = https://github.com/ghoostqq/theer
+[submodule "after-dark"]
+	path = after-dark
+	url = https://git.habd.as/comfusion/after-dark.git
