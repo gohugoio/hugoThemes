@@ -312,7 +312,7 @@
 	url = https://github.com/pedrodude/martial-paper.git
 [submodule "after-dark"]
 	path = after-dark
-	url = https://github.com/comfusion/after-dark.git
+	url = https://git.habd.as/comfusion/after-dark.git
 [submodule "hugo-faq-theme"]
 	path = hugo-faq-theme
 	url = https://github.com/aerohub/hugo-faq-theme.git
