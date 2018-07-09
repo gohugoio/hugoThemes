@@ -713,3 +713,6 @@
 [submodule "after-dark"]
 	path = after-dark
 	url = https://git.habd.as/comfusion/after-dark.git
+[submodule "navigator-hugo"]
+	path = navigator-hugo
+	url = https://github.com/themefisher/navigator-hugo.git
