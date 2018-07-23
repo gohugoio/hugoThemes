@@ -719,3 +719,6 @@
 [submodule "hugo-sodium-theme"]
 	path = hugo-sodium-theme
 	url = https://github.com/uicardiodev/hugo-sodium-theme.git
+[submodule "hugo-bingo"]
+	path = hugo-bingo
+	url = https://github.com/gundamew/hugo-bingo.git
