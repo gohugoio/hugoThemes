@@ -716,3 +716,6 @@
 [submodule "navigator-hugo"]
 	path = navigator-hugo
 	url = https://github.com/themefisher/navigator-hugo.git
+[submodule "hugo-sodium-theme"]
+	path = hugo-sodium-theme
+	url = https://github.com/uicardiodev/hugo-sodium-theme.git
