@@ -722,3 +722,6 @@
 [submodule "hugo-bingo"]
 	path = hugo-bingo
 	url = https://github.com/gundamew/hugo-bingo.git
+[submodule "hugo-theme-hello-friend"]
+	path = hugo-theme-hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
