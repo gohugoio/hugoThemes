@@ -310,9 +310,6 @@
 [submodule "martial-paper"]
 	path = martial-paper
 	url = https://github.com/pedrodude/martial-paper.git
-[submodule "after-dark"]
-	path = after-dark
-	url = https://github.com/comfusion/after-dark.git
 [submodule "hugo-faq-theme"]
 	path = hugo-faq-theme
 	url = https://github.com/aerohub/hugo-faq-theme.git
@@ -710,3 +707,21 @@
 [submodule "cstate"]
 	path = cstate
 	url = https://github.com/mistermantas/cstate
+[submodule "hugo-theme-cleanwhite"]
+	path = hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
+[submodule "theer"]
+	path = theer
+	url = https://github.com/ghoostqq/theer
+[submodule "after-dark"]
+	path = after-dark
+	url = https://git.habd.as/comfusion/after-dark.git
+[submodule "navigator-hugo"]
+	path = navigator-hugo
+	url = https://github.com/themefisher/navigator-hugo.git
+[submodule "hugo-sodium-theme"]
+	path = hugo-sodium-theme
+	url = https://github.com/uicardiodev/hugo-sodium-theme.git
+[submodule "hugo-bingo"]
+	path = hugo-bingo
+	url = https://github.com/gundamew/hugo-bingo.git

@@ -115,7 +115,8 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-smpl-theme: Promotional non-Hugo links
 # hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/172
 # hugo-finite: Too big
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-finite')
+# lamp: Icon font does not work with baseURL with sub-folder.
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-finite', 'lamp')
 
 errorCounter=0
 
@@ -181,7 +182,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destionation="../themeSite/static/theme/$x/"
-            hugo --quiet -s exampleSite2 -d ${demoDestination} -t $x -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
                 errorCounter=$((errorCounter + 1))
@@ -208,8 +209,8 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             cat themeSite/templates/${baseConfig} >${themeConfig}
             cat themeSite/templates/${paramsConfig} >>${themeConfig}
 
-            echo "Building site for theme ${x} using config ${themeConfig} to ${demoDestination}"
-            hugo --quiet -s exampleSite --config=${themeConfig} -d ${demoDestination} -t $x -b $BASEURL/theme/$x/
+            echo "Building site for theme ${x} using config \"${themeConfig}\" to ${demoDestination}"
+            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
                 rm -rf ${demoDestination}
