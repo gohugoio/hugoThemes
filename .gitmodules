@@ -725,3 +725,6 @@
 [submodule "hugo-theme-hello-friend"]
 	path = hugo-theme-hello-friend
 	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "pristine"]
+	path = pristine
+	url = https://github.com/sakibccr/pristine.git
