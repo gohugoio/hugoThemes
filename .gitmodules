@@ -728,3 +728,6 @@
 [submodule "pristine"]
 	path = pristine
 	url = https://github.com/sakibccr/pristine.git
+[submodule "hugo-theme-den"]
+	path = hugo-theme-den
+	url = https://github.com/shaform/hugo-theme-den
