@@ -704,6 +704,9 @@
 [submodule "hugo-stellar-theme"]
 	path = hugo-stellar-theme
 	url = https://github.com/antonpolishko/hugo-stellar-theme
+[submodule "cstate"]
+	path = cstate
+	url = https://github.com/mistermantas/cstate
 [submodule "hugo-theme-cleanwhite"]
 	path = hugo-theme-cleanwhite
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
