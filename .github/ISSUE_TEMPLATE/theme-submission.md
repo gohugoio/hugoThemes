@@ -16,8 +16,9 @@ Before submitting a theme please make sure you've read the [README.md](https://g
 - [ ] an open source license has been added to `LICENSE.md`
 - [ ] all metadata have been added to `theme.toml`
 - [ ] screenshots have been added in the `images/` folder with the [required dimensions](https://github.com/gohugoio/hugoThemes/blob/master/README.md#media)
-- [ ] `https://example.com` is set as base url in `exampleSite/config.{toml, yaml, json}` to [avoid the abuse of unused domains](https://github.com/gohugoio/hugo/issues/2575)
-- [ ] the site's content is as neutral as possible (contains no ads etc.) and reflects the features of my theme
+- [ ] in case I'm using a customized demo via the exampleSite folder that
+    - [ ] `https://example.com` is set as base url in `exampleSite/config.{toml, yaml, json}` to [avoid the abuse of unused domains](https://github.com/gohugoio/hugo/issues/2575)
+    - [ ] the site's content is as neutral as possible (contains no ads etc.) and reflects the features of my theme
 - [ ] I tested my theme against the [gohugoio/HugoBasicExample](https://github.com/gohugoio/HugoBasicExample)
     - [ ] I've checked the developer tools' console in my browser for error messages
 
