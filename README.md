@@ -29,8 +29,8 @@ git clone <em>URL_TO_THEME</em>
 * Test your theme against https://github.com/gohugoio/HugoBasicExample;
 * Add a `theme.toml` file to the root of the theme and add some metadata about the theme;
 * Add a descriptive `README.md` to the root of the theme;
-* Add `/images/screenshot.png` and `/images/tn.png` (see below);
-* Open up a new Issue with a link to the theme's repository on GitHub.
+* Add `/images/screenshot.png` and `/images/tn.png` ([see below](#media));
+* Open up a new **issue** with a link to the theme's repository on GitHub. Please **DO NOT** open a pull request!
 
 If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`.
 
