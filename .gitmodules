@@ -740,3 +740,6 @@
 [submodule "minimage"]
 	path = minimage
 	url = https://github.com/d-kusk/minimage.git
+[submodule "tale-hugo"]
+	path = tale-hugo
+	url = https://github.com/EmielH/tale-hugo.git
