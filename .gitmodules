@@ -743,3 +743,6 @@
 [submodule "tale-hugo"]
 	path = tale-hugo
 	url = https://github.com/EmielH/tale-hugo.git
+[submodule "minimal-academic"]
+	path = minimal-academic
+	url = https://github.com/jhu724/minimal-academic.git
