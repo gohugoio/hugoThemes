@@ -746,3 +746,6 @@
 [submodule "minimal-academic"]
 	path = minimal-academic
 	url = https://github.com/jhu724/minimal-academic.git
+[submodule "hugo-theme-winning"]
+	path = hugo-theme-winning
+	url = https://github.com/cssandstuff/hugo-theme-winning.git
