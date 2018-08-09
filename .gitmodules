@@ -749,3 +749,6 @@
 [submodule "hugo-theme-winning"]
 	path = hugo-theme-winning
 	url = https://github.com/cssandstuff/hugo-theme-winning.git
+[submodule "simpleit-hugo-theme"]
+	path = simpleit-hugo-theme
+	url = https://github.com/marcanuy/simpleit-hugo-theme.git
