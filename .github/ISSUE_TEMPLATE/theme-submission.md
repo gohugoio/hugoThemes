@@ -21,5 +21,6 @@ Before submitting a theme please make sure you've read the [README.md](https://g
     - [ ] the site's content is as neutral as possible (contains no ads etc.) and reflects the features of my theme
 - [ ] I tested my theme against the [gohugoio/HugoBasicExample](https://github.com/gohugoio/HugoBasicExample)
     - [ ] I've checked the developer tools' console in my browser for error messages
+- [ ] my theme is using Hugo Pipes features like `toCSS` and `PostCSS`. To make my theme work for users that use the basic version of Hugo I have committed the `/resources` directory with all generated assets.
 
 Feel free to ask questions. We're glad to help.
