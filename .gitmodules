@@ -749,3 +749,6 @@
 [submodule "simpleit-hugo-theme"]
 	path = simpleit-hugo-theme
 	url = https://github.com/marcanuy/simpleit-hugo-theme.git
+[submodule "hugo_theme_adam_eve"]
+	path = hugo_theme_adam_eve
+	url = https://github.com/blankoworld/hugo_theme_adam_eve.git
