@@ -755,3 +755,6 @@
 [submodule "hugo-blog-jeffprod"]
 	path = hugo-blog-jeffprod
 	url = https://github.com/Tazeg/hugo-blog-jeffprod.git
+[submodule "saito-boilerplate"]
+	path = saito-boilerplate
+	url = https://github.com/hakuoku/saito-boilerplate.git
