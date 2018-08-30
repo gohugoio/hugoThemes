@@ -163,7 +163,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	echo "lastmod = \"$themeUpdated\"" >>themeSite/content/$x/index.md
 
 	echo "source = \"$repo\"" >>themeSite/content/$x/index.md
-	
+
 	demoDestination="../themeSite/static/theme/$x/"
 
 	export HUGO_CANONIFYURLS=true
@@ -232,7 +232,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	else
 		fixReadme ${themesDir}/$x/readme.md >> themeSite/content/$x/index.md
 	fi
-		
+
 	if ((errorCounter > 50)); then
 		echo "FAILED: Too many ($errorCounter) errors!"
 		exit 1
