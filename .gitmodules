@@ -758,3 +758,6 @@
 [submodule "saito-boilerplate"]
 	path = saito-boilerplate
 	url = https://github.com/hakuoku/saito-boilerplate.git
+[submodule "timer-hugo"]
+	path = timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
