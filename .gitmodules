@@ -761,3 +761,6 @@
 [submodule "timer-hugo"]
 	path = timer-hugo
 	url = https://github.com/themefisher/timer-hugo.git
+[submodule "charaka-hugo-theme"]
+	path = charaka-hugo-theme
+	url = https://github.com/natarajmb/charaka-hugo-theme.git
