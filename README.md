@@ -96,3 +96,21 @@ This is because its content will appear in two places&mdash;i.e., it will appear
 1. At GitHub (as usual), on your theme's regular main page.
 
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](https://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
+
+## Common Permalink Issues
+
+The demo of your theme will be available in a sub-directory of the Hugo Themes website. 
+
+1. You need to create absolute paths in the templates for the theme's assets, by using either the `absURL` function or `.Permalink`. Also make sure not to use a forward slash `/` in the beginning of a PATH, because Hugo will turn it into a relative URL and the `absURL` function will have no effect.
+
+2. If you are using [Hugo Pipes](https://gohugo.io/hugo-pipes/) to publish your theme's resources you need to use `.RelPermalink` in the templates, so that these assets are served correctly on the website.
+
+## Testing a theme with the Hugo Themes website Build Script
+
+To test your theme with the Hugo Themes Site Build Script locally:
+- Clone this repo
+- Add your theme from the root of the cloned repo with: `git submodule add --recursive <URL of your theme's repo>`
+- Navigate to the `_script/` directory e.g.`cd _script/`
+- Then execute: `./generateThemeSite.sh http://localhost:1313 && hugo server -w=false -s hugoThemeSite/themeSite`
+- Open `localhost:1313` in your browser and navigate to the theme.
+- If your theme demo is not generated you can create an error report with: `./generateThemeSite.sh > errors.txt`
