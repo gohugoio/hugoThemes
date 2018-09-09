@@ -96,3 +96,5 @@ This is because its content will appear in two places&mdash;i.e., it will appear
 1. At GitHub (as usual), on your theme's regular main page.
 
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](https://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
+
+**Note:** If you are using [Hugo Pipes](https://gohugo.io/hugo-pipes/) to publish your theme's resources you need to use `.RelPermalink` in the templates, so that these assets are served correctly on the Hugo Themes website
