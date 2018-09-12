@@ -764,3 +764,6 @@
 [submodule "charaka-hugo-theme"]
 	path = charaka-hugo-theme
 	url = https://github.com/natarajmb/charaka-hugo-theme.git
+[submodule "athena-hugo-theme"]
+	path = athena-hugo-theme
+	url = https://github.com/mtn/athena-hugo-theme.git
