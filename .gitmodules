@@ -770,3 +770,6 @@
 [submodule "basics"]
 	path = basics
 	url = https://github.com/arjunkrishnababu96/basics.git
+[submodule "hugo-assembly"]
+	path = hugo-assembly
+	url = https://github.com/salsysd/hugo-assembly.git
