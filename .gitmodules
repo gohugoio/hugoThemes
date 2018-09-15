@@ -767,3 +767,6 @@
 [submodule "athena-hugo-theme"]
 	path = athena-hugo-theme
 	url = https://github.com/mtn/athena-hugo-theme.git
+[submodule "basics"]
+	path = basics
+	url = https://github.com/arjunkrishnababu96/basics.git
