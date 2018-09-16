@@ -773,3 +773,6 @@
 [submodule "hugo-assembly"]
 	path = hugo-assembly
 	url = https://github.com/salsysd/hugo-assembly.git
+[submodule "LeaveIt"]
+	path = LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
