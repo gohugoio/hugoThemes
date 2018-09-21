@@ -776,3 +776,6 @@
 [submodule "LeaveIt"]
 	path = LeaveIt
 	url = https://github.com/liuzc/LeaveIt.git
+[submodule "story"]
+	path = story
+	url = https://github.com/xaprb/story.git
