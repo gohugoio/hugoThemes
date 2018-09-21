@@ -709,7 +709,7 @@
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
 [submodule "theer"]
 	path = theer
-	url = https://github.com/ghoostqq/theer.git
+	url = https://github.com/hanpannet/theer.git
 [submodule "navigator-hugo"]
 	path = navigator-hugo
 	url = https://github.com/themefisher/navigator-hugo.git
@@ -782,3 +782,4 @@
 [submodule "hugo-coder-portfolio"]
 	path = hugo-coder-portfolio
 	url = https://github.com/naro143/hugo-coder-portfolio.git
+
