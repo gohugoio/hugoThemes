@@ -114,3 +114,7 @@ To test your theme with the Hugo Themes Site Build Script locally:
 - Then execute: `./generateThemeSite.sh http://localhost:1313 && hugo server -w=false -s hugoThemeSite/themeSite`
 - Open `localhost:1313` in your browser and navigate to the theme.
 - If your theme demo is not generated you can create an error report with: `./generateThemeSite.sh > errors.txt`
+
+# Maintaining a theme in the list
+
+Your theme's Example Site needs to be generated with the latest version of Hugo. You will need to keep an eye on current Hugo development and update your theme accordingly, otherwise if your theme's demo fails to generate for a while, we may remove your theme from the website until you update it.
