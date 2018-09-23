@@ -789,3 +789,6 @@
 [submodule "hugograyscale"]
 	path = hugograyscale
 	url = https://github.com/runningstream/hugograyscale.git
+[submodule "hugo-lime"]
+	path = hugo-lime
+	url = https://github.com/uicardiodev/hugo-lime.git
