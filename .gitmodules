@@ -792,3 +792,6 @@
 [submodule "hugo-lime"]
 	path = hugo-lime
 	url = https://github.com/uicardiodev/hugo-lime.git
+[submodule "hugo-dusky-neon-potato"]
+	path = hugo-dusky-neon-potato
+	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
