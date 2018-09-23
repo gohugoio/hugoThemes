@@ -783,3 +783,6 @@
 	path = hugo-coder-portfolio
 	url = https://github.com/naro143/hugo-coder-portfolio.git
 
+[submodule "arabica"]
+	path = arabica
+	url = https://github.com/nirocfz/arabica.git
