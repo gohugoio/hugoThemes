@@ -786,3 +786,6 @@
 [submodule "arabica"]
 	path = arabica
 	url = https://github.com/nirocfz/arabica.git
+[submodule "hugograyscale"]
+	path = hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
