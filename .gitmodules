@@ -801,3 +801,6 @@
 [submodule "AllinOne"]
 	path = AllinOne
 	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "hugo-uilite"]
+	path = hugo-uilite
+	url = https://github.com/uicardiodev/hugo-uilite.git
