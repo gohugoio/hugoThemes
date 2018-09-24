@@ -795,3 +795,6 @@
 [submodule "hugo-dusky-neon-potato"]
 	path = hugo-dusky-neon-potato
 	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
+[submodule "hugo-theme-hamburg"]
+	path = hugo-theme-hamburg
+	url = https://github.com/hauke96/hugo-theme-hamburg.git
