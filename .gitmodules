@@ -798,3 +798,6 @@
 [submodule "hugo-theme-hamburg"]
 	path = hugo-theme-hamburg
 	url = https://github.com/hauke96/hugo-theme-hamburg.git
+[submodule "AllinOne"]
+	path = AllinOne
+	url = https://github.com/orianna-zzo/AllinOne.git
