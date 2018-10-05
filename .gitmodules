@@ -801,3 +801,6 @@
 [submodule "hugo-uilite"]
 	path = hugo-uilite
 	url = https://github.com/uicardiodev/hugo-uilite.git
+[submodule "hugo-cards"]
+	path = hugo-cards
+	url = https://github.com/bul-ikana/hugo-cards.git
