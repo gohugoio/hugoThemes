@@ -656,9 +656,6 @@
 [submodule "hugo-lodi-theme"]
 	path = hugo-lodi-theme
 	url = https://github.com/xaviablaza/hugo-lodi-theme.git
-[submodule "apricot-hugo-theme"]
-	path = apricot-hugo-theme
-	url = https://github.com/otterpro/apricot-hugo-theme.git
 [submodule "hugo-material-blog"]
 	path = hugo-material-blog
 	url = https://github.com/Xzya/hugo-material-blog.git
@@ -783,3 +780,27 @@
 	path = hugo-coder-portfolio
 	url = https://github.com/naro143/hugo-coder-portfolio.git
 
+[submodule "arabica"]
+	path = arabica
+	url = https://github.com/nirocfz/arabica.git
+[submodule "hugograyscale"]
+	path = hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
+[submodule "hugo-lime"]
+	path = hugo-lime
+	url = https://github.com/uicardiodev/hugo-lime.git
+[submodule "hugo-dusky-neon-potato"]
+	path = hugo-dusky-neon-potato
+	url = https://github.com/VVelox/hugo-dusky-neon-potato.git
+[submodule "hugo-theme-hamburg"]
+	path = hugo-theme-hamburg
+	url = https://github.com/hauke96/hugo-theme-hamburg.git
+[submodule "AllinOne"]
+	path = AllinOne
+	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "hugo-uilite"]
+	path = hugo-uilite
+	url = https://github.com/uicardiodev/hugo-uilite.git
+[submodule "hugo-cards"]
+	path = hugo-cards
+	url = https://github.com/bul-ikana/hugo-cards.git
