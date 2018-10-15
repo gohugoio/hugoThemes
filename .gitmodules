@@ -810,3 +810,6 @@
 [submodule "indigo"]
 	path = indigo
 	url = https://github.com/AngeloStavrow/indigo.git
+[submodule "hugo-minimalist-spa"]
+	path = hugo-minimalist-spa
+	url = https://github.com/SAGGameDeveloper/hugo-minimalist-spa.git
