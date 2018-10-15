@@ -807,3 +807,6 @@
 [submodule "hugo-changelog-theme"]
 	path = hugo-changelog-theme
 	url = https://github.com/jsnjack/hugo-changelog-theme.git
+[submodule "indigo"]
+	path = indigo
+	url = https://github.com/AngeloStavrow/indigo.git
