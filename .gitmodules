@@ -804,3 +804,6 @@
 [submodule "hugo-cards"]
 	path = hugo-cards
 	url = https://github.com/bul-ikana/hugo-cards.git
+[submodule "hugo-changelog-theme"]
+	path = hugo-changelog-theme
+	url = https://github.com/jsnjack/hugo-changelog-theme.git
