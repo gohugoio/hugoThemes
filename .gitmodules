@@ -816,3 +816,6 @@
 [submodule "mediumish-gohugo-theme"]
 	path = mediumish-gohugo-theme
 	url = https://github.com/lgaida/mediumish-gohugo-theme.git
+[submodule "minimal-bootstrap-hugo-theme"]
+	path = minimal-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
