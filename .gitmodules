@@ -813,3 +813,6 @@
 [submodule "hugo-minimalist-spa"]
 	path = hugo-minimalist-spa
 	url = https://github.com/SAGGameDeveloper/hugo-minimalist-spa.git
+[submodule "mediumish-gohugo-theme"]
+	path = mediumish-gohugo-theme
+	url = https://github.com/lgaida/mediumish-gohugo-theme.git
