@@ -822,3 +822,6 @@
 [submodule "hugo-alageek-theme"]
 	path = hugo-alageek-theme
 	url = https://github.com/gkmngrgn/hugo-alageek-theme.git
+[submodule "gohugo-theme-yinwang"]
+	path = gohugo-theme-yinwang
+	url = https://github.com/chinanf-boy/gohugo-theme-yinwang.git
