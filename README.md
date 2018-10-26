@@ -46,6 +46,7 @@ Each theme needs:
 1. To have the right fields in `theme.toml`;
 1. To have the right images;
 1. A good README;
+1. To include the `resources` folder if it's using [Hugo Pipes](https://gohugo.io/hugo-pipes) to process assets;
 1. To have `https://example.com` as base url in `exampleSite/config.{toml, yaml, json}` to avoid the [abuse of unused domains](https://github.com/gohugoio/hugo/issues/2575).
 
 ## theme.toml
@@ -96,6 +97,17 @@ This is because its content will appear in two places&mdash;i.e., it will appear
 1. At GitHub (as usual), on your theme's regular main page.
 
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](https://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
+
+## Resources
+[Hugo Pipes](https://gohugo.io/hugo-pipes) are only available in the extended version of Hugo.
+So, if you are processing your own assets using [Hugo Pipes](https://gohugo.io/hugo-pipes), you must take
+another step to make your theme compatible with every version of Hugo.
+
+You have to build a site using your theme, [HugoBasicExample](https://github.com/gohugoio/HugoBasicExample)
+is more than enough. This will generate your resources into the `public/resources` folder of the site. You must
+copy this folder into the root of your theme's repository, so Hugo basic versions will be able to use them.
+
+If your resources are not being published into the `public/resources` folder, check out [Common Permalink Issues](#common-permalink-issues).
 
 ## Common Permalink Issues
 
