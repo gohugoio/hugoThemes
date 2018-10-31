@@ -382,9 +382,6 @@
 [submodule "mainroad"]
 	path = mainroad
 	url = https://github.com/Vimux/mainroad.git
-[submodule "hugo-theme-foundation6-blog"]
-	path = hugo-theme-foundation6
-	url = https://github.com/htko89/hugo-theme-foundation6-blog.git
 [submodule "hugo-paper-now"]
 	path = hugo-paper-now
 	url = https://github.com/eueung/hugo-paper-now.git
