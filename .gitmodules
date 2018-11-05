@@ -825,3 +825,6 @@
 [submodule "hugo-theme-rusty"]
 	path = hugo-theme-rusty
 	url = https://github.com/cecyc/hugo-theme-rusty.git
+[submodule "hugo-book"]
+	path = hugo-book
+	url = https://github.com/alex-shpak/hugo-book.git
