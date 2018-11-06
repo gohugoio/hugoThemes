@@ -8,7 +8,7 @@ about: Theme submission
 
 Before submitting a theme please make sure you've read the [README.md](https://github.com/gohugoio/hugoThemes/blob/master/README.md#adding-a-theme-to-the-list). It describes in detail what information are needed and which requirements have to be fulfilled for the submission. The check list below can help you.
 
-**Link to my theme repository:** [INSERT URL]
+**Link to my theme repository:** REPLACE-WITH-URL
 
 ### I made sure that...
 
