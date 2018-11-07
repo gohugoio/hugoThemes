@@ -828,3 +828,6 @@
 [submodule "hugo-book"]
 	path = hugo-book
 	url = https://github.com/alex-shpak/hugo-book.git
+[submodule "simpleblox"]
+	path = simpleblox
+	url = https://github.com/okabrionz/simpleblox.git
