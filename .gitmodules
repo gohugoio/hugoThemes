@@ -292,9 +292,6 @@
 [submodule "hugrid"]
 	path = hugrid
 	url = https://github.com/aerohub/hugrid.git
-[submodule "hugo-finite"]
-	path = hugo-finite
-	url = https://github.com/lambdafu/hugo-finite.git
 [submodule "strange-case"]
 	path = strange-case
 	url = https://github.com/ExchangeRate-API/strange-case.git
