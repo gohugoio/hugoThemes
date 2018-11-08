@@ -313,9 +313,6 @@
 [submodule "hugo-faq-theme"]
 	path = hugo-faq-theme
 	url = https://github.com/aerohub/hugo-faq-theme.git
-[submodule "hemingway"]
-	path = hemingway
-	url = https://github.com/tanksuzuki/hemingway.git
 [submodule "hugo-orbit-theme"]
 	path = hugo-orbit-theme
 	url = https://github.com/aerohub/hugo-orbit-theme.git
