@@ -205,9 +205,6 @@
 [submodule "aurora"]
 	path = aurora
 	url = https://github.com/coryshaw/hugo-aurora-theme.git
-[submodule "bleak"]
-	path = bleak
-	url = https://github.com/Zenithar/hugo-theme-bleak.git
 [submodule "rocktopus"]
 	path = rocktopus
 	url = https://github.com/esell/rocktopus.git
