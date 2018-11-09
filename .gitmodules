@@ -10,9 +10,6 @@
 [submodule "hugo-incorporated"]
 	path = hugo-incorporated
 	url = https://github.com/nilproductions/hugo-incorporated.git
-[submodule "simple-a"]
-	path = simple-a
-	url = https://github.com/AlexFinn/simple-a.git
 [submodule "journal"]
 	path = journal
 	url = https://github.com/mpas/hugo-journal.git
