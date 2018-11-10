@@ -124,9 +124,6 @@
 [submodule "material-lite"]
 	path = material-lite
 	url = https://github.com/SamuelDebruyn/hugo-material-lite.git
-[submodule "robust"]
-	path = robust
-	url = https://github.com/dim0627/hugo_theme_robust.git
 [submodule "cactus"]
 	path = cactus
 	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
