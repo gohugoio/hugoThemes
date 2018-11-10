@@ -43,9 +43,6 @@
 [submodule "hugo-base-theme"]
 	path = hugo-base-theme
 	url = https://github.com/crakjie/hugo-base-theme.git
-[submodule "aglaus"]
-	path = aglaus
-	url = https://github.com/dim0627/hugo_theme_aglaus.git
 [submodule "nofancy"]
 	path = nofancy
 	url = https://github.com/gizak/nofancy.git
