@@ -67,9 +67,6 @@
 [submodule "shiori"]
 	path = shiori
 	url = https://github.com/chibicode/hugo-theme-shiori.git
-[submodule "hurock"]
-	path = hurock
-	url = https://github.com/TiTi/hurock.git
 [submodule "greyshade"]
 	path = greyshade
 	url = https://github.com/cxfksword/greyshade.git
