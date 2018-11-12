@@ -804,3 +804,6 @@
 [submodule "simpleblox"]
 	path = simpleblox
 	url = https://github.com/okabrionz/simpleblox.git
+[submodule "meghna-hugo"]
+	path = meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git
