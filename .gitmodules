@@ -403,9 +403,6 @@
 [submodule "hugo-tracks-theme"]
 	path = hugo-tracks-theme
 	url = https://github.com/ageekymonk/hugo-tracks-theme.git
-[submodule "hucore"]
-	path = hucore
-	url = https://github.com/mgjohansen/hucore.git
 [submodule "crab"]
 	path = crab
 	url = https://github.com/thomasheller/crab.git
