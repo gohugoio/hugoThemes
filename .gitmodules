@@ -7,6 +7,9 @@
 [submodule "lanyon"]
 	path = lanyon
 	url = https://github.com/tummychow/lanyon-hugo.git
+[submodule "simple-a"]
+	path = simple-a
+	url = https://github.com/AlexFinn/simple-a.git
 [submodule "hugo-incorporated"]
 	path = hugo-incorporated
 	url = https://github.com/nilproductions/hugo-incorporated.git
