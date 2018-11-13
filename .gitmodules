@@ -328,9 +328,6 @@
 [submodule "light-hugo"]
 	path = light-hugo
 	url = https://github.com/tblyler/light-hugo.git
-[submodule "hugo-sp-minimal"]
-	path = hugo-sp-minimal
-	url = https://github.com/eueung/hugo-sp-minimal.git
 [submodule "hugo-frais"]
 	path = hugo-frais
 	url = https://github.com/the2ne/hugo-frais.git
