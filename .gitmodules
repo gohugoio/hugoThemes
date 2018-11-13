@@ -70,9 +70,6 @@
 [submodule "shiori"]
 	path = shiori
 	url = https://github.com/chibicode/hugo-theme-shiori.git
-[submodule "greyshade"]
-	path = greyshade
-	url = https://github.com/cxfksword/greyshade.git
 [submodule "heather-hugo"]
 	path = heather-hugo
 	url = https://github.com/hbpasti/heather-hugo.git
