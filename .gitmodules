@@ -307,9 +307,6 @@
 [submodule "blank"]
 	path = blank
 	url = https://github.com/vimux/blank.git
-[submodule "hugo-smpl-theme"]
-	path = hugo-smpl-theme
-	url = https://github.com/christianmendoza/hugo-smpl-theme.git
 [submodule "docuapi"]
 	path = docuapi
 	url = https://github.com/bep/docuapi.git
