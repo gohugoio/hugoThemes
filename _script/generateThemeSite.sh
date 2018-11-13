@@ -114,9 +114,9 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-theme-arch: themes generates blank homepage
 # hugo-smpl-theme: Promotional non-Hugo links
 # hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/172
-# hugo-finite: Too big
 # lamp: Icon font does not work with baseURL with sub-folder.
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'hugo-finite', 'lamp')
+# hugo-bare-min: The demo throws an ERROR because the Build Script does not support Theme Components at the moment, see https://github.com/gohugoio/hugoThemes/issues/463
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme')
 
 errorCounter=0
 

@@ -10,15 +10,15 @@
 [submodule "simple-a"]
 	path = simple-a
 	url = https://github.com/AlexFinn/simple-a.git
+[submodule "hugo-incorporated"]
+	path = hugo-incorporated
+	url = https://github.com/nilproductions/hugo-incorporated.git
 [submodule "journal"]
 	path = journal
 	url = https://github.com/mpas/hugo-journal.git
 [submodule "liquorice"]
 	path = liquorice
 	url = https://github.com/eliasson/liquorice.git
-[submodule "hyde-x"]
-	path = hyde-x
-	url = https://github.com/zyro/hyde-x.git
 [submodule "purehugo"]
 	path = purehugo
 	url = https://github.com/dplesca/purehugo.git
@@ -43,9 +43,6 @@
 [submodule "hugo-base-theme"]
 	path = hugo-base-theme
 	url = https://github.com/crakjie/hugo-base-theme.git
-[submodule "aglaus"]
-	path = aglaus
-	url = https://github.com/dim0627/hugo_theme_aglaus.git
 [submodule "nofancy"]
 	path = nofancy
 	url = https://github.com/gizak/nofancy.git
@@ -73,9 +70,6 @@
 [submodule "shiori"]
 	path = shiori
 	url = https://github.com/chibicode/hugo-theme-shiori.git
-[submodule "hurock"]
-	path = hurock
-	url = https://github.com/TiTi/hurock.git
 [submodule "greyshade"]
 	path = greyshade
 	url = https://github.com/cxfksword/greyshade.git
@@ -124,9 +118,6 @@
 [submodule "material-lite"]
 	path = material-lite
 	url = https://github.com/SamuelDebruyn/hugo-material-lite.git
-[submodule "robust"]
-	path = robust
-	url = https://github.com/dim0627/hugo_theme_robust.git
 [submodule "cactus"]
 	path = cactus
 	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
@@ -202,9 +193,6 @@
 [submodule "aurora"]
 	path = aurora
 	url = https://github.com/coryshaw/hugo-aurora-theme.git
-[submodule "bleak"]
-	path = bleak
-	url = https://github.com/Zenithar/hugo-theme-bleak.git
 [submodule "rocktopus"]
 	path = rocktopus
 	url = https://github.com/esell/rocktopus.git
@@ -223,9 +211,6 @@
 [submodule "material-docs"]
 	path = material-docs
 	url = https://github.com/digitalcraftsman/hugo-material-docs.git
-[submodule "internet-weblog"]
-	path = internet-weblog
-	url = https://github.com/jnjosh/internet-weblog.git
 [submodule "hugo-phlat-theme"]
 	path = hugo-phlat-theme
 	url = https://github.com/nraboy/hugo-phlat-theme.git
@@ -316,9 +301,6 @@
 [submodule "hugo-orbit-theme"]
 	path = hugo-orbit-theme
 	url = https://github.com/aerohub/hugo-orbit-theme.git
-[submodule "hugo_theme_solit"]
-	path = hugo_theme_solit
-	url = https://github.com/dim0627/hugo_theme_solit.git
 [submodule "hugo-theme-nix"]
 	path = hugo-theme-nix
 	url = https://github.com/LordMathis/hugo-theme-nix.git
@@ -328,9 +310,6 @@
 [submodule "blank"]
 	path = blank
 	url = https://github.com/vimux/blank.git
-[submodule "hugo-smpl-theme"]
-	path = hugo-smpl-theme
-	url = https://github.com/christianmendoza/hugo-smpl-theme.git
 [submodule "docuapi"]
 	path = docuapi
 	url = https://github.com/bep/docuapi.git
@@ -352,9 +331,6 @@
 [submodule "light-hugo"]
 	path = light-hugo
 	url = https://github.com/tblyler/light-hugo.git
-[submodule "hugo-sp-minimal"]
-	path = hugo-sp-minimal
-	url = https://github.com/eueung/hugo-sp-minimal.git
 [submodule "hugo-frais"]
 	path = hugo-frais
 	url = https://github.com/the2ne/hugo-frais.git
@@ -379,9 +355,6 @@
 [submodule "mainroad"]
 	path = mainroad
 	url = https://github.com/Vimux/mainroad.git
-[submodule "hugo-paper-now"]
-	path = hugo-paper-now
-	url = https://github.com/eueung/hugo-paper-now.git
 [submodule "hugo-remark-minion"]
 	path = hugo-remark-minion
 	url = https://github.com/eueung/hugo-remark-minion.git
@@ -433,9 +406,6 @@
 [submodule "hugo-tracks-theme"]
 	path = hugo-tracks-theme
 	url = https://github.com/ageekymonk/hugo-tracks-theme.git
-[submodule "hucore"]
-	path = hucore
-	url = https://github.com/mgjohansen/hucore.git
 [submodule "crab"]
 	path = crab
 	url = https://github.com/thomasheller/crab.git
@@ -469,9 +439,6 @@
 [submodule "osprey"]
 	path = osprey
 	url = https://github.com/tomanistor/osprey.git
-[submodule "BluestNight"]
-	path = BluestNight
-	url = https://gitlab.com/BluestNight/BluestNight.git
 [submodule "slate"]
 	path = slate
 	url = https://github.com/gesquive/slate.git
@@ -587,9 +554,6 @@
 [submodule "hugo-resume"]
 	path = hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume.git
-[submodule "hugo-smorg"]
-	path = hugo-smorg
-	url = https://github.com/solutionroute/hugo-smorg.git
 [submodule "hugo-theme-jane"]
 	path = hugo-theme-jane
 	url = https://github.com/xianmin/hugo-theme-jane.git
@@ -828,3 +792,9 @@
 [submodule "simpleblox"]
 	path = simpleblox
 	url = https://github.com/okabrionz/simpleblox.git
+[submodule "meghna-hugo"]
+	path = meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo.git
+[submodule "simple-a"]
+	path = simple-a
+	url = https://github.com/AlexFinn/simple-a.git
