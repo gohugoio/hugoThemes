@@ -22,9 +22,6 @@
 [submodule "purehugo"]
 	path = purehugo
 	url = https://github.com/dplesca/purehugo.git
-[submodule "tinyce"]
-	path = tinyce
-	url = https://github.com/roperzh/tinyce-hugo-theme.git
 [submodule "html5"]
 	path = html5
 	url = https://github.com/simonmika/hugo-theme-html5.git
