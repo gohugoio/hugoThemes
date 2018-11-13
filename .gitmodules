@@ -451,9 +451,6 @@
 [submodule "manis-hugo-theme"]
 	path = manis-hugo-theme
 	url = https://github.com/yursan9/manis-hugo-theme.git
-[submodule "hugo-now"]
-	path = hugo-now
-	url = https://github.com/mikeblum/hugo-now.git
 [submodule "minimal"]
 	path = minimal
 	url = https://github.com/calintat/minimal.git
