@@ -91,9 +91,6 @@
 [submodule "simple-hugo"]
 	path = simple-hugo
 	url = https://github.com/druzza/simple-hugo.git
-[submodule "crisp"]
-	path = crisp
-	url = https://github.com/Zenithar/hugo-theme-crisp.git
 [submodule "creative"]
 	path = creative
 	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
