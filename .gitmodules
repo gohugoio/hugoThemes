@@ -771,3 +771,6 @@
 [submodule "simple-a"]
 	path = simple-a
 	url = https://github.com/AlexFinn/simple-a.git
+[submodule "hurock"]
+	path = hurock
+	url = https://github.com/TiTi/hurock
