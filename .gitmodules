@@ -774,6 +774,3 @@
 [submodule "hurock"]
 	path = hurock
 	url = https://github.com/TiTi/hurock
-[submodule "hugo-bootstrap-premium"]
-	path = hugo-bootstrap-premium
-	url = https://github.com/appernetic/hugo-bootstrap-premium.git
