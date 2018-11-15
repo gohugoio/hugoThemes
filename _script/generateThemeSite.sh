@@ -166,7 +166,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	demoDestination="../themeSite/static/theme/$x/"
 
-	export HUGO_CANONIFYURLS=false
+	export HUGO_CANONIFYURLS=true
 
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
