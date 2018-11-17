@@ -115,7 +115,7 @@ The demo of your theme will be available in a sub-directory of the Hugo Themes w
 
 1. You need to create absolute paths in the templates for the theme's assets, by using either the `absURL` function or `.Permalink`. Also make sure not to use a forward slash `/` in the beginning of a PATH, because Hugo will turn it into a relative URL and the `absURL` function will have no effect.
 
-2. If you are using [Hugo Pipes](https://gohugo.io/hugo-pipes/) to publish your theme's resources due to bug [gohugoio/hugo#5226](https://github.com/gohugoio/hugo/issues/5226) you will need to temporarily use `.RelPermalink` in the templates, so that these assets are served correctly on the website.
+2. If you are using [Hugo Pipes](https://gohugo.io/hugo-pipes/) to publish your theme's resources you need to use `.RelPermalink` in the templates, so that these assets are served correctly on the website.
 
 ## Testing a theme with the Hugo Themes website Build Script
 
