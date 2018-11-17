@@ -774,3 +774,6 @@
 [submodule "hurock"]
 	path = hurock
 	url = https://github.com/TiTi/hurock
+[submodule "internet-weblog"]
+	path = internet-weblog
+	url = https://github.com/jnjosh/internet-weblog.git
