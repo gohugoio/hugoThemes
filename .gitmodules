@@ -783,3 +783,6 @@
 [submodule "infinity-hugo"]
 	path = infinity-hugo
 	url = https://github.com/themefisher/infinity-hugo
+[submodule "hugo-now"]
+	path = hugo-now
+	url = https://github.com/mikeblum/hugo-now.git
