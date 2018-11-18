@@ -777,3 +777,6 @@
 [submodule "internet-weblog"]
 	path = internet-weblog
 	url = https://github.com/jnjosh/internet-weblog.git
+[submodule "hugo-grapes"]
+	path = hugo-grapes
+	url = https://github.com/shankar/hugo-grapes.git
