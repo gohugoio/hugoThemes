@@ -792,3 +792,6 @@
 [submodule "hallo-hugo"]
 	path = hallo-hugo
 	url = https://github.com/EmielH/hallo-hugo.git
+[submodule "bootstrap-bp-hugo-theme"]
+	path = bootstrap-bp-hugo-theme
+	url = https://github.com/spech66/bootstrap-bp-hugo-theme.git
