@@ -789,3 +789,6 @@
 [submodule "hermit"]
 	path = hermit
 	url = https://github.com/Track3/hermit.git
+[submodule "hallo-hugo"]
+	path = hallo-hugo
+	url = https://github.com/EmielH/hallo-hugo.git
