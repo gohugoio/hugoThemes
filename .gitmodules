@@ -786,3 +786,6 @@
 [submodule "hugo-now"]
 	path = hugo-now
 	url = https://github.com/mikeblum/hugo-now.git
+[submodule "hermit"]
+	path = hermit
+	url = https://github.com/Track3/hermit.git
