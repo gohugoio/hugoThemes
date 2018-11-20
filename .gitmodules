@@ -795,3 +795,6 @@
 [submodule "hugo-theme-robotico"]
 	path = hugo-theme-robotico
 	url = https://github.com/wileybaba/hugo-theme-robotico.git
+[submodule "hugo-w3-simple"]
+	path = hugo-w3-simple
+	url = https://github.com/jesselau76/hugo-w3-simple.git
