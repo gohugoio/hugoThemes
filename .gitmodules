@@ -801,3 +801,6 @@
 [submodule "evie-hugo"]
 	path = evie-hugo
 	url = https://github.com/desimone/evie-hugo.git
+[submodule "hugo-tikva"]
+	path = hugo-tikva
+	url = https://github.com/geschke/hugo-tikva.git
