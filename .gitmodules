@@ -798,3 +798,6 @@
 [submodule "hugo-w3-simple"]
 	path = hugo-w3-simple
 	url = https://github.com/jesselau76/hugo-w3-simple.git
+[submodule "evie-hugo"]
+	path = evie-hugo
+	url = https://github.com/desimone/evie-hugo.git
