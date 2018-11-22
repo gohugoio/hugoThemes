@@ -804,3 +804,6 @@
 [submodule "hugo-tikva"]
 	path = hugo-tikva
 	url = https://github.com/geschke/hugo-tikva.git
+[submodule "hugo-theme-yinyang"]
+	path = hugo-theme-yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
