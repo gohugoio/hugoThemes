@@ -196,9 +196,6 @@
 [submodule "hugo-octopress"]
 	path = hugo-octopress
 	url = https://github.com/parsiya/Hugo-Octopress.git
-[submodule "material-docs"]
-	path = material-docs
-	url = https://github.com/digitalcraftsman/hugo-material-docs.git
 [submodule "hugo-phlat-theme"]
 	path = hugo-phlat-theme
 	url = https://github.com/nraboy/hugo-phlat-theme.git
