@@ -807,3 +807,6 @@
 [submodule "hugo-oldnew-mashup"]
 	path = hugo-oldnew-mashup
 	url = https://github.com/cshoredaniel/hugo-oldnew-mashup.git
+[submodule "hugo-theme-techdoc"]
+	path = hugo-theme-techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
