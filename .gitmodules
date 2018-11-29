@@ -816,3 +816,6 @@
 [submodule "hugo-theme-techlog-simple"]
 	path = hugo-theme-techlog-simple
 	url = https://github.com/mazgi/hugo-theme-techlog-simple.git
+[submodule "hugo-apps-theme"]
+	path = hugo-apps-theme
+	url = https://github.com/gonapps/hugo-apps-theme.git
