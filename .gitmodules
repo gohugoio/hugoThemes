@@ -810,3 +810,6 @@
 [submodule "hugo-theme-techdoc"]
 	path = hugo-theme-techdoc
 	url = https://github.com/thingsym/hugo-theme-techdoc.git
+[submodule "hugo-theme-techlog-simple"]
+	path = hugo-theme-techlog-simple
+	url = https://github.com/mazgi/hugo-theme-techlog-simple.git
