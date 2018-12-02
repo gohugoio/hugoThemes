@@ -819,3 +819,6 @@
 [submodule "hugo-apps-theme"]
 	path = hugo-apps-theme
 	url = https://github.com/gonapps/hugo-apps-theme.git
+[submodule "hugo-serif-theme"]
+	path = hugo-serif-theme
+	url = https://github.com/JugglerX/hugo-serif-theme
