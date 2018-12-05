@@ -822,3 +822,6 @@
 [submodule "hugo-serif-theme"]
 	path = hugo-serif-theme
 	url = https://github.com/JugglerX/hugo-serif-theme
+[submodule "ajonp-hugo-ionic"]
+	path = ajonp-hugo-ionic
+	url = https://github.com/AJONPLLC/ajonp-hugo-ionic.git
