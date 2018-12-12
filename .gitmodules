@@ -637,7 +637,7 @@
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
 [submodule "theer"]
 	path = theer
-	url = https://github.com/hanpannet/theer.git
+	url = https://github.com/qqhann/hugo-primer.git
 [submodule "navigator-hugo"]
 	path = navigator-hugo
 	url = https://github.com/themefisher/navigator-hugo.git
