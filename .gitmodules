@@ -825,3 +825,6 @@
 [submodule "ajonp-hugo-ionic"]
 	path = ajonp-hugo-ionic
 	url = https://github.com/AJONPLLC/ajonp-hugo-ionic.git
+[submodule "Midnight"]
+	path = Midnight
+	url = https://gitlab.com/BluestNight/Midnight.git
