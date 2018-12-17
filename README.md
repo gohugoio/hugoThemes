@@ -113,7 +113,9 @@ If your resources are not being published into the `public/resources` folder, ch
 
 The demo of your theme will be available in a sub-directory of the Hugo Themes website. 
 
-- You need to create absolute paths in the templates for the theme's assets, by using either the `absURL` function or `.Permalink`. Also make sure not to use a forward slash `/` in the beginning of a PATH, because Hugo will turn it into a relative URL and the `absURL` function will have no effect.
+- If you choose to use relative URLs in your template you need to quote them.
+- In style tags you will need to use absolute URLs for the linked assets to be served properly.
+- Make sure not to use a forward slash `/` in the beginning of a `URL`, because it will point to the host root. Your theme's demo will be available in a subdirectory of the Hugo website and in this scenario Hugo will not generate the correct `URL` for theme assets.
 
 ## Testing a theme with the Hugo Themes website Build Script
 
