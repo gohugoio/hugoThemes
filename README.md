@@ -113,8 +113,9 @@ If your resources are not being published into the `public/resources` folder, ch
 
 The demo of your theme will be available in a sub-directory of the Hugo Themes website. 
 
-- If you choose to use relative URLs in your template you need to quote them.
-- In style tags you will need to use absolute URLs for the linked assets to be served properly.
+If you're creating a theme with plans to share it on the [Hugo Themes website](https://themes.gohugo.io/) please note the following: 
+- If using relative URLs in links, they must be quoted, e.g `<a href="{{ "/blog" | relURL }}">` and `<img src="{{ "/images/logo.png" | relURL }}">`
+- If using inline styles you will need to use absolute URLs, for the linked assets to be served properly, e.g. `<div style="background: url('{{ "images/background.jpg" | absURL }}')">`
 - Make sure not to use a forward slash `/` in the beginning of a `URL`, because it will point to the host root. Your theme's demo will be available in a subdirectory of the Hugo website and in this scenario Hugo will not generate the correct `URL` for theme assets.
 
 ## Testing a theme with the Hugo Themes website Build Script
