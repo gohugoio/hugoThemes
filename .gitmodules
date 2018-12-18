@@ -828,3 +828,6 @@
 [submodule "Midnight"]
 	path = Midnight
 	url = https://gitlab.com/BluestNight/Midnight.git
+[submodule "aether"]
+	path = aether
+	url = https://github.com/josephhutch/aether.git
