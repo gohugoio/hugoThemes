@@ -831,3 +831,6 @@
 [submodule "aether"]
 	path = aether
 	url = https://github.com/josephhutch/aether.git
+[submodule "silhouette-hugo"]
+	path = silhouette-hugo
+	url = https://github.com/mattbutton/silhouette-hugo.git
