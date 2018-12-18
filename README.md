@@ -99,24 +99,20 @@ This is because its content will appear in two places&mdash;i.e., it will appear
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](https://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
 
 ## Resources
-[Hugo Pipes](https://gohugo.io/hugo-pipes) are only available in the extended version of Hugo.
-So, if you are processing your own assets using [Hugo Pipes](https://gohugo.io/hugo-pipes), you must take
-another step to make your theme compatible with every version of Hugo.
 
-You have to build a site using your theme, [HugoBasicExample](https://github.com/gohugoio/HugoBasicExample)
-is more than enough. This will generate your resources into the `public/resources` folder of the site. You must
-copy this folder into the root of your theme's repository, so Hugo basic versions will be able to use them.
+If your theme makes use of the [Hugo Pipes](https://gohugo.io/hugo-pipes) methods `toCSS` and / or `PostCSS`, you need to take additional steps to make your theme compatible with the basic version of Hugo:
 
-If your resources are not being published into the `public/resources` folder, check out [Common Permalink Issues](#common-permalink-issues).
+- From the root of a Hugo project that uses your theme execute the command `hugo server` -this will generate the `/resources/` folder under the project root-.
+- Or if you prefer to build the project simply run the command `hugo` -this will generate the resources under `public/resources`-.
+- Copy the generated resources folder and commit it directly under the root of your theme's repository.
 
 ## Common Permalink Issues
 
-The demo of your theme will be available in a sub-directory of the Hugo Themes website. 
+The demo of your theme will be available in a subdirectory of the [Hugo Themes website](https://themes.gohugo.io/) and you need to make sure of the following:
 
-If you're creating a theme with plans to share it on the [Hugo Themes website](https://themes.gohugo.io/) please note the following: 
-- If using relative URLs in links, they must be quoted, e.g `<a href="{{ "/blog" | relURL }}">` and `<img src="{{ "/images/logo.png" | relURL }}">`
-- If using inline styles you will need to use absolute URLs, for the linked assets to be served properly, e.g. `<div style="background: url('{{ "images/background.jpg" | absURL }}')">`
-- Make sure not to use a forward slash `/` in the beginning of a `URL`, because it will point to the host root. Your theme's demo will be available in a subdirectory of the Hugo website and in this scenario Hugo will not generate the correct `URL` for theme assets.
+- If using relative URLs in links, these need to be quoted, e.g `<a href="{{ "/blog" | relURL }}">` and `<img src="{{ "/images/logo.png" | relURL }}">`
+- If using inline styles, these need to use absolute URLs, for the linked assets to be served properly, e.g. `<div style="background: url('{{ "images/background.jpg" | absURL }}')">`
+- Make sure not to use a forward slash `/` in the beginning of a `URL`, because it will point to the host root and Hugo will not generate the correct `URL` for the demo's assets.
 
 ## Testing a theme with the Hugo Themes website Build Script
 
