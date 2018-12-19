@@ -113,6 +113,7 @@ The demo of your theme will be available in a subdirectory of the [Hugo Themes w
 - If using relative URLs in links, these need to be quoted, e.g `<a href="{{ "/blog" | relURL }}">` and `<img src="{{ "/images/logo.png" | relURL }}">`
 - If using inline styles, these need to use absolute URLs, for the linked assets to be served properly, e.g. `<div style="background: url('{{ "images/background.jpg" | absURL }}')">`
 - Make sure not to use a forward slash `/` in the beginning of a `URL`, because it will point to the host root and Hugo will not generate the correct `URL` for the demo's assets.
+- If using external CSS and JS from a CDN, make sure to load these assets over `https`. Please do not use relative protocol URLs in your theme's templates.
 
 ## Testing a theme with the Hugo Themes website Build Script
 
