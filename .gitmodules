@@ -834,3 +834,6 @@
 [submodule "silhouette-hugo"]
 	path = silhouette-hugo
 	url = https://github.com/mattbutton/silhouette-hugo.git
+[submodule "sada"]
+	path = sada
+	url = https://github.com/darshanbaral/sada.git
