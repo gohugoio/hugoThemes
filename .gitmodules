@@ -837,3 +837,6 @@
 [submodule "sada"]
 	path = sada
 	url = https://github.com/darshanbaral/sada.git
+[submodule "slick"]
+	path = slick
+	url = https://github.com/spookey/slick.git
