@@ -846,3 +846,6 @@
 [submodule "vanilla-bootstrap-hugo-theme"]
 	path = vanilla-bootstrap-hugo-theme
 	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
+[submodule "simple-hugo-theme"]
+	path = simple-hugo-theme
+	url = https://github.com/Xzya/simple-hugo-theme.git
