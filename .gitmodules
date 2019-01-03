@@ -849,3 +849,6 @@
 [submodule "simple-hugo-theme"]
 	path = simple-hugo-theme
 	url = https://github.com/Xzya/simple-hugo-theme.git
+[submodule "hugo-hero-theme"]
+	path = hugo-hero-theme
+	url = https://github.com/JugglerX/hugo-hero-theme.git
