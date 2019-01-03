@@ -852,3 +852,6 @@
 [submodule "hugo-hero-theme"]
 	path = hugo-hero-theme
 	url = https://github.com/JugglerX/hugo-hero-theme.git
+[submodule "hugo-theme-sky"]
+	path = hugo-theme-sky
+	url = https://github.com/cfrome77/hugo-theme-sky.git
