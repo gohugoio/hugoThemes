@@ -855,3 +855,6 @@
 [submodule "hugo-theme-sky"]
 	path = hugo-theme-sky
 	url = https://github.com/cfrome77/hugo-theme-sky.git
+[submodule "onepress"]
+	path = onepress
+	url = https://github.com/ijsucceed/onepress.git
