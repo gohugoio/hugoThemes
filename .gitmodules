@@ -858,3 +858,6 @@
 [submodule "onepress"]
 	path = onepress
 	url = https://github.com/ijsucceed/onepress.git
+[submodule "vncnt-hugo"]
+	path = vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo.git
