@@ -861,3 +861,6 @@
 [submodule "vncnt-hugo"]
 	path = vncnt-hugo
 	url = https://github.com/fncnt/vncnt-hugo.git
+[submodule "dot-hugo-documentation-theme"]
+	path = dot-hugo-documentation-theme
+	url = https://github.com/gethugothemes/dot-hugo-documentation-theme.git
