@@ -40,7 +40,7 @@ If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme
 
 * Most of the themes in this repo are hosted on GitHub. We also include themes hosted on GitLab and similar, but we do not add themes living on a self-hosted repository.
 
-* Please make the Example Site's content as **neutral as possible**. See the [Artist theme's exampleSite](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example.
+* Please make the Example Site's content as **neutral as possible**. See the [Artist theme's `/exampleSite/`](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example.
 
 * An Example Site should **not** have third party tracking enabled. If you wish to provide configuration parameters to third party services (analytics, comments etc) then please do not enter a valid account `ID` or username.
 
