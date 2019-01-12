@@ -867,3 +867,6 @@
 [submodule "Niello"]
 	path = Niello
 	url = https://github.com/guangmean/Niello.git
+[submodule "hugo-terrassa-theme"]
+	path = hugo-terrassa-theme
+	url = https://github.com/danielkvist/hugo-terrassa-theme.git
