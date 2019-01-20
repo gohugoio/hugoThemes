@@ -867,3 +867,6 @@
 [submodule "hugo-terrassa-theme"]
 	path = hugo-terrassa-theme
 	url = https://github.com/danielkvist/hugo-terrassa-theme.git
+[submodule "hugo-theme-m10c"]
+	path = hugo-theme-m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
