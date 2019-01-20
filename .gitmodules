@@ -632,8 +632,8 @@
 [submodule "hugo-theme-cleanwhite"]
 	path = hugo-theme-cleanwhite
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
-[submodule "theer"]
-	path = theer
+[submodule "hugo-primer"]
+	path = hugo-primer
 	url = https://github.com/qqhann/hugo-primer.git
 [submodule "navigator-hugo"]
 	path = navigator-hugo
