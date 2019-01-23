@@ -870,3 +870,6 @@
 [submodule "hugo-theme-m10c"]
 	path = hugo-theme-m10c
 	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "gochowdown"]
+	path = gochowdown
+	url = https://github.com/seanlane/gochowdown.git
