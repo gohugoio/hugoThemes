@@ -85,9 +85,6 @@
 [submodule "startbootstrap-clean-blog"]
 	path = startbootstrap-clean-blog
 	url = https://github.com/humboldtux/startbootstrap-clean-blog.git
-[submodule "simple-hugo"]
-	path = simple-hugo
-	url = https://github.com/druzza/simple-hugo.git
 [submodule "creative"]
 	path = creative
 	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
