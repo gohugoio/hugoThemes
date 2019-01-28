@@ -182,7 +182,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destionation="../themeSite/static/theme/$x/"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
                 errorCounter=$((errorCounter + 1))
