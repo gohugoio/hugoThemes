@@ -870,3 +870,6 @@
 [submodule "gochowdown"]
 	path = gochowdown
 	url = https://github.com/seanlane/gochowdown.git
+[submodule "hugo-theme-terminal"]
+	path = hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
