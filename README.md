@@ -32,7 +32,7 @@ git clone <em>URL_TO_THEME</em>
 * Add `/images/screenshot.png` and `/images/tn.png` ([see below](#media));
 * Open up a new **issue** with a link to the theme's repository on GitHub. Please **DO NOT** open a pull request!
 
-If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite`.
+If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme authors to supply a self-contained Hugo site in `/exampleSite/`, but note that for security reasons the content directory on the Hugo showcase will still be published from the [`Hugo Basic Example`](https://github.com/gohugoio/hugoBasicExample/tree/master/content) repository.
 
 **NOTES** 
 
@@ -40,7 +40,7 @@ If your theme doesn't fit into the `Hugo Basic Example` site, we encourage theme
 
 * Most of the themes in this repo are hosted on GitHub. We also include themes hosted on GitLab and similar, but we do not add themes living on a self-hosted repository.
 
-* Please make the Example Site's content as **neutral as possible**. See the [Artist theme's `/exampleSite/`](https://github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) for a good example.
+* You need to test your theme's demo with the content directory from the [`Hugo Basic Example`](https://github.com/gohugoio/hugoBasicExample/tree/master/content) repository.
 
 * An Example Site should **not** have third party tracking enabled. If you wish to provide configuration parameters to third party services (analytics, comments etc) then please do not enter a valid account `ID` or username.
 
