@@ -804,9 +804,6 @@
 [submodule "hugo-theme-techlog-simple"]
 	path = hugo-theme-techlog-simple
 	url = https://github.com/mazgi/hugo-theme-techlog-simple.git
-[submodule "hugo-apps-theme"]
-	path = hugo-apps-theme
-	url = https://github.com/gonapps/hugo-apps-theme.git
 [submodule "hugo-serif-theme"]
 	path = hugo-serif-theme
 	url = https://github.com/JugglerX/hugo-serif-theme
@@ -867,3 +864,6 @@
 [submodule "hugo-theme-terminal"]
 	path = hugo-theme-terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "hugo-apps-theme"]
+	path = hugo-apps-theme
+	url = https://github.com/gonapps-org/hugo-apps-theme
