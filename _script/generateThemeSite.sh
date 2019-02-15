@@ -119,7 +119,7 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic')
 
-whiteList=('academic', 'reveal-hugo')
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme')
 
 errorCounter=0
 
