@@ -121,7 +121,11 @@ noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo
 
 # academic: Popular theme aimed towards academia
 # reveal-hugo: Presentation theme that depends on reveal.js
-# cupper-hugo-theme: Theme with accessibility features 
+# hugo-terrassa-theme: business theme where hugoBasicExamples's content doesn't match the context
+# hugo-theme-learn: documentation theme with custom shortcodes and own docs
+# hugo-now-ui: Bootstrap-based material theme with custom docs and shortcodes for components
+# dot-hugo-documentation-theme: business-focused knowledge base theme that require specific structure
+# cupper-hugo-theme: Theme with accessibility features
 whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme')
 
 errorCounter=0
