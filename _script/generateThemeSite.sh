@@ -119,7 +119,7 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic')
 
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme')
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme')
 
 errorCounter=0
 
@@ -188,7 +188,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
-            else 
+            else
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ -d ${demoDestination} -b $BASEURL/theme/$x/
             fi
             if [ $? -ne 0 ]; then

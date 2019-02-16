@@ -864,3 +864,6 @@
 [submodule "hugo-theme-terminal"]
 	path = hugo-theme-terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "cupper-hugo-theme"]
+	path = cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
