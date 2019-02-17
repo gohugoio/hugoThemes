@@ -867,3 +867,6 @@
 [submodule "cupper-hugo-theme"]
 	path = cupper-hugo-theme
 	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "hugo-theme-basic"]
+	path = hugo-theme-basic
+	url = https://github.com/siegerts/hugo-theme-basic.git
