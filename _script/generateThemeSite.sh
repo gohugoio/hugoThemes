@@ -59,6 +59,9 @@ configTplPrefix="config-tpl"
 configBase="${configTplPrefix}-base"
 configBaseParams="${configTplPrefix}-params"
 
+themeConfig="${TMPDIR}config-${x}.toml"
+taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
+
 export HUGO_THEMESDIR=${themesDir}
 
 # This is the hugo Theme Site Builder
@@ -196,7 +199,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             if [ "${inWhiteList}" != "" ]; then
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ -d ${demoDestination} -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             fi
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
@@ -209,7 +212,6 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
         else
 
-            themeConfig="${TMPDIR}config-${x}.toml"
             baseConfig="${configBase}.toml"
             paramsConfig="${configBaseParams}.toml"
 
