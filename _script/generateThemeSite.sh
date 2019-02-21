@@ -187,17 +187,16 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
         	# Use content and config in exampleSite
             echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
 
-            # Hugo should exit with an error code on these ...
-            if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
-                echo "Example site for theme ${x} missing /content folder"
-                generateDemo=false
-            fi
-
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destionation="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
+ # Hugo should exit with an error code on these ...
+            if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
+                echo "Example site for theme ${x} missing /content folder"
+                generateDemo=false
+            fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
