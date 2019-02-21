@@ -213,7 +213,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
         else
 
-            themeConfig="${TMPDIR}config-${x}.toml"
+            themeConfig="${siteDir}/config-${x}.toml"
             baseConfig="${configBase}.toml"
             paramsConfig="${configBaseParams}.toml"
 
