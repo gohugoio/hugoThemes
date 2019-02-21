@@ -126,7 +126,8 @@ noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo
 # hugo-now-ui: Bootstrap-based material theme with custom docs and shortcodes for components
 # dot-hugo-documentation-theme: business-focused knowledge base theme that require specific structure
 # cupper-hugo-theme: Theme with accessibility features
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme')
+# hugo-book: e-book theme needs its own content
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book')
 
 errorCounter=0
 
