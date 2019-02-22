@@ -192,7 +192,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             destionation="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
- # Hugo should exit with an error code on these ...
+            # Hugo should exit with an error code on these ...
             if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
                 echo "Example site for theme ${x} missing /content folder"
                 generateDemo=false
