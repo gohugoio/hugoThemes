@@ -123,7 +123,7 @@ The demo of your theme will be available in a subdirectory of the [Hugo Themes w
 
 To test your theme with the Hugo Themes Site Build Script locally:
 - Clone this repo
-- Add your theme from the root of the cloned repo with: `git submodule add --recursive <URL of your theme's repo>`
+- Add your theme from the root of the cloned repo with: `git submodule add <URL of your theme's repo>`
 - Navigate to the `_script/` directory e.g.`cd _script/`
 - Then execute: `./generateThemeSite.sh http://localhost:1313 && hugo server -w=false -s hugoThemeSite/themeSite`
 - Open `localhost:1313` in your browser and navigate to the theme.
