@@ -870,3 +870,6 @@
 [submodule "hugo-theme-basic"]
 	path = hugo-theme-basic
 	url = https://github.com/siegerts/hugo-theme-basic.git
+[submodule "hugo-starter"]
+	path = hugo-starter
+	url = https://github.com/jimfrenette/hugo-starter.git
