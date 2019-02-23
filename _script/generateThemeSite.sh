@@ -41,7 +41,7 @@ popd() {
 
 # Load the repositories from the provided environment variables or our defaults
 HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/gohugoio/hugoThemesSite.git}
-HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/gohugoio/hugoBasicExample.git}
+HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/onedrawingperday/hugoBasicExample.git}
 #HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/gohugoio/hugoThemes.git}
 
 #echo "Using ${HUGO_THEMES_REPO} for themes"
@@ -130,7 +130,9 @@ noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo
 # hugo-book: e-book theme needs its own content
 # yourfolio: portfolio theme needs its own content
 # hugo-resume: complicated resume theme needs its own content
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume')
+# hugo-mdl: author parameter is an inline table
+# hugo-dream-plus : author parameter is an inline table, also this theme needs itd 
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus')
 
 errorCounter=0
 
