@@ -118,7 +118,9 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-bare-min: The demo throws an ERROR because the Build Script does not support Theme Components at the moment, see https://github.com/gohugoio/hugoThemes/issues/463
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 # hugo-dgraph-theme: Not meant for out-of-the-box use, see https://github.com/dgraph-io/hugo-dgraph-theme/issues/7#issuecomment-466009569
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic', 'hugo-dgraph-theme')
+# yourfolio: portfolio theme needs its own content
+# hugo-resume: complicated resume theme needs its own content
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume')
 
 # academic: Popular theme aimed towards academia
 # reveal-hugo: Presentation theme that depends on reveal.js
