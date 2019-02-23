@@ -177,8 +177,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	echo "source = \"$repo\"" >>themeSite/content/$x/index.md
 
 	demoDestination="../themeSite/static/theme/$x/"
-	fileExt=$(.{toml,yaml,yml,json})
-	demoConfig="${themesDir}/$x/exampleSite/config${fileExt}"
+	demoConfig="${themesDir}/$x/exampleSite/config"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
 
 	export HUGO_CANONIFYURLS=true
