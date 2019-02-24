@@ -873,3 +873,6 @@
 [submodule "hugo-starter"]
 	path = hugo-starter
 	url = https://github.com/jimfrenette/hugo-starter.git
+[submodule "hugo-pacman-theme"]
+	path = hugo-pacman-theme
+	url = https://github.com/coderzh/hugo-pacman-theme
