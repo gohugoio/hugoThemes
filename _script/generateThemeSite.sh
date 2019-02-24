@@ -130,7 +130,10 @@ noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo
 # hugo-book: e-book theme needs its own content
 # yourfolio: portfolio theme needs its own content
 # hugo-resume: complicated resume theme needs its own content
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume')
+# hugo-mdl: author parameter is an inline table
+# hugo-dream-plus : author parameter is an inline table, also this theme needs its own content 
+# gohugo-theme-ananke: Quick start guide theme
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke')
 
 errorCounter=0
 
