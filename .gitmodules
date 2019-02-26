@@ -876,3 +876,6 @@
 [submodule "hugo-pacman-theme"]
 	path = hugo-pacman-theme
 	url = https://github.com/coderzh/hugo-pacman-theme
+[submodule "hugo-theme-hello-friend-ng"]
+	path = hugo-theme-hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
