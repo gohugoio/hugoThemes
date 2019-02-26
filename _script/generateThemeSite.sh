@@ -205,7 +205,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
-            if [ -f ${demoConfig}.{toml,yaml,yml,json} ]; then
+            if [ -f "${demoConfig}.{toml,yaml,yml,json}" ]; then
             grep -q languages ${demoConfig}
             echo "Language settings present"
             elif [ -f ${langConfig} ]
