@@ -184,7 +184,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	demoDestination="../themeSite/static/theme/$x/"
 	demoConfig="${themesDir}/$x/exampleSite/config"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
-        langConfig="${themesDir}/exampleSite/configLang.toml"
+        langConfig="${siteDir}/exampleSite/configLang.toml"
 
 	export HUGO_CANONIFYURLS=true
 
@@ -205,7 +205,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
-            if grep -q languages ${demoConfig}.{toml,yaml,yml,json}; then
+            if git grep -q languages ${demoConfig}; then
             echo "Language settings present"
             else
             cat ${langConfig} >>${demoConfig}
