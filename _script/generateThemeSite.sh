@@ -184,7 +184,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	demoDestination="../themeSite/static/theme/$x/"
 	demoConfig="${themesDir}/$x/exampleSite/config"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
-        langConfig="${siteDir}/exampleSite/configLang.toml"
+        langConfig="${themesDir}/exampleSite/configLang.toml"
 
 	export HUGO_CANONIFYURLS=true
 
