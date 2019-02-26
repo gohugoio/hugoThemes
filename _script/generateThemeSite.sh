@@ -190,6 +190,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
+cp -r ${siteDir}/exampleSite/content/i18n/ ${themesDir}/$x/exampleSitecontent/i18n/
         	# Use content and config in exampleSite
             echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
 
