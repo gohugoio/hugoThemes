@@ -41,7 +41,7 @@ popd() {
 
 # Load the repositories from the provided environment variables or our defaults
 HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/gohugoio/hugoThemesSite.git}
-HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/gohugoio/hugoBasicExample.git}
+HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/onedrawingperday/hugoBasicExample.git}
 #HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/gohugoio/hugoThemes.git}
 
 #echo "Using ${HUGO_THEMES_REPO} for themes"
@@ -184,6 +184,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	demoDestination="../themeSite/static/theme/$x/"
 	demoConfig="${themesDir}/$x/exampleSite/config"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
+        langConfig="${siteDir}/exampleSite/configLang.toml"
 
 	export HUGO_CANONIFYURLS=true
 
@@ -204,6 +205,11 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
+            if grep -q lang ${demoConfig}; then
+            echo "Lang settings present"
+            else
+            cat ${langConfig} >>${demoConfig}
+            fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             fi
             if [ $? -ne 0 ]; then
@@ -229,11 +235,11 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
                 paramsConfig="${configBaseParams}-${x}.toml"
             fi
 
-            cat themeSite/templates/${baseConfig} >${themeConfig}
-            cat themeSite/templates/${paramsConfig} >>${themeConfig}
+            cat themeSite/templates/${baseConfig} ${langConfig} >${themeConfig}
+            cat themeSite/templates/${paramsConfig} ${taxoConfig} >>${themeConfig}
 
             echo "Building site for theme ${x} using config \"${themeConfig}\" to ${demoDestination}"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
                 rm -rf ${demoDestination}
