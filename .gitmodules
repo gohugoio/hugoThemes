@@ -876,3 +876,6 @@
 [submodule "hugo-theme-hello-friend-ng"]
 	path = hugo-theme-hello-friend-ng
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "hugo-flex"]
+	path = hugo-flex
+	url = https://github.com/de-souza/hugo-flex.git
