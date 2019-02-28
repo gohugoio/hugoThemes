@@ -879,3 +879,6 @@
 [submodule "hugo-flex"]
 	path = hugo-flex
 	url = https://github.com/de-souza/hugo-flex.git
+[submodule "KeepIt"]
+	path = KeepIt
+	url = https://github.com/Fastbyte01/KeepIt.git
