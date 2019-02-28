@@ -182,7 +182,8 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	echo "source = \"$repo\"" >>themeSite/content/$x/index.md
 
 	demoDestination="../themeSite/static/theme/$x/"
-	demoConfig="${themesDir}/$x/exampleSite/config"
+        searchConfig="${themesDir}/$x/exampleSite/config.*"
+        demoConfig="${themesDir}/$x/exampleSite/config"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
         langConfig="${siteDir}/exampleSite/configLang.toml"
 
@@ -190,13 +191,13 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
-        cp -r -n ${siteDir}/layouts/_default/ ${themesDir}/$x/layouts/_default/
+        cp -r -n ${siteDir}/exampleSite/layouts/_default/ ${themesDir}/$x/layouts/
         	# Use content and config in exampleSite
             echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
 
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
-            destionation="../themeSite/static/theme/$x/"
+            destination="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
             # Hugo should exit with an error code on these ...
@@ -205,15 +206,12 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
                 generateDemo=false
             fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
-            else
-            if [ -f "${demoConfig}.{toml,yaml,yml,json}" ]; then
-            grep -q languages ${demoConfig}
-            echo "Language settings present"
-            elif [ -f ${langConfig} ]
-            then
-            cat ${langConfig} >>${demoConfig}
             fi
+            if grep -Fq .fr] ${searchConfig}; then
+            echo "French Lang found"
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            else
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${langConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             fi
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
