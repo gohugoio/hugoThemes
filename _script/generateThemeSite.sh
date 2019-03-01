@@ -118,7 +118,8 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-bare-min: The demo throws an ERROR because the Build Script does not support Theme Components at the moment, see https://github.com/gohugoio/hugoThemes/issues/463
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 # hugo-material-docs: theme is not compatible with more recent versions of Hugo
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic', 'hugo-material-docs')
+# devfest-theme-hugo: providing an exampleSite folders requires a lot of work, see https://github.com/gohugoio/hugoThemes/issues/584#issuecomment-467193735
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic', 'hugo-material-docs', 'devfest-theme-hugo')
 
 # academic: Popular theme aimed towards academia
 # reveal-hugo: Presentation theme that depends on reveal.js

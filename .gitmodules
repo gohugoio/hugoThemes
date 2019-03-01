@@ -882,3 +882,6 @@
 [submodule "KeepIt"]
 	path = KeepIt
 	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "devfest-theme-hugo"]
+	path = devfest-theme-hugo
+	url = https://github.com/GDGToulouse/devfest-theme-hugo.git
