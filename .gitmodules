@@ -885,3 +885,6 @@
 [submodule "devfest-theme-hugo"]
 	path = devfest-theme-hugo
 	url = https://github.com/GDGToulouse/devfest-theme-hugo.git
+[submodule "papercss-hugo-theme"]
+	path = papercss-hugo-theme
+	url = https://github.com/zwbetz-gh/papercss-hugo-theme.git
