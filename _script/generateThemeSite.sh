@@ -41,7 +41,7 @@ popd() {
 
 # Load the repositories from the provided environment variables or our defaults
 HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/gohugoio/hugoThemesSite.git}
-HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/gohugoio/hugoBasicExample.git}
+HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/onedrawingperday/hugoBasicExample.git}
 #HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/gohugoio/hugoThemes.git}
 
 #echo "Using ${HUGO_THEMES_REPO} for themes"
@@ -107,7 +107,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch")
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github')
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
@@ -117,7 +117,8 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # lamp: Icon font does not work with baseURL with sub-folder.
 # hugo-bare-min: The demo throws an ERROR because the Build Script does not support Theme Components at the moment, see https://github.com/gohugoio/hugoThemes/issues/463
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic')
+# hugo-dgraph-theme: Not meant for out-of-the-box use, see https://github.com/dgraph-io/hugo-dgraph-theme/issues/7#issuecomment-466009569
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic', 'hugo-dgraph-theme')
 
 # academic: Popular theme aimed towards academia
 # reveal-hugo: Presentation theme that depends on reveal.js
@@ -181,19 +182,22 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	echo "source = \"$repo\"" >>themeSite/content/$x/index.md
 
 	demoDestination="../themeSite/static/theme/$x/"
-	demoConfig="${themesDir}/$x/exampleSite/config"
+        searchConfig="${themesDir}/$x/exampleSite/config.*"
+        demoConfig="${themesDir}/$x/exampleSite/config"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
+        langConfig="${siteDir}/exampleSite/configLang.toml"
 
 	export HUGO_CANONIFYURLS=true
 
     if $generateDemo; then
         if [ -d "${themesDir}/$x/exampleSite" ]; then
+        cp -r -n ${siteDir}/exampleSite/layouts/_default/ ${themesDir}/$x/layouts/
         	# Use content and config in exampleSite
             echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
 
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
-            destionation="../themeSite/static/theme/$x/"
+            destination="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
             # Hugo should exit with an error code on these ...
@@ -203,7 +207,12 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
+            if grep -Fq .fr] ${searchConfig}; then
+            echo "French Lang found"
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            else
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${langConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            fi
             fi
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
@@ -228,11 +237,11 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
                 paramsConfig="${configBaseParams}-${x}.toml"
             fi
 
-            cat themeSite/templates/${baseConfig} >${themeConfig}
-            cat themeSite/templates/${paramsConfig} >>${themeConfig}
+            cat themeSite/templates/${baseConfig} ${langConfig} >${themeConfig}
+            cat themeSite/templates/${paramsConfig} ${taxoConfig} >>${themeConfig}
 
             echo "Building site for theme ${x} using config \"${themeConfig}\" to ${demoDestination}"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
                 rm -rf ${demoDestination}
