@@ -888,3 +888,6 @@
 [submodule "papercss-hugo-theme"]
 	path = papercss-hugo-theme
 	url = https://github.com/zwbetz-gh/papercss-hugo-theme.git
+[submodule "hugo-swift-theme"]
+	path = hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
