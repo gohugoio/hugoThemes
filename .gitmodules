@@ -891,3 +891,6 @@
 [submodule "hugo-swift-theme"]
 	path = hugo-swift-theme
 	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "mero"]
+	path = mero
+	url = https://github.com/darshanbaral/mero.git
