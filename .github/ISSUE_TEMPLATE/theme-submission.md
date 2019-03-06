@@ -18,7 +18,7 @@ Before submitting a theme please make sure you've read the [README.md](https://g
 - [ ] screenshots have been added in the `images/` folder with the [required dimensions](https://github.com/gohugoio/hugoThemes/blob/master/README.md#media)
 - [ ] in case I'm using a customized demo via the exampleSite folder that
     - [ ] `https://example.com` is set as base url in `exampleSite/config.{toml, yaml, json}` to [avoid the abuse of unused domains](https://github.com/gohugoio/hugo/issues/2575)
-    - [ ] I tested that my theme's demo works with the content directory of [gohugoio/HugoBasicExample](https://github.com/gohugoio/HugoBasicExample/content/https://github.com/gohugoio/hugoBasicExample/tree/master/content)
+    - [ ] I tested that my theme's demo works with the content directory of [gohugoio/HugoBasicExample](https://github.com/gohugoio/hugoBasicExample/tree/master/content)
 - [ ] I tested my theme against the [gohugoio/HugoBasicExample](https://github.com/gohugoio/HugoBasicExample)
     - [ ] I've checked the developer tools' console in my browser for error messages
 - [ ] in case my theme is using Hugo Pipes features like `toCSS` and `PostCSS` that I have committed the `/resources` directory with all generated assets, for my theme to work in the basic version of Hugo
