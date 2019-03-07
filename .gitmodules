@@ -894,3 +894,6 @@
 [submodule "mero"]
 	path = mero
 	url = https://github.com/darshanbaral/mero.git
+[submodule "spectrum"]
+	path = spectrum
+	url = https://github.com/silvanocerza/spectrum.git
