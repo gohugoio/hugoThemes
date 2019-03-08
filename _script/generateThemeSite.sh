@@ -161,7 +161,6 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	# Use the thumbnail as featured image for the Twitter card etc.
 	cp ${themesDir}/$x/images/tn.png themeSite/content/$x/tn-featured-$x.png
 
-
 	title=$( echo "${x}" | tr "-" " " | awk '{for(i=1;i<=NF;i++)sub(/./,toupper(substr($i,1,1)),$i)}1')
 
 	echo "+++" >themeSite/content/$x/index.md
@@ -186,18 +185,21 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	demoDestination="../themeSite/static/theme/$x/"
 	demoConfig="${themesDir}/$x/exampleSite/config"
+	ignoreConfig="${siteDir}/exampleSite/confIgnore.toml"
+	postsConfig="${siteDir}/exampleSite/configPosts.toml"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
 
 	export HUGO_CANONIFYURLS=true
 
     if $generateDemo; then
+
         if [ -d "${themesDir}/$x/exampleSite" ]; then
         	# Use content and config in exampleSite
             echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
 
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
-            destionation="../themeSite/static/theme/$x/"
+            destination="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
             # Hugo should exit with an error code on these ...
@@ -207,7 +209,12 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             fi
             HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            if grep -Fq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/index.html; then
+            echo "Type posts found"
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${postsConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            else
+            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig}${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            fi
             fi
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
