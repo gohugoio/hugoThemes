@@ -897,3 +897,6 @@
 [submodule "spectrum"]
 	path = spectrum
 	url = https://github.com/silvanocerza/spectrum.git
+[submodule "hugo-mondrian-theme"]
+	path = hugo-mondrian-theme
+	url = https://github.com/redraw/hugo-mondrian-theme.git
