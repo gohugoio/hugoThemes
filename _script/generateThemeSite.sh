@@ -243,7 +243,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             cat themeSite/templates/${paramsConfig} >>${themeConfig}
 
             echo "Building site for theme ${x} using config \"${themeConfig}\" to ${demoDestination}"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${ignoreConfig},${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
                 rm -rf ${demoDestination}
