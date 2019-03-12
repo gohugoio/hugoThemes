@@ -900,3 +900,6 @@
 [submodule "hugo-mondrian-theme"]
 	path = hugo-mondrian-theme
 	url = https://github.com/redraw/hugo-mondrian-theme.git
+[submodule "hugo-appyness"]
+	path = hugo-appyness
+	url = https://github.com/uicardiodev/hugo-appyness.git
