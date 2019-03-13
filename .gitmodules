@@ -906,3 +906,6 @@
 [submodule "Binario"]
 	path = Binario
 	url = https://github.com/Vimux/Binario.git
+[submodule "aafu"]
+	path = aafu
+	url = https://github.com/darshanbaral/aafu.git
