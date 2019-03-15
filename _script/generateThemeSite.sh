@@ -205,26 +205,27 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
         if [ -d "${themesDir}/$x/exampleSite" ]; then
         	# Use content and config in exampleSite
-            echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
-
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destination="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
-            # Hugo should exit with an error code on these ...
-            if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
-                echo "Example site for theme ${x} missing /content folder"
-                generateDemo=false
-            fi
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
+				echo "${x} is whitelisted"
+				echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
+				# Hugo should exit with an error code on these ...
+				if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
+					echo "Example site for theme ${x} missing /content folder"
+					generateDemo=false
+				fi
+            	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
-            if grep -Fq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/index.html; then
-            echo "Type posts found"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
-            else
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
-            fi
+				echo "Building site for theme ${x} using default content to ${demoDestination}"
+				if grep -Fq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/index.html; then
+				echo "Type posts found"
+				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+				else
+				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+				fi
             fi
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
