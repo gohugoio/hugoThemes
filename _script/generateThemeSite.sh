@@ -155,6 +155,14 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 		generateDemo=false
 	fi
 
+	skipEmptySubmodule=false
+	if [ ! -f "${themesDir}/$x/theme.toml" ]; then
+		echo " ==== SKIPPING " $x " (Submodule Empty) ====== "
+		skipEmptySubmodule=true
+	fi
+
+	if ! $skipEmptySubmodule; then
+
 	echo " ==== PROCESSING " $x " ====== "
 
 	mkdir -p themeSite/content/$x
@@ -266,6 +274,8 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 		fixReadme ${themesDir}/$x/README.md >> themeSite/content/$x/index.md
 	else
 		fixReadme ${themesDir}/$x/readme.md >> themeSite/content/$x/index.md
+	fi
+
 	fi
 
 	if ((errorCounter > 50)); then
