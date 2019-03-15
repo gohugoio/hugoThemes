@@ -107,7 +107,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch")
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch", ".github")
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
@@ -155,6 +155,14 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 		generateDemo=false
 	fi
 
+	skipEmptySubmodule=false
+	if [ ! -f "${themesDir}/$x/theme.toml" ]; then
+		echo " ==== SKIPPING " $x " (Submodule Empty) ====== "
+		skipEmptySubmodule=true
+	fi
+
+	if ! $skipEmptySubmodule; then
+
 	echo " ==== PROCESSING " $x " ====== "
 
 	mkdir -p themeSite/content/$x
@@ -197,26 +205,27 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
         if [ -d "${themesDir}/$x/exampleSite" ]; then
         	# Use content and config in exampleSite
-            echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
-
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destination="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
-            # Hugo should exit with an error code on these ...
-            if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
-                echo "Example site for theme ${x} missing /content folder"
-                generateDemo=false
-            fi
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
+				echo "${x} is whitelisted"
+				echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
+				# Hugo should exit with an error code on these ...
+				if [ ! -d "${themesDir}/$x/exampleSite/content" ]; then
+					echo "Example site for theme ${x} missing /content folder"
+					generateDemo=false
+				fi
+            	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
-            if grep -Fq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/index.html; then
-            echo "Type posts found"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
-            else
-            HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
-            fi
+				echo "Building site for theme ${x} using default content to ${demoDestination}"
+				if grep -Fq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/index.html; then
+				echo "Type posts found"
+				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+				else
+				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+				fi
             fi
             if [ $? -ne 0 ]; then
                 echo "FAILED to create exampleSite for $x"
@@ -266,6 +275,8 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 		fixReadme ${themesDir}/$x/README.md >> themeSite/content/$x/index.md
 	else
 		fixReadme ${themesDir}/$x/readme.md >> themeSite/content/$x/index.md
+	fi
+
 	fi
 
 	if ((errorCounter > 50)); then
