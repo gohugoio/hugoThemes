@@ -107,7 +107,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', "hugo-theme-arch", ".github")
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github')
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
@@ -136,9 +136,7 @@ noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo
 # gohugo-theme-ananke: Quick start guide theme
 # papercss-hugo-theme: provides custom short codes
 # hugo-serif-theme: provides custom content for sub-pages
-# hugo-appyness: exampleSite requires it own data files
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-appyness
-')
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme')
 
 errorCounter=0
 
@@ -146,12 +144,14 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	blacklisted=`echo ${blacklist[*]} | grep -w "$x"`
 	if [ "${blacklisted}" != "" ]; then
+        echo "${x} is blacklisted"
 		continue
 	fi
 
 	generateDemo=true
 	inNoDemo=`echo ${noDemo[*]} | grep -w "$x"`
 	if [ "${inNoDemo}" != "" ]; then
+        echo "${x} is in noDemo list"
 		generateDemo=false
 	fi
 
