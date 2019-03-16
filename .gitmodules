@@ -909,3 +909,6 @@
 [submodule "aafu"]
 	path = aafu
 	url = https://github.com/darshanbaral/aafu.git
+[submodule "bleach-theme"]
+	path = bleach-theme
+	url = https://github.com/digivend/bleach-theme.git
