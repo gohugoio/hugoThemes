@@ -912,3 +912,6 @@
 [submodule "bleach-theme"]
 	path = bleach-theme
 	url = https://github.com/digivend/bleach-theme.git
+[submodule "hugo-theme-yuki"]
+	path = hugo-theme-yuki
+	url = https://github.com/iCyris/hugo-theme-yuki.git
