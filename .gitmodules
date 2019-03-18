@@ -915,3 +915,6 @@
 [submodule "hugo-theme-yuki"]
 	path = hugo-theme-yuki
 	url = https://github.com/iCyris/hugo-theme-yuki.git
+[submodule "restaurant-hugo"]
+	path = restaurant-hugo
+	url = https://github.com/themefisher/restaurant-hugo.git
