@@ -152,7 +152,6 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	inNoDemo=`echo ${noDemo[*]} | grep -w "$x"`
 	if [ "${inNoDemo}" != "" ]; then
 		generateDemo=false
-                echo "${x} is in noDemo list"
 	fi
 
 	skipEmptySubmodule=false
@@ -164,7 +163,9 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	if ! $skipEmptySubmodule; then
 
 	echo " ==== PROCESSING " $x " ====== "
-
+	if [ "${inNoDemo}" != "" ]; then
+                echo "${x} is in noDemo list"
+	fi
 	mkdir -p themeSite/content/$x
 
 	cp ${themesDir}/$x/images/screenshot.png themeSite/content/$x/screenshot-$x.png
