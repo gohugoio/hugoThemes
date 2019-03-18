@@ -144,15 +144,15 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	blacklisted=`echo ${blacklist[*]} | grep -w "$x"`
 	if [ "${blacklisted}" != "" ]; then
-        echo "${x} is blacklisted"
+		echo " ==== SKIPPING " $x " is blacklisted ====== "
 		continue
 	fi
 
 	generateDemo=true
 	inNoDemo=`echo ${noDemo[*]} | grep -w "$x"`
 	if [ "${inNoDemo}" != "" ]; then
-        echo "${x} is in noDemo list"
 		generateDemo=false
+                echo "${x} is in noDemo list"
 	fi
 
 	skipEmptySubmodule=false
@@ -220,7 +220,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
 				echo "Building site for theme ${x} using default content to ${demoDestination}"
-				if grep -Fq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/index.html; then
+				if grep -rFq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/; then
 				echo "Type posts found"
 				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
 				else
