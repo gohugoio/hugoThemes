@@ -204,6 +204,13 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
     if $generateDemo; then
 
+        if [ -f "${themesDir}/$x/.gitmodules" ]; then
+            pushd ${themesDir}/$x
+            echo "Updating git submodules for theme $x"
+            git submodule update --init --recursive
+            popd
+        fi
+
         if [ -d "${themesDir}/$x/exampleSite" ]; then
         	# Use content and config in exampleSite
             ln -s ${themesDir}/$x/exampleSite ${siteDir}/exampleSite2
