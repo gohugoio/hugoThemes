@@ -115,11 +115,13 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-smpl-theme: Promotional non-Hugo links
 # hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/172
 # lamp: Icon font does not work with baseURL with sub-folder.
-# hugo-bare-min: The demo throws an ERROR because the Build Script does not support Theme Components at the moment, see https://github.com/gohugoio/hugoThemes/issues/463
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 # hugo-material-docs: theme is not compatible with more recent versions of Hugo
 # devfest-theme-hugo: providing an exampleSite folders requires a lot of work, see https://github.com/gohugoio/hugoThemes/issues/584#issuecomment-467193735
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-bare-min-theme', 'hugo-theme-w3css-basic', 'hugo-material-docs', 'devfest-theme-hugo')
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-theme-w3css-basic', 'hugo-material-docs', 'devfest-theme-hugo')
+
+# A theme that uses other components needs to be added to this array
+components=('hugo-bare-min-theme')
 
 # academic: Popular theme aimed towards academia
 # reveal-hugo: Presentation theme that depends on reveal.js
@@ -196,6 +198,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	demoDestination="../themeSite/static/theme/$x/"
 	demoConfig="${themesDir}/$x/exampleSite/config"
+        searchConfig="${themesDir}/$x/exampleSite/config.*"
 	ignoreConfig="${siteDir}/exampleSite/confIgnore.toml"
 	postsConfig="${siteDir}/exampleSite/configPosts.toml"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
@@ -217,6 +220,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             ln -s ${themesDir} ${siteDir}/exampleSite2/themes
             destination="../themeSite/static/theme/$x/"
             inWhiteList=`echo ${whiteList[*]} | grep -w "$x"`
+            hasCompontents=`echo ${components[*]} | grep -w "$x"`
             if [ "${inWhiteList}" != "" ]; then
 				echo "${x} is whitelisted"
 				echo "Building site for theme ${x} using its own exampleSite to ${demoDestination}"
@@ -227,10 +231,16 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 				fi
             	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
+                                grep -v "enableEmoji" ${searchConfig} > temp && mv temp ${searchConfig}
 				echo "Building site for theme ${x} using default content to ${demoDestination}"
 				if grep -rFq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/; then
 				echo "Type posts found"
 				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+                                elif [ "${hasCompontents}" != "" ]; then
+				echo "Building site for theme ${x} with Theme Components"
+                                perl -i -pe 's/kaushalmodi\/hugo-bare-min-theme/gohugoio\/hugoBasicExample/g | s/exampleSite\/content/content/g' ${searchConfig}
+				hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --themesDir ${themesDir}/$x/exampleSite/themes/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+rm -rf ${themesDir}/$x/exampleSite/themes/hugoThemes
 				else
 				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
 				fi
