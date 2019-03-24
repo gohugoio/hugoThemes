@@ -653,9 +653,6 @@
 [submodule "tale-hugo"]
 	path = tale-hugo
 	url = https://github.com/EmielH/tale-hugo.git
-[submodule "minimal-academic"]
-	path = minimal-academic
-	url = https://github.com/jhu247/minimal-academic.git
 [submodule "hugo-theme-winning"]
 	path = hugo-theme-winning
 	url = https://github.com/cssandstuff/hugo-theme-winning.git
