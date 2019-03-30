@@ -912,3 +912,6 @@
 [submodule "restaurant-hugo"]
 	path = restaurant-hugo
 	url = https://github.com/themefisher/restaurant-hugo.git
+[submodule "pulp"]
+	path = pulp
+	url = git@github.com:koirand/pulp.git
