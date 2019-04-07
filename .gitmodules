@@ -915,3 +915,6 @@
 [submodule "pulp"]
 	path = pulp
 	url = https://github.com/koirand/pulp.git
+[submodule "hugo-whisper-theme"]
+	path = hugo-whisper-theme
+	url = https://github.com/JugglerX/hugo-whisper-theme.git
