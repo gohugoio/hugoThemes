@@ -915,3 +915,6 @@
 [submodule "hugo-whisper-theme"]
 	path = hugo-whisper-theme
 	url = https://github.com/JugglerX/hugo-whisper-theme.git
+[submodule "stip-hugo"]
+	path = stip-hugo
+	url = https://github.com/EmielH/stip-hugo.git
