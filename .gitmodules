@@ -103,9 +103,6 @@
 [submodule "polymer"]
 	path = polymer
 	url = https://github.com/pdevty/polymer.git
-[submodule "material-lite"]
-	path = material-lite
-	url = https://github.com/SamuelDebruyn/hugo-material-lite.git
 [submodule "cactus"]
 	path = cactus
 	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
