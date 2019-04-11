@@ -918,3 +918,6 @@
 [submodule "stip-hugo"]
 	path = stip-hugo
 	url = https://github.com/EmielH/stip-hugo.git
+[submodule "cayman-hugo-theme"]
+	path = cayman-hugo-theme
+	url = https://github.com/zwbetz-gh/cayman-hugo-theme.git
