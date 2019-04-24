@@ -927,3 +927,6 @@
 [submodule "ezhil"]
 	path = ezhil
 	url = https://github.com/vividvilla/ezhil.git
+[submodule "hugo-nes-classic"]
+	path = hugo-nes-classic
+	url = https://github.com/rjayasinghe/hugo-nes-classic.git
