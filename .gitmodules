@@ -924,3 +924,6 @@
 [submodule "co-op"]
 	path = co-op
 	url = https://git.sr.ht/~samwhited/co-op
+[submodule "ezhil"]
+	path = ezhil
+	url = https://github.com/vividvilla/ezhil.git
