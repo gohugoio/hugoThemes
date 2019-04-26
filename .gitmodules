@@ -930,3 +930,6 @@
 [submodule "hugo-nes-classic"]
 	path = hugo-nes-classic
 	url = https://github.com/rjayasinghe/hugo-nes-classic.git
+[submodule "hugo-piercer-theme"]
+	path = hugo-piercer-theme
+	url = https://github.com/danielkvist/hugo-piercer-theme.git
