@@ -936,3 +936,6 @@
 [submodule "hugo-theme-zozo"]
 	path = hugo-theme-zozo
 	url = https://github.com/imzeuk/hugo-theme-zozo.git
+[submodule "hugo-future-imperfect-slim"]
+	path = hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
