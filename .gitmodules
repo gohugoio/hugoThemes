@@ -933,3 +933,6 @@
 [submodule "hugo-piercer-theme"]
 	path = hugo-piercer-theme
 	url = https://github.com/danielkvist/hugo-piercer-theme.git
+[submodule "hugo-theme-zozo"]
+	path = hugo-theme-zozo
+	url = https://github.com/imzeuk/hugo-theme-zozo.git
