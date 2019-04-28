@@ -939,3 +939,6 @@
 [submodule "hugo-future-imperfect-slim"]
 	path = hugo-future-imperfect-slim
 	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "twentynineteen-hugo"]
+	path = twentynineteen-hugo
+	url = https://github.com/jeremybise/twentynineteen-hugo.git
