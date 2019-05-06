@@ -942,3 +942,6 @@
 [submodule "twentynineteen-hugo"]
 	path = twentynineteen-hugo
 	url = https://github.com/jeremybise/twentynineteen-hugo.git
+[submodule "inkblotty"]
+	path = inkblotty
+	url = https://github.com/tosi29/inkblotty.git
