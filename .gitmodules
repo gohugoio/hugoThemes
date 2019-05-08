@@ -945,3 +945,6 @@
 [submodule "inkblotty"]
 	path = inkblotty
 	url = https://github.com/tosi29/inkblotty.git
+[submodule "personal-web"]
+	path = personal-web
+	url = https://github.com/bjacquemet/personal-web.git
