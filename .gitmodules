@@ -948,3 +948,6 @@
 [submodule "personal-web"]
 	path = personal-web
 	url = https://github.com/bjacquemet/personal-web.git
+[submodule "edidor"]
+	path = edidor
+	url = https://github.com/jacobsun/edidor.git
