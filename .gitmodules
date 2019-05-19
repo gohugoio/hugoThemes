@@ -954,3 +954,6 @@
 [submodule "kitab"]
 	path = kitab
 	url = https://github.com/darshanbaral/kitab.git
+[submodule "kross-hugo-portfolio-template"]
+	path = kross-hugo-portfolio-template
+	url = https://github.com/themefisher/kross-hugo-portfolio-template.git
