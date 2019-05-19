@@ -951,3 +951,6 @@
 [submodule "edidor"]
 	path = edidor
 	url = https://github.com/jacobsun/edidor.git
+[submodule "kitab"]
+	path = kitab
+	url = https://github.com/darshanbaral/kitab.git
