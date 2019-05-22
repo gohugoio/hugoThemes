@@ -957,7 +957,3 @@
 [submodule "kross-hugo-portfolio-template"]
 	path = kross-hugo-portfolio-template
 	url = https://github.com/themefisher/kross-hugo-portfolio-template.git
-[submodule "syna"]
-	path = syna
-	url = https://github.com/okkur/syna.git
-	branch = demo
