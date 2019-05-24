@@ -960,3 +960,6 @@
 [submodule "parsa-hugo-personal-blog-theme"]
 	path = parsa-hugo-personal-blog-theme
 	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
+[submodule "syna"]
+	path = syna
+	url = https://github.com/okkur/syna.git
