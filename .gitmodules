@@ -963,3 +963,6 @@
 [submodule "syna"]
 	path = syna
 	url = https://github.com/okkur/syna.git
+[submodule "solar-theme-hugo"]
+	path = solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo.git
