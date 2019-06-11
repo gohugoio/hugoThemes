@@ -969,3 +969,6 @@
 [submodule "hugo-theme-cole"]
 	path = hugo-theme-cole
 	url = https://github.com/jacobsun/hugo-theme-cole.git
+[submodule "hugo-bootstrap4"]
+	path = hugo-bootstrap4
+	url = https://github.com/mmrath/hugo-bootstrap.git
