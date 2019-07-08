@@ -981,3 +981,6 @@
 [submodule "avicenna"]
 	path = avicenna
 	url = https://github.com/hadisinaee/avicenna.git
+[submodule "khata"]
+	path = khata
+	url = https://github.com/darshanbaral/khata.git
