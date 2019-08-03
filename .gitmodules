@@ -987,3 +987,6 @@
 [submodule "huginn"]
 	path = huginn
 	url = https://gitlab.com/VincentTam/huginn.git
+[submodule "hugo-refresh"]
+	path = hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
