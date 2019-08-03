@@ -990,3 +990,6 @@
 [submodule "hugo-refresh"]
 	path = hugo-refresh
 	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "bootstrap-bp-hugo-startpage"]
+	path = bootstrap-bp-hugo-startpage
+	url = https://github.com/spech66/bootstrap-bp-hugo-startpage.git
