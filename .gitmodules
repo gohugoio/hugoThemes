@@ -984,3 +984,6 @@
 [submodule "khata"]
 	path = khata
 	url = https://github.com/darshanbaral/khata.git
+[submodule "huginn"]
+	path = huginn
+	url = https://gitlab.com/VincentTam/huginn.git
