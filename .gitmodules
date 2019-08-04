@@ -993,3 +993,6 @@
 [submodule "bootstrap-bp-hugo-startpage"]
 	path = bootstrap-bp-hugo-startpage
 	url = https://github.com/spech66/bootstrap-bp-hugo-startpage.git
+[submodule "contrast-hugo"]
+	path = contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git
