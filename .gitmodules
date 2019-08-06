@@ -996,3 +996,6 @@
 [submodule "contrast-hugo"]
 	path = contrast-hugo
 	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "hugo-theme-doors"]
+	path = hugo-theme-doors
+	url = https://github.com/zzzmisa/hugo-theme-doors.git
