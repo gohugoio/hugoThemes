@@ -6,7 +6,7 @@ about: Theme submission
 
 # Theme submission
 
-Before submitting a theme please make sure you've read the [README.md](https://github.com/gohugoio/hugoThemes/blob/master/README.md#adding-a-theme-to-the-list). It describes in detail what information are needed and which requirements have to be fulfilled for the submission. The check list below can help you.
+**Please make sure that you have read the [theme submission guidelines](https://github.com/gohugoio/hugoThemes/blob/master/README.md#adding-a-theme-to-the-list) before submitting a theme**. The guidelines provide all relevant information and requirements that **have to be fulfilled** before the submission. Please tick the relevant boxes for your theme in the checklist below:
 
 **Link to my theme repository:** REPLACE-WITH-URL
 
@@ -22,5 +22,7 @@ Before submitting a theme please make sure you've read the [README.md](https://g
 - [ ] I tested my theme against the [gohugoio/HugoBasicExample](https://github.com/gohugoio/HugoBasicExample)
     - [ ] I've checked the developer tools' console in my browser for error messages
 - [ ] in case my theme is using Hugo Pipes features like `toCSS` and `PostCSS` that I have committed the `/resources` directory with all generated assets, for my theme to work in the basic version of Hugo
+
+**N.B.** By submitting a theme to the Hugo Themes Showcase you understand that **you need to maintain your theme**. You will need to keep an eye on whether your theme's demo generates on the Hugo website, whenever there is a new release. We are a very small team and we just cannot keep up opening issues in the various theme repositories to notify authors. Whenever a theme demo breaks and remains broken then at some point it will be removed from the list without prior warning. If you no longer wish to maintain a theme please let us know.
 
 Feel free to ask questions. We're glad to help.
