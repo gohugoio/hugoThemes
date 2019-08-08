@@ -996,3 +996,6 @@
 [submodule "hugo-theme-doors"]
 	path = hugo-theme-doors
 	url = https://github.com/zzzmisa/hugo-theme-doors.git
+[submodule "OneDly-Theme"]
+	path = OneDly-Theme
+	url = https://github.com/cdeck3r/OneDly-Theme.git
