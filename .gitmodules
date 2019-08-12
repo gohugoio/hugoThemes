@@ -999,3 +999,6 @@
 [submodule "OneDly-Theme"]
 	path = OneDly-Theme
 	url = https://github.com/cdeck3r/OneDly-Theme.git
+[submodule "hugo-webslides"]
+	path = hugo-webslides
+	url = https://github.com/RCJacH/hugo-webslides.git
