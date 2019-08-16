@@ -421,9 +421,6 @@
 [submodule "hugo-journal"]
 	path = hugo-journal
 	url = https://github.com/damiencaselli/hugo-journal.git
-[submodule "newsprint"]
-	path = newsprint
-	url = https://git.sr.ht/~samwhited/newsprint
 [submodule "hugo-nuo"]
 	path = hugo-nuo
 	url = https://github.com/laozhu/hugo-nuo.git
