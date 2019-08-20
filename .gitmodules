@@ -28,9 +28,6 @@
 [submodule "redlounge"]
 	path = redlounge
 	url = https://github.com/tmaiaroto/hugo-redlounge.git
-[submodule "hugo-uno"]
-	path = hugo-uno
-	url = https://github.com/SenjinDarashiva/hugo-uno.git
 [submodule "nofancy"]
 	path = nofancy
 	url = https://github.com/gizak/nofancy.git
@@ -106,9 +103,6 @@
 [submodule "steam"]
 	path = steam
 	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
-[submodule "hugo-zen"]
-	path = hugo-zen
-	url = https://github.com/rakuishi/hugo-zen.git
 [submodule "hyde-y"]
 	path = hyde-y
 	url = https://github.com/enten/hyde-y.git
@@ -888,9 +882,6 @@
 [submodule "cayman-hugo-theme"]
 	path = cayman-hugo-theme
 	url = https://github.com/zwbetz-gh/cayman-hugo-theme.git
-[submodule "co-op"]
-	path = co-op
-	url = https://git.sr.ht/~samwhited/co-op
 [submodule "ezhil"]
 	path = ezhil
 	url = https://github.com/vividvilla/ezhil.git
