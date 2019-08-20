@@ -307,15 +307,9 @@
 [submodule "mainroad"]
 	path = mainroad
 	url = https://github.com/Vimux/mainroad.git
-[submodule "hugo-remark-minion"]
-	path = hugo-remark-minion
-	url = https://github.com/eueung/hugo-remark-minion.git
 [submodule "cocoa-eh-hugo-theme"]
 	path = cocoa-eh-hugo-theme
 	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
-[submodule "hugo-remark-twemoji"]
-	path = hugo-remark-twemoji
-	url = https://github.com/eueung/hugo-remark-twemoji.git
 [submodule "darksimplicity"]
 	path = darksimplicity
 	url = https://github.com/kritoke/darksimplicity.git
