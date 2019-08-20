@@ -31,15 +31,6 @@
 [submodule "hugo-uno"]
 	path = hugo-uno
 	url = https://github.com/SenjinDarashiva/hugo-uno.git
-[submodule "hugoscroll"]
-	path = hugoscroll
-	url = https://github.com/SenjinDarashiva/hugoscroll.git
-[submodule "landing-page-hugo"]
-	path = landing-page-hugo
-	url = https://github.com/crakjie/landing-page-hugo.git
-[submodule "hugo-base-theme"]
-	path = hugo-base-theme
-	url = https://github.com/crakjie/hugo-base-theme.git
 [submodule "nofancy"]
 	path = nofancy
 	url = https://github.com/gizak/nofancy.git
