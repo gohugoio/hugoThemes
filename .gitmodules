@@ -735,9 +735,6 @@
 [submodule "hugo-theme-yinyang"]
 	path = hugo-theme-yinyang
 	url = https://github.com/joway/hugo-theme-yinyang.git
-[submodule "hugo-oldnew-mashup"]
-	path = hugo-oldnew-mashup
-	url = https://github.com/cshoredaniel/hugo-oldnew-mashup.git
 [submodule "hugo-theme-techdoc"]
 	path = hugo-theme-techdoc
 	url = https://github.com/thingsym/hugo-theme-techdoc.git
