@@ -274,9 +274,6 @@
 [submodule "hugo-hello-programmer-theme"]
 	path = hugo-hello-programmer-theme
 	url = https://github.com/lubang/hugo-hello-programmer-theme.git
-[submodule "nixon"]
-	path = nixon
-	url = https://github.com/mdhender/nixon.git
 [submodule "hugo_eiio"]
 	path = hugo_eiio
 	url = https://github.com/leonhe/hugo_eiio.git
