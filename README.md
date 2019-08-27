@@ -111,7 +111,8 @@ If your theme makes use of the [Hugo Pipes](https://gohugo.io/hugo-pipes) method
 
 - From the root of a Hugo project that uses your theme execute the command `hugo server` -this will generate the `/resources/` folder under the project root-.
 - Or if you prefer to build the project simply run the command `hugo` -this will generate the resources under `public/resources`-.
-- Copy the generated resources folder and commit it directly under the root of your theme's repository.
+- Copy the generated resources folder and commit it directly either under the root of your theme's repository or under `exampleSite`.
+- Whenever you make any changes in your Hugo Pipes assets, you will need to regenerate and commit the theme's resources again.
 
 ## Common Permalink Issues
 
