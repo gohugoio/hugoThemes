@@ -232,7 +232,6 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 	demoConfig="${themesDir}/$x/exampleSite/config"
         searchConfig="${themesDir}/$x/exampleSite/config.*"
 	ignoreConfig="${siteDir}/exampleSite/confIgnore.toml"
-	postsConfig="${siteDir}/exampleSite/configPosts.toml"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
 
 	export HUGO_CANONIFYURLS=true
@@ -264,11 +263,9 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
                                 grep -v "enableEmoji" ${searchConfig} > temp && mv temp ${searchConfig}
+                                find ${themesDir}/$x/layouts/ -type f -exec sed -i 's/Pages "Type" "posts"/Pages "Type" "post"/g' {} \;
 				echo "Building site for theme ${x} using default content to ${demoDestination}"
-				if grep -rFq '.Pages "Type" "posts"' ${themesDir}/$x/layouts/; then
-				echo "Type posts found"
-				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${postsConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
-                                elif [ "${hasCompontents}" != "" ]; then
+                                if [ "${hasCompontents}" != "" ]; then
 				echo "Building site for theme ${x} with Theme Components"
                                 perl -i -pe 's/kaushalmodi\/hugo-bare-min-theme/gohugoio\/hugoBasicExample/g | s/exampleSite\/content/content/g' ${searchConfig}
 				hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --themesDir ${themesDir}/$x/exampleSite/themes/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
