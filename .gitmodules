@@ -392,9 +392,6 @@
 [submodule "hugo-theme-even"]
 	path = hugo-theme-even
 	url = https://github.com/olOwOlo/hugo-theme-even.git
-[submodule "hugo-gentoo-theme"]
-	path = hugo-gentoo-theme
-	url = https://github.com/d-kusk/hugo-gentoo-theme.git
 [submodule "hugo-theme-lean-launch-page"]
 	path = hugo-theme-lean-launch-page
 	url = https://github.com/felicianotech/hugo-theme-lean-launch-page.git
