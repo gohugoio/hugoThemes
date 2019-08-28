@@ -948,3 +948,6 @@
 [submodule "hugo-webslides"]
 	path = hugo-webslides
 	url = https://github.com/RCJacH/hugo-webslides.git
+[submodule "newsroom"]
+	path = newsroom
+	url = https://github.com/onweru/newsroom
