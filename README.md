@@ -66,7 +66,7 @@ description = "Theme description"
 homepage = "Website of your theme"
 tags = ["blog", "company"]
 features = ["some", "awesome", "features"]
-min_version = 0.38
+min_version = "0.57.0"
 
 [author]
     name = "Your name"
