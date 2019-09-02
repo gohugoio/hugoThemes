@@ -263,7 +263,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
             	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
                                 grep -v "enableEmoji" ${searchConfig} > temp && mv temp ${searchConfig}
-                                find ${themesDir}/$x/layouts/ -type f -exec sed -i 's/Pages "Type" "posts"/Pages "Type" "post"/g' {} \;
+                                find ${themesDir}/$x/layouts/ -type f -exec sed -i -e 's/Pages "Type" "posts"/Pages "Type" "post"/g' -e 's/Pages "Section" "posts"/Pages "Section" "post"/g' {} \;
 				echo "Building site for theme ${x} using default content to ${demoDestination}"
                                 if [ "${hasCompontents}" != "" ]; then
 				echo "Building site for theme ${x} with Theme Components"
