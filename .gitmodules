@@ -948,3 +948,6 @@
 [submodule "newsroom"]
 	path = newsroom
 	url = https://github.com/onweru/newsroom
+[submodule "hugo-theme-meme"]
+	path = hugo-theme-meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
