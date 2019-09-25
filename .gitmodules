@@ -951,3 +951,6 @@
 [submodule "hugo-theme-meme"]
 	path = hugo-theme-meme
 	url = https://github.com/reuixiy/hugo-theme-meme.git
+[submodule "colordrop"]
+	path = colordrop
+	url = https://github.com/humrochagf/colordrop
