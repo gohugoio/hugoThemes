@@ -412,7 +412,7 @@
 	url = https://github.com/schollz/onetwothree.git
 [submodule "hugo-kiera"]
 	path = hugo-kiera
-	url = https://github.com/avianto/hugo-kiera.git
+	url = https://github.com/funkydan2/hugo-kiera.git
 [submodule "hugo-theme-dream"]
 	path = hugo-theme-dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream.git
