@@ -758,3 +758,6 @@
 [submodule "hugo-changelog-theme"]
 	path = hugo-changelog-theme
 	url = https://github.com/jsnjack/hugo-changelog-theme
+[submodule "hugo-theme-dream"]
+	path = hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream
