@@ -755,3 +755,6 @@
 [submodule "colordrop"]
 	path = colordrop
 	url = https://github.com/humrochagf/colordrop
+[submodule "hugo-changelog-theme"]
+	path = hugo-changelog-theme
+	url = https://github.com/jsnjack/hugo-changelog-theme
