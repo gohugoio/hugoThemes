@@ -764,3 +764,6 @@
 [submodule "hugo-spectre-pixel-theme"]
 	path = hugo-spectre-pixel-theme
 	url = https://github.com/st-wong/hugo-spectre-pixel-theme.git
+[submodule "hugo-minimalist-theme"]
+	path = hugo-minimalist-theme
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme
