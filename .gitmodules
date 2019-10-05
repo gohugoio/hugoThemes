@@ -121,9 +121,6 @@
 [submodule "highlights"]
 	path = highlights
 	url = https://github.com/schmanat/hugo-highlights-theme.git
-[submodule "hugo-dgraph-theme"]
-	path = hugo-dgraph-theme
-	url = https://github.com/dgraph-io/hugo-dgraph-theme.git
 [submodule "paperback"]
 	path = paperback
 	url = https://github.com/damiencaselli/paperback.git
@@ -343,9 +340,6 @@
 [submodule "hugo-paper"]
 	path = hugo-paper
 	url = https://github.com/nanxiaobei/hugo-paper.git
-[submodule "hugotube"]
-	path = hugotube
-	url = https://github.com/marcanuy/hugotube.git
 [submodule "hugo-nederburg-theme"]
 	path = hugo-nederburg-theme
 	url = https://github.com/appernetic/hugo-nederburg-theme.git
@@ -358,9 +352,6 @@
 [submodule "hugo-theme-dopetrope"]
 	path = hugo-theme-dopetrope
 	url = https://github.com/curttimson/hugo-theme-dopetrope.git
-[submodule "potato-dark"]
-	path = potato-dark
-	url = https://github.com/surajmandalcell/potato-dark.git
 [submodule "classless-hugo"]
 	path = classless-hugo
 	url = https://github.com/fiatjaf/classless-hugo.git
