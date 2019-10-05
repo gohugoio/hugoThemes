@@ -758,3 +758,6 @@
 [submodule "hugo-minimalist-theme"]
 	path = hugo-minimalist-theme
 	url = https://github.com/digitalcraftsman/hugo-minimalist-theme
+[submodule "bare-hugo-theme"]
+	path = bare-hugo-theme
+	url = https://github.com/orf/bare-hugo-theme
