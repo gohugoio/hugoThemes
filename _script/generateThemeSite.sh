@@ -232,8 +232,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 
 	demoDestination="../themeSite/static/theme/$x/"
 	demoConfig="${themesDir}/$x/exampleSite/config"
-        searchConfig="${themesDir}/$x/exampleSite/config.*"
-	ignoreConfig="${siteDir}/exampleSite/confIgnore.toml"
+	searchConfig="${themesDir}/$x/exampleSite/config.*"
 	taxoConfig="${siteDir}/exampleSite/configTaxo.toml"
 
 	export HUGO_CANONIFYURLS=true
@@ -270,10 +269,10 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
                                 if [ "${hasCompontents}" != "" ]; then
 				echo "Building site for theme ${x} with Theme Components"
                                 perl -i -pe 's/kaushalmodi\/hugo-bare-min-theme/gohugoio\/hugoBasicExample/g | s/exampleSite\/content/content/g' ${searchConfig}
-				hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --themesDir ${themesDir}/$x/exampleSite/themes/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+				hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --themesDir ${themesDir}/$x/exampleSite/themes/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
 rm -rf ${themesDir}/$x/exampleSite/themes/hugoThemes
 				else
-				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${ignoreConfig},${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+				HUGO_THEME=${x} hugo --quiet -s exampleSite2 -c ${siteDir}/exampleSite/content/ --config=${demoConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
 				fi
             fi
             if [ $? -ne 0 ]; then
@@ -303,7 +302,7 @@ rm -rf ${themesDir}/$x/exampleSite/themes/hugoThemes
             cat themeSite/templates/${paramsConfig} >>${themeConfig}
 
             echo "Building site for theme ${x} using config \"${themeConfig}\" to ${demoDestination}"
-            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${ignoreConfig},${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
+            HUGO_THEME=${x} hugo --quiet -s exampleSite --config=${themeConfig},${taxoConfig} -d ${demoDestination} -b $BASEURL/theme/$x/
             if [ $? -ne 0 ]; then
                 echo "FAILED to create demo site for $x"
                 rm -rf ${demoDestination}
