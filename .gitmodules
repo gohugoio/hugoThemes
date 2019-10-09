@@ -704,9 +704,6 @@
 [submodule "docter"]
 	path = docter
 	url = https://github.com/edavidaja/docter.git
-[submodule "_script/khata"]
-	path = _script/khata
-	url = https://github.com/darshanbaral/khata.git
 [submodule "avicenna"]
 	path = avicenna
 	url = https://github.com/hadisinaee/avicenna.git
