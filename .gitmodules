@@ -758,3 +758,6 @@
 [submodule "materialize-bp-hugo-theme"]
 	path = materialize-bp-hugo-theme
 	url = https://github.com/spech66/materialize-bp-hugo-theme
+[submodule "hugo-frances-theme"]
+	path = hugo-frances-theme
+	url = https://github.com/mcrwfrd/hugo-frances-theme.git
