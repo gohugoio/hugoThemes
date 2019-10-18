@@ -761,3 +761,6 @@
 [submodule "hugo-frances-theme"]
 	path = hugo-frances-theme
 	url = https://github.com/mcrwfrd/hugo-frances-theme.git
+[submodule "darksimplicity"]
+	path = darksimplicity
+	url = https://github.com/kritoke/darksimplicity
