@@ -764,3 +764,6 @@
 [submodule "darksimplicity"]
 	path = darksimplicity
 	url = https://github.com/kritoke/darksimplicity
+[submodule "Hargo-hugo-ecommerce-theme"]
+	path = Hargo-hugo-ecommerce-theme
+	url = https://github.com/themefisher/Hargo-hugo-ecommerce-theme
