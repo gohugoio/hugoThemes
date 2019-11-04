@@ -767,3 +767,6 @@
 [submodule "Hargo-hugo-ecommerce-theme"]
 	path = Hargo-hugo-ecommerce-theme
 	url = https://github.com/themefisher/Hargo-hugo-ecommerce-theme
+[submodule "hugo-owaraiclub"]
+	path = hugo-owaraiclub
+	url = https://github.com/tcgriffith/hugo-owaraiclub/
