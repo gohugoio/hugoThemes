@@ -776,3 +776,6 @@
 [submodule "hugo-devresume-theme"]
 	path = hugo-devresume-theme
 	url = https://github.com/cowboysmall-tools/hugo-devresume-theme
+[submodule "github-style"]
+	path = github-style
+	url = https://github.com/MeiK2333/github-style
