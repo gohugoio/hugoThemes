@@ -779,3 +779,6 @@
 [submodule "github-style"]
 	path = github-style
 	url = https://github.com/MeiK2333/github-style
+[submodule "hugonews"]
+	path = hugonews
+	url = https://github.com/spaghettiwews/hugonews
