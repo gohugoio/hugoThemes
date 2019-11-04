@@ -773,3 +773,6 @@
 [submodule "liva-hugo"]
 	path = liva-hugo
 	url = https://github.com/themefisher/liva-hugo
+[submodule "hugo-devresume-theme"]
+	path = hugo-devresume-theme
+	url = https://github.com/cowboysmall-tools/hugo-devresume-theme
