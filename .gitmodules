@@ -770,3 +770,6 @@
 [submodule "hugo-owaraiclub"]
 	path = hugo-owaraiclub
 	url = https://github.com/tcgriffith/hugo-owaraiclub/
+[submodule "liva-hugo"]
+	path = liva-hugo
+	url = https://github.com/themefisher/liva-hugo
