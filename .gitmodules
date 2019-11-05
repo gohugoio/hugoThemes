@@ -782,3 +782,6 @@
 [submodule "hugonews"]
 	path = hugonews
 	url = https://github.com/spaghettiwews/hugonews
+[submodule "Academia-hugo"]
+	path = Academia-hugo
+	url = https://github.com/themefisher/Academia-hugo
