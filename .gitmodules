@@ -785,3 +785,6 @@
 [submodule "Academia-hugo"]
 	path = Academia-hugo
 	url = https://github.com/themefisher/Academia-hugo
+[submodule "hugo-theme-zzo"]
+	path = hugo-theme-zzo
+	url = https://github.com/zzossig/hugo-theme-zzo
