@@ -794,3 +794,6 @@
 [submodule "hugo-theme-pure"]
 	path = hugo-theme-pure
 	url = https://github.com/xiaoheiAh/hugo-theme-pure
+[submodule "hugo-theme-easybook"]
+	path = hugo-theme-easybook
+	url = https://github.com/Y4er/hugo-theme-easybook
