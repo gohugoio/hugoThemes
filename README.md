@@ -79,6 +79,8 @@ min_version = "0.57.0"
     repo = "Link to source code of original theme"
 ```
 
+**Note:** Hugo started using full semver versions even for main releases in v0.54.0, therefore if your theme has a recent `min_version` you need to enter it as `0.59.0` and not `0.59`.
+
 ## Media
 
 Screenshots are used as preview in the list. Make sure that they have the right dimensions:
@@ -121,6 +123,34 @@ The demo of your theme will be available in a subdirectory of the [Hugo Themes w
 - If using inline styles, these need to use absolute URLs, for the linked assets to be served properly, e.g. `<div style="background: url('{{ "images/background.jpg" | absURL }}')">`
 - Make sure not to use a forward slash `/` in the beginning of a `URL`, because it will point to the host root and Hugo will not generate the correct `URL` for the demo's assets.
 - If using external CSS and JS from a CDN, make sure to load these assets over `https`. Please do not use relative protocol URLs in your theme's templates.
+
+## Useful Tips
+
+A Hugo theme may be used in various scenarios and as such it is important to keep it flexible:
+
+- Use the inbuilt [`mainSections`](https://gohugo.io/functions/where/#mainsections) list instead of comparing section names to hard-coded values like `"posts"` or `"post"`. 
+
+- The [`readFile`](https://gohugo.io/functions/readfile/#readout) and [`readDir`](https://gohugo.io/functions/readdir/#readout) functions may be useful in a project but not in a theme, since it is not advisable to use hardcoded PATHs in the form of:  `{{ .Site.baseURL }}/something` either in the theme's templates or in the config of an Example Site.
+
+- Never leave pages without layouts. Instead use [`disableKinds`](https://gohugo.io/getting-started/configuration/#all-configuration-settings). A theme with no layouts for various kinds pollutes the Hugo Themes deploy logs to the point that these are almost unusable.
+
+- Never use deprecated Hugo features that throw console warnings such as `Page's .URL`, `.RSSLink`, `Page's .Hugo`, `Page's .UniqueID`, `Page's .Dir` etc.
+
+- Keep your theme's git repo history down. Please do not include binaries or videos with large file sizes.
+
+- Never use photos that are copyrighted. Make sure that your theme’s resources can be used in an Open Source theme.
+
+- We discourage the use of third party CDNs to serve assets. It is no longer a good practice in this day and age (fingerprinting, security risk etc) despite of the possible benefits of faster loading times.
+
+## Theme Maintenance
+
+- It is of paramount importance that a Hugo theme's demo generates with the latest version of Hugo. 
+
+- Theme authors need to keep an eye on future Hugo releases and provide patches as needed. 
+
+- The Hugo Themes Showcase always uses the latest Hugo version to generate its website. 
+
+- If a theme demo breaks and remains so for more than 30 calendar days, we may remove it from this repository without further notification.
 
 ## Testing a theme with the Hugo Themes website Build Script
 
