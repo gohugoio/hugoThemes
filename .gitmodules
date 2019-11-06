@@ -791,3 +791,6 @@
 [submodule "hugo-business-frontpage-theme"]
 	path = hugo-business-frontpage-theme
 	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme
+[submodule "hugo-theme-pure"]
+	path = hugo-theme-pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure
