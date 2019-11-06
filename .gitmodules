@@ -788,3 +788,6 @@
 [submodule "hugo-theme-zzo"]
 	path = hugo-theme-zzo
 	url = https://github.com/zzossig/hugo-theme-zzo
+[submodule "hugo-business-frontpage-theme"]
+	path = hugo-business-frontpage-theme
+	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme
