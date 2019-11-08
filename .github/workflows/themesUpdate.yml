@@ -1,8 +1,7 @@
 name: Themes Update
 on:
-  push:
-    branches:
-      - master
+   schedule:
+   - cron:  '0 0 */3 * *'
 
 jobs:
   build:
