@@ -1,0 +1,21 @@
+name: Themes Update
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Prepare repository
+      run: | 
+        git config --global user.email "onedrawingperday@users.noreply.github.comm"
+        git config --global user.name "onedrawingperday"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+        git checkout "${GITHUB_REF:11}"
+    - name: Update Submodules
+      run: |
+        git submodule init && git submodule update --recursive --remote && git add . && git commit -am "Update Themes"
+        git push --force-with-lease
