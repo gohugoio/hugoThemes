@@ -107,7 +107,9 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github')
+# The following Themefisher Themes are temporarily added to the blacklist until the misuse of the Hugo logo in the theme READMEs is removed:
+# Academia-hugo, airspace-hugo, hargo-hugo-ecommerce-theme, dot-hugo-documentation-theme, navigator-hugo, infinity-hugo, meghna-hugo, parsa-hugo-personal-blog-theme, restaurant-hugo, timer-hugo, vex-hugo, liva-hugo, kross-hugo-portfolio-template
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github', 'Academia-hugo', 'airspace-hugo', 'hargo-hugo-ecommerce-theme', 'dot-hugo-documentation-theme', 'navigator-hugo', 'infinity-hugo', 'meghna-hugo', 'parsa-hugo-personal-blog-theme', 'restaurant-hugo', 'timer-hugo', 'vex-hugo', 'liva-hugo', 'kross-hugo-portfolio-template')
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
@@ -128,7 +130,6 @@ components=('hugo-bare-min-theme')
 # hugo-terrassa-theme: business theme where hugoBasicExamples's content doesn't match the context
 # hugo-theme-learn: documentation theme with custom shortcodes and own docs
 # hugo-now-ui: Bootstrap-based material theme with custom docs and shortcodes for components
-# dot-hugo-documentation-theme: business-focused knowledge base theme that require specific structure
 # cupper-hugo-theme: Theme with accessibility features
 # hugo-book: e-book theme needs its own content
 # yourfolio: portfolio theme needs its own content
@@ -147,8 +148,6 @@ components=('hugo-bare-min-theme')
 # minimo: is a very customizable theme that ships with widgets
 # personal-web: uses custom content files for the portfolio section
 # kitab: default content doesn't provide the structure to showcase books with chapters
-# kross-hugo-portfolio-template: requires custom content for the portfolio section
-# parsa-hugo-personal-blog-theme: is an image-heavy theme which heavily defines its appearance
 # syna: the use of fragments requires custom content files
 # crab: uses custom content to display features of the theme
 # hugograyscale: a one-page theme whose homepage sections aren't covered by the default content
@@ -172,13 +171,10 @@ components=('hugo-bare-min-theme')
 # hugo-travelify-theme
 # colordrop: demo is multilingual
 # hugo-changelog-theme needs its own content to function
-# Hargo-hugo-ecommerce-theme complex ecommerce theme
 # hugo-owaraiclub supports multiple authors
-# liva-hugo complex blog theme
 # hugonews needs its own content
-# Academia-hugo fork of Academic needs its own content
 # hugo-theme-zzo complex blog theme with gallery
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'kross-hugo-portfolio-template', 'parsa-hugo-personal-blog-theme', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'Hargo-hugo-ecommerce-theme', 'hugo-owaraiclub', 'liva-hugo', 'hugonews', 'Academia-hugo', 'hugo-theme-zzo')
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'hugo-owaraiclub', 'hugonews', 'hugo-theme-zzo')
 
 errorCounter=0
 
