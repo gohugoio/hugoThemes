@@ -108,8 +108,8 @@ fi
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
 # The following Themefisher Themes are temporarily added to the blacklist until the misuse of the Hugo logo in the theme READMEs is removed:
-# Academia-hugo, airspace-hugo, hargo-hugo-ecommerce-theme, dot-hugo-documentation-theme, navigator-hugo, infinity-hugo, meghna-hugo, parsa-hugo-personal-blog-theme, restaurant-hugo, timer-hugo, vex-hugo, liva-hugo, kross-hugo-portfolio-template
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github', 'Academia-hugo', 'airspace-hugo', 'hargo-hugo-ecommerce-theme', 'dot-hugo-documentation-theme', 'navigator-hugo', 'infinity-hugo', 'meghna-hugo', 'parsa-hugo-personal-blog-theme', 'restaurant-hugo', 'timer-hugo', 'vex-hugo', 'liva-hugo', 'kross-hugo-portfolio-template')
+# Academia-hugo, airspace-hugo, Hargo-hugo-ecommerce-theme, dot-hugo-documentation-theme, navigator-hugo, infinity-hugo, meghna-hugo, parsa-hugo-personal-blog-theme, restaurant-hugo, timer-hugo, vex-hugo, liva-hugo, kross-hugo-portfolio-template
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github', 'Academia-hugo', 'airspace-hugo', 'Hargo-hugo-ecommerce-theme', 'dot-hugo-documentation-theme', 'navigator-hugo', 'infinity-hugo', 'meghna-hugo', 'parsa-hugo-personal-blog-theme', 'restaurant-hugo', 'timer-hugo', 'vex-hugo', 'liva-hugo', 'kross-hugo-portfolio-template')
 
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
