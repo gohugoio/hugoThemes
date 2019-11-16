@@ -107,10 +107,7 @@ fi
 # aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
 # hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
 # yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
-# The following Themefisher Themes are temporarily added to the blacklist until the misuse of the Hugo logo in the theme READMEs is removed:
-# Academia-hugo, airspace-hugo, Hargo-hugo-ecommerce-theme, dot-hugo-documentation-theme, navigator-hugo, infinity-hugo, meghna-hugo, parsa-hugo-personal-blog-theme, restaurant-hugo, timer-hugo, vex-hugo, liva-hugo, kross-hugo-portfolio-template
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github', 'Academia-hugo', 'airspace-hugo', 'Hargo-hugo-ecommerce-theme', 'dot-hugo-documentation-theme', 'navigator-hugo', 'infinity-hugo', 'meghna-hugo', 'parsa-hugo-personal-blog-theme', 'restaurant-hugo', 'timer-hugo', 'vex-hugo', 'liva-hugo', 'kross-hugo-portfolio-template')
-
+blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github')
 # hugo-incorporated: too complicated, needs its own
 #   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
 # hugo-theme-arch: themes generates blank homepage
@@ -174,7 +171,16 @@ components=('hugo-bare-min-theme')
 # hugo-owaraiclub supports multiple authors
 # hugonews needs its own content
 # hugo-theme-zzo complex blog theme with gallery
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'hugo-owaraiclub', 'hugonews', 'hugo-theme-zzo')
+# ------------------------------------------------------------------------
+# The following are whitelisted Themefisher Themes
+# ------------------------------------------------------------------------
+# dot-hugo-documentation-theme: business-focused knowledge base theme that require specific structure
+# kross-hugo-portfolio-template: requires custom content for the portfolio section
+# parsa-hugo-personal-blog-theme: is an image-heavy theme which heavily defines its appearance
+# Hargo-hugo-ecommerce-theme complex ecommerce theme
+# liva-hugo complex blog theme
+# Academia-hugo fork of Academic needs its own content
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'kross-hugo-portfolio-template', 'parsa-hugo-personal-blog-theme', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'Hargo-hugo-ecommerce-theme', 'hugo-owaraiclub', 'liva-hugo', 'hugonews', 'Academia-hugo', 'hugo-theme-zzo')
 
 errorCounter=0
 
