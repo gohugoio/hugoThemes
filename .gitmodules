@@ -800,3 +800,6 @@
 [submodule "resto-hugo"]
 	path = resto-hugo
 	url = https://gitlab.com/kskarthik/resto-hugo
+[submodule "northendlab-hugo"]
+	path = northendlab-hugo
+	url = https://github.com/themefisher/northendlab-hugo
