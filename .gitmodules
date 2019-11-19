@@ -803,3 +803,6 @@
 [submodule "northendlab-hugo"]
 	path = northendlab-hugo
 	url = https://github.com/themefisher/northendlab-hugo
+[submodule "hugo-ink"]
+	path = hugo-ink
+	url = https://github.com/knadh/hugo-ink
