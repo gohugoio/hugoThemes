@@ -809,3 +809,6 @@
 [submodule "hugo-tailwind-journal"]
 	path = hugo-tailwind-journal
 	url = https://github.com/ianrodrigues/hugo-tailwind-journal
+[submodule "LoveIt"]
+	path = LoveIt
+	url = https://github.com/dillonzq/LoveIt
