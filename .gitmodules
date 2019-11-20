@@ -812,3 +812,6 @@
 [submodule "LoveIt"]
 	path = LoveIt
 	url = https://github.com/dillonzq/LoveIt
+[submodule "castanet"]
+	path = castanet
+	url = https://github.com/mattstratton/castanet
