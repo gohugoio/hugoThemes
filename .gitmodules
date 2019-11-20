@@ -815,3 +815,6 @@
 [submodule "castanet"]
 	path = castanet
 	url = https://github.com/mattstratton/castanet
+[submodule "docsy"]
+	path = docsy
+	url = https://github.com/google/docsy

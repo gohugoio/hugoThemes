@@ -117,7 +117,8 @@ blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume',
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 # hugo-material-docs: theme is not compatible with more recent versions of Hugo
 # devfest-theme-hugo: providing an exampleSite folders requires a lot of work, see https://github.com/gohugoio/hugoThemes/issues/584#issuecomment-467193735
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-theme-w3css-basic', 'hugo-material-docs', 'devfest-theme-hugo')
+# docsy documentation theme whose author does not wish to provide an exampleSite for reasons discussed in https://github.com/gohugoio/hugoThemes/issues/650
+noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-theme-w3css-basic', 'hugo-material-docs', 'devfest-theme-hugo', 'docsy')
 
 # A theme that uses other components needs to be added to this array
 components=('hugo-bare-min-theme')
