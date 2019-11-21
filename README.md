@@ -56,7 +56,7 @@ Each theme needs:
 
 ## theme.toml
 
-This file contains metadata about the theme and its creator. **Only `theme.toml` is accepted, not `theme.yaml` or not `theme.json`**. The following fields are required:
+This file contains metadata about the theme and its creator or creators. **Only `theme.toml` is accepted, not `theme.yaml` or not `theme.json`**. The following fields are required:
 
 ```toml
 name = "Theme Name"
@@ -66,8 +66,15 @@ description = "Theme description"
 homepage = "Website of your theme"
 tags = ["blog", "company"]
 features = ["some", "awesome", "features"]
-min_version = "0.57.0"
+min_version = "0.59.1"
 
+# If the theme has multiple authors
+authors = [
+  {name = "Name of author", homepage = "Website of author"},
+  {name = "Name of author", homepage = "Website of author"}
+]
+
+# If the theme has a single author
 [author]
     name = "Your name"
     homepage = "Your website"
