@@ -159,6 +159,13 @@ A Hugo theme may be used in various scenarios and as such it is important to kee
 
 - If a theme demo breaks and remains so for more than 30 calendar days, we may remove it from this repository without further notification.
 
+## Theme Updates
+
+Themes are updated automatically at:
+```
+00:00 UTC on the 1, 4, 7, 10, 13, 16, 19, 22, 25, 28 and 31th of every month
+```
+
 ## Testing a theme with the Hugo Themes website Build Script
 
 To test your theme with the Hugo Themes Site Build Script locally:
