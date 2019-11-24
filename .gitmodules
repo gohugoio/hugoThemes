@@ -232,9 +232,6 @@
 [submodule "hugo-dusk"]
 	path = hugo-dusk
 	url = https://github.com/gyorb/hugo-dusk.git
-[submodule "osprey"]
-	path = osprey
-	url = https://github.com/tomanistor/osprey.git
 [submodule "slate"]
 	path = slate
 	url = https://github.com/gesquive/slate.git
