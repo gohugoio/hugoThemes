@@ -818,3 +818,6 @@
 [submodule "docsy"]
 	path = docsy
 	url = https://github.com/google/docsy
+[submodule "Influencer-hugo"]
+	path = Influencer-hugo
+	url = https://github.com/themefisher/Influencer-hugo
