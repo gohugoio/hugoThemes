@@ -818,3 +818,6 @@
 [submodule "Influencer-hugo"]
 	path = Influencer-hugo
 	url = https://github.com/themefisher/Influencer-hugo
+[submodule "hugo-theme-diary"]
+	path = hugo-theme-diary
+	url = https://github.com/AmazingRise/hugo-theme-diary
