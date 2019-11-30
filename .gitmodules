@@ -821,3 +821,6 @@
 [submodule "hugo-theme-diary"]
 	path = hugo-theme-diary
 	url = https://github.com/AmazingRise/hugo-theme-diary
+[submodule "new-oldnew-mashup"]
+	path = new-oldnew-mashup
+	url = https://github.com/cshoredaniel/new-oldnew-mashup
