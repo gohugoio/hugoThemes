@@ -824,3 +824,6 @@
 [submodule "new-oldnew-mashup"]
 	path = new-oldnew-mashup
 	url = https://github.com/cshoredaniel/new-oldnew-mashup
+[submodule "erblog"]
+	path = erblog
+	url = https://github.com/ertuil/erblog
