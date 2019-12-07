@@ -827,3 +827,6 @@
 [submodule "erblog"]
 	path = erblog
 	url = https://github.com/ertuil/erblog
+[submodule "hugo-theme-novela"]
+	path = hugo-theme-novela
+	url = https://github.com/forestryio/hugo-theme-novela.git
