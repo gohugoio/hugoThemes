@@ -830,3 +830,6 @@
 [submodule "hugo-theme-novela"]
 	path = hugo-theme-novela
 	url = https://github.com/forestryio/hugo-theme-novela.git
+[submodule "monopriv"]
+	path = monopriv
+	url = https://gitlab.com/kskarthik/monopriv
