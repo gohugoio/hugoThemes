@@ -833,3 +833,6 @@
 [submodule "monopriv"]
 	path = monopriv
 	url = https://gitlab.com/kskarthik/monopriv
+[submodule "hugo_theme_pickles"]
+	path = hugo_theme_pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles
