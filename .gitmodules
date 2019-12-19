@@ -839,3 +839,6 @@
 [submodule "hugo-vitae"]
 	path = hugo-vitae
 	url = https://github.com/dataCobra/hugo-vitae.git
+[submodule "simple-style"]
+	path = simple-style
+	url = https://github.com/yanlinlin82/simple-style.git
