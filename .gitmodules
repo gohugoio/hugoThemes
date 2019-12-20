@@ -842,3 +842,6 @@
 [submodule "simple-style"]
 	path = simple-style
 	url = https://github.com/yanlinlin82/simple-style.git
+[submodule "hugo-notepadium"]
+	path = hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git
