@@ -845,3 +845,6 @@
 [submodule "hugo-notepadium"]
 	path = hugo-notepadium
 	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "osprey-delight"]
+	path = osprey-delight
+	url = https://github.com/kdevo/osprey-delight.git
