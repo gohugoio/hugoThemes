@@ -848,3 +848,6 @@
 [submodule "osprey-delight"]
 	path = osprey-delight
 	url = https://github.com/kdevo/osprey-delight.git
+[submodule "hugo-theme-chunky-poster"]
+	path = hugo-theme-chunky-poster
+	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
