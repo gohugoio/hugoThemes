@@ -114,6 +114,16 @@ To ease accessibility for international users of your theme please provide at le
 
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](https://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
 
+## Example Site
+
+Theme demo content on the Hugo Themes website is typically inherited from the [hugoBasicExample](https://github.com/gohugoio/hugoBasicExample) repository.
+
+If a theme demo requires its own content structure to function or if it is meant for a specialist use case, we will be more than glad to review your theme and accomodate its demo.
+
+However you will still need to provide generic content that is as **neutral as possible** in the theme's exampleSite. 
+
+From time to time we may audit the demos hosted on the Hugo Theme website. If a demo is found to contain content that is not acceptable it will be disabled.
+
 ## Resources
 
 If your theme makes use of the [Hugo Pipes](https://gohugo.io/hugo-pipes) methods `toCSS` and / or `PostCSS`, you need to take additional steps to make your theme compatible with the basic version of Hugo:
