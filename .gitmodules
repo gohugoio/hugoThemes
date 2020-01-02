@@ -851,3 +851,6 @@
 [submodule "hugo-theme-chunky-poster"]
 	path = hugo-theme-chunky-poster
 	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
+[submodule "amperage"]
+	path = amperage
+	url = https://github.com/asurbernardo/amperage
