@@ -122,7 +122,7 @@ If a theme demo requires its own content structure to function or if it is meant
 
 However you will still need to provide generic content that is as **neutral as possible** in the theme's exampleSite. 
 
-From time to time we may audit the demos hosted on the Hugo Theme website. If a demo is found to contain content that is not acceptable it will be disabled.
+From time to time we may audit the demos hosted on the Hugo Theme website. If a demo is found to feature content that is not acceptable it will be disabled.
 
 ## Resources
 
