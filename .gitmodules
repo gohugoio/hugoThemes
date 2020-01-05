@@ -854,3 +854,6 @@
 [submodule "amperage"]
 	path = amperage
 	url = https://github.com/asurbernardo/amperage
+[submodule "Blogpaper"]
+	path = Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper

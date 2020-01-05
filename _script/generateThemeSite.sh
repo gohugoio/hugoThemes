@@ -145,6 +145,7 @@ components=('hugo-bare-min-theme')
 # co-op: uses custom sections on the homepage that can be populated via content files
 # hugo-piercer-theme: offers customizable sections on the homepage that require own content files
 # minimo: is a very customizable theme that ships with widgets
+# personal-web: uses custom content files for the portfolio section
 # kitab: default content doesn't provide the structure to showcase books with chapters
 # syna: the use of fragments requires custom content files
 # crab: uses custom content to display features of the theme
@@ -154,7 +155,7 @@ components=('hugo-bare-min-theme')
 # khata: uses custom pages archive and tags / categories
 # OneDly-Theme: uses custom content to display subpages and sections on the homepage
 # hugo-webslides: uses custom Markdown files for presentation slides
-# hugo-theme-novela: uses custom images for post thumbnails and author pictures
+# Blogpaper uses custom images
 # ------------------------------------------------------------------------
 # the following theme demos require their own content for various reasons:
 # ------------------------------------------------------------------------
@@ -185,7 +186,7 @@ components=('hugo-bare-min-theme')
 # Academia-hugo fork of Academic needs its own content
 # ------------------------------------------------------------------------
 # engimo: theme for engineers, needs its own content
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'kitab', 'kross-hugo-portfolio-template', 'parsa-hugo-personal-blog-theme', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'Hargo-hugo-ecommerce-theme', 'hugo-owaraiclub', 'liva-hugo', 'hugonews', 'Academia-hugo', 'hugo-theme-zzo', 'engimo', 'northendlab-hugo')
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'kross-hugo-portfolio-template', 'parsa-hugo-personal-blog-theme', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'Hargo-hugo-ecommerce-theme', 'hugo-owaraiclub', 'liva-hugo', 'hugonews', 'Academia-hugo', 'hugo-theme-zzo', 'engimo', 'northendlab-hugo', 'Blogpaper')
 
 errorCounter=0
 
