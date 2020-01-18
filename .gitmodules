@@ -863,3 +863,6 @@
 [submodule "ticky_tacky_dark"]
 	path = ticky_tacky_dark
 	url = https://github.com/kc0bfv/ticky_tacky_dark
+[submodule "hugo-casper3"]
+	path = hugo-casper3
+	url = https://github.com/jonathanjanssens/hugo-casper3
