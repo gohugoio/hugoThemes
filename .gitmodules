@@ -860,3 +860,6 @@
 [submodule "raditian-free-hugo-theme"]
 	path = raditian-free-hugo-theme
 	url = https://github.com/radity/raditian-free-hugo-theme
+[submodule "ticky_tacky_dark"]
+	path = ticky_tacky_dark
+	url = https://github.com/kc0bfv/ticky_tacky_dark
