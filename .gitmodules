@@ -457,7 +457,6 @@
 [submodule "hugo-coder-portfolio"]
 	path = hugo-coder-portfolio
 	url = https://github.com/naro143/hugo-coder-portfolio.git
-
 [submodule "arabica"]
 	path = arabica
 	url = https://github.com/nirocfz/arabica.git
@@ -508,7 +507,7 @@
 	url = https://github.com/shankar/hugo-grapes.git
 [submodule "infinity-hugo"]
 	path = infinity-hugo
-	url = https://github.com/themefisher/infinity-hugo
+	url = https://github.com/themefisher/infinity-hugo.git
 [submodule "hugo-now"]
 	path = hugo-now
 	url = https://github.com/mikeblum/hugo-now.git
@@ -544,7 +543,7 @@
 	url = https://github.com/gonapps-org/hugo-apps-theme.git
 [submodule "hugo-serif-theme"]
 	path = hugo-serif-theme
-	url = https://github.com/JugglerX/hugo-serif-theme
+	url = https://github.com/JugglerX/hugo-serif-theme.git
 [submodule "Midnight"]
 	path = Midnight
 	url = https://gitlab.com/BluestNight/Midnight.git
@@ -607,7 +606,7 @@
 	url = https://github.com/jimfrenette/hugo-starter.git
 [submodule "hugo-pacman-theme"]
 	path = hugo-pacman-theme
-	url = https://github.com/coderzh/hugo-pacman-theme
+	url = https://github.com/coderzh/hugo-pacman-theme.git
 [submodule "hugo-theme-hello-friend-ng"]
 	path = hugo-theme-hello-friend-ng
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
@@ -730,31 +729,31 @@
 	url = https://github.com/RCJacH/hugo-webslides.git
 [submodule "newsroom"]
 	path = newsroom
-	url = https://github.com/onweru/newsroom
+	url = https://github.com/onweru/newsroom.git
 [submodule "hugo-theme-meme"]
 	path = hugo-theme-meme
 	url = https://github.com/reuixiy/hugo-theme-meme.git
 [submodule "colordrop"]
 	path = colordrop
-	url = https://github.com/humrochagf/colordrop
+	url = https://github.com/humrochagf/colordrop.git
 [submodule "hugo-changelog-theme"]
 	path = hugo-changelog-theme
-	url = https://github.com/jsnjack/hugo-changelog-theme
+	url = https://github.com/jsnjack/hugo-changelog-theme.git
 [submodule "hugo-theme-dream"]
 	path = hugo-theme-dream
-	url = https://github.com/g1eny0ung/hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream.git
 [submodule "hugo-spectre-pixel-theme"]
 	path = hugo-spectre-pixel-theme
 	url = https://github.com/st-wong/hugo-spectre-pixel-theme.git
 [submodule "hugo-minimalist-theme"]
 	path = hugo-minimalist-theme
-	url = https://github.com/digitalcraftsman/hugo-minimalist-theme
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
 [submodule "bare-hugo-theme"]
 	path = bare-hugo-theme
-	url = https://github.com/orf/bare-hugo-theme
+	url = https://github.com/orf/bare-hugo-theme.git
 [submodule "materialize-bp-hugo-theme"]
 	path = materialize-bp-hugo-theme
-	url = https://github.com/spech66/materialize-bp-hugo-theme
+	url = https://github.com/spech66/materialize-bp-hugo-theme.git
 [submodule "hugo-frances-theme"]
 	path = hugo-frances-theme
 	url = https://github.com/mcrwfrd/hugo-frances-theme.git
@@ -763,79 +762,79 @@
 	url = https://github.com/kritoke/darksimplicity
 [submodule "Hargo-hugo-ecommerce-theme"]
 	path = Hargo-hugo-ecommerce-theme
-	url = https://github.com/themefisher/Hargo-hugo-ecommerce-theme
+	url = https://github.com/themefisher/Hargo-hugo-ecommerce-theme.git
 [submodule "hugo-owaraiclub"]
 	path = hugo-owaraiclub
-	url = https://github.com/tcgriffith/hugo-owaraiclub/
+	url = https://github.com/tcgriffith/hugo-owaraiclub.git
 [submodule "liva-hugo"]
 	path = liva-hugo
-	url = https://github.com/themefisher/liva-hugo
+	url = https://github.com/themefisher/liva-hugo.git
 [submodule "hugo-devresume-theme"]
 	path = hugo-devresume-theme
-	url = https://github.com/cowboysmall-tools/hugo-devresume-theme
+	url = https://github.com/cowboysmall-tools/hugo-devresume-theme.git
 [submodule "github-style"]
 	path = github-style
-	url = https://github.com/MeiK2333/github-style
+	url = https://github.com/MeiK2333/github-style.git
 [submodule "hugonews"]
 	path = hugonews
-	url = https://github.com/spaghettiwews/hugonews
+	url = https://github.com/spaghettiwews/hugonews.git
 [submodule "Academia-hugo"]
 	path = Academia-hugo
-	url = https://github.com/themefisher/Academia-hugo
+	url = https://github.com/themefisher/Academia-hugo.git
 [submodule "hugo-theme-zzo"]
 	path = hugo-theme-zzo
-	url = https://github.com/zzossig/hugo-theme-zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
 [submodule "hugo-business-frontpage-theme"]
 	path = hugo-business-frontpage-theme
-	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme
+	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme.git
 [submodule "hugo-theme-pure"]
 	path = hugo-theme-pure
-	url = https://github.com/xiaoheiAh/hugo-theme-pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure.git
 [submodule "hugo-theme-easybook"]
 	path = hugo-theme-easybook
-	url = https://github.com/Y4er/hugo-theme-easybook
+	url = https://github.com/Y4er/hugo-theme-easybook.git
 [submodule "resto-hugo"]
 	path = resto-hugo
-	url = https://gitlab.com/kskarthik/resto-hugo
+	url = https://gitlab.com/kskarthik/resto-hugo.git
 [submodule "northendlab-hugo"]
 	path = northendlab-hugo
-	url = https://github.com/themefisher/northendlab-hugo
+	url = https://github.com/themefisher/northendlab-hugo.git
 [submodule "hugo-ink"]
 	path = hugo-ink
-	url = https://github.com/knadh/hugo-ink
+	url = https://github.com/knadh/hugo-ink.git
 [submodule "hugo-tailwind-journal"]
 	path = hugo-tailwind-journal
-	url = https://github.com/ianrodrigues/hugo-tailwind-journal
+	url = https://github.com/ianrodrigues/hugo-tailwind-journal.git
 [submodule "LoveIt"]
 	path = LoveIt
-	url = https://github.com/dillonzq/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
 [submodule "castanet"]
 	path = castanet
-	url = https://github.com/mattstratton/castanet
+	url = https://github.com/mattstratton/castanet.git
 [submodule "docsy"]
 	path = docsy
-	url = https://github.com/google/docsy
+	url = https://github.com/google/docsy.git
 [submodule "Influencer-hugo"]
 	path = Influencer-hugo
-	url = https://github.com/themefisher/Influencer-hugo
+	url = https://github.com/themefisher/Influencer-hugo.git
 [submodule "hugo-theme-diary"]
 	path = hugo-theme-diary
-	url = https://github.com/AmazingRise/hugo-theme-diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
 [submodule "new-oldnew-mashup"]
 	path = new-oldnew-mashup
-	url = https://github.com/cshoredaniel/new-oldnew-mashup
+	url = https://github.com/cshoredaniel/new-oldnew-mashup.git
 [submodule "erblog"]
 	path = erblog
-	url = https://github.com/ertuil/erblog
+	url = https://github.com/ertuil/erblog.git
 [submodule "hugo-theme-novela"]
 	path = hugo-theme-novela
 	url = https://github.com/forestryio/hugo-theme-novela.git
 [submodule "monopriv"]
 	path = monopriv
-	url = https://gitlab.com/kskarthik/monopriv
+	url = https://gitlab.com/kskarthik/monopriv.git
 [submodule "hugo_theme_pickles"]
 	path = hugo_theme_pickles
-	url = https://github.com/mismith0227/hugo_theme_pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
 [submodule "hugo-vitae"]
 	path = hugo-vitae
 	url = https://github.com/dataCobra/hugo-vitae.git
@@ -853,16 +852,16 @@
 	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
 [submodule "amperage"]
 	path = amperage
-	url = https://github.com/asurbernardo/amperage
+	url = https://github.com/asurbernardo/amperage.git
 [submodule "Blogpaper"]
 	path = Blogpaper
-	url = https://github.com/NormandErwan/Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper.git
 [submodule "raditian-free-hugo-theme"]
 	path = raditian-free-hugo-theme
-	url = https://github.com/radity/raditian-free-hugo-theme
+	url = https://github.com/radity/raditian-free-hugo-theme.git
 [submodule "ticky_tacky_dark"]
 	path = ticky_tacky_dark
-	url = https://github.com/kc0bfv/ticky_tacky_dark
+	url = https://github.com/kc0bfv/ticky_tacky_dark.git
 [submodule "hugo-casper3"]
 	path = hugo-casper3
-	url = https://github.com/jonathanjanssens/hugo-casper3
+	url = https://github.com/jonathanjanssens/hugo-casper3.git
