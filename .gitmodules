@@ -865,3 +865,6 @@
 [submodule "hugo-casper3"]
 	path = hugo-casper3
 	url = https://github.com/jonathanjanssens/hugo-casper3.git
+[submodule "hugo-theme-okayish-blog"]
+	path = hugo-theme-okayish-blog
+	url = https://github.com/kongdivin/hugo-theme-okayish-blog.git
