@@ -868,3 +868,6 @@
 [submodule "hugo-theme-okayish-blog"]
 	path = hugo-theme-okayish-blog
 	url = https://github.com/kongdivin/hugo-theme-okayish-blog.git
+[submodule "educenter-hugo"]
+	path = educenter-hugo
+	url = https://github.com/themefisher/educenter-hugo.git
