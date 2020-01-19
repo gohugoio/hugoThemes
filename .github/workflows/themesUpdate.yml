@@ -7,17 +7,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Prepare repository
-      run: | 
-        git config --global user.email "onedrawingperday@users.noreply.github.com"
-        git config --global user.name "onedrawingperday"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}
-        git checkout "${GITHUB_REF##*/}"
-    - name: Update Submodules
+    - uses: actions/checkout@v2
+    - name: Update submodules
+      shell: bash
       run: |
-        git submodule init
-        git submodule update --recursive --remote
-        git add .
-        git commit -am "Update Themes"
-        git push --force-with-lease
+       git config --global user.email "onedrawingperday@users.noreply.github.com"
+       git config --global user.name "onedrawingperday"
+       git submodule update --init --recursive --remote
+       git add .
+       git commit -am "Update Themes"
+       git push --force-with-lease
