@@ -13,9 +13,6 @@
 [submodule "purehugo"]
 	path = purehugo
 	url = https://github.com/dplesca/purehugo.git
-[submodule "html5"]
-	path = html5
-	url = https://github.com/simonmika/hugo-theme-html5.git
 [submodule "nofancy"]
 	path = nofancy
 	url = https://github.com/gizak/nofancy.git
@@ -40,9 +37,6 @@
 [submodule "creative"]
 	path = creative
 	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
-[submodule "persona"]
-	path = persona
-	url = https://github.com/pcdummy/hugo-theme-persona.git
 [submodule "artists"]
 	path = artists
 	url = https://github.com/digitalcraftsman/hugo-artists-theme.git
@@ -79,9 +73,6 @@
 [submodule "base16"]
 	path = base16
 	url = https://github.com/htdvisser/hugo-base16-theme.git
-[submodule "hugo-plus"]
-	path = hugo-plus
-	url = https://github.com/H4tch/hugo-plus.git
 [submodule "aurora"]
 	path = aurora
 	url = https://github.com/coryshaw/hugo-aurora-theme.git
@@ -109,9 +100,6 @@
 [submodule "hugo-lithium-theme"]
 	path = hugo-lithium-theme
 	url = https://github.com/jrutheiser/hugo-lithium-theme.git
-[submodule "hugo-theme-arch"]
-	path = hugo-theme-arch
-	url = https://github.com/syui/hugo-theme-arch.git
 [submodule "hugo-theme-wave"]
 	path = hugo-theme-wave
 	url = https://github.com/syui/hugo-theme-wave.git
@@ -202,9 +190,6 @@
 [submodule "hugo-theme-cactus-plus"]
 	path = hugo-theme-cactus-plus
 	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
-[submodule "sofya"]
-	path = sofya
-	url = https://github.com/jonathondilworth/sofya.git
 [submodule "hugo-theme-minos"]
 	path = hugo-theme-minos
 	url = https://github.com/carsonip/hugo-theme-minos.git

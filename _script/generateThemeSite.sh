@@ -101,24 +101,11 @@ else
 	BASEURL="http://themes.gohugo.io"
 fi
 
-# persona: https://github.com/pcdummy/hugo-theme-persona/issues/1
-# html5: https://github.com/simonmika/hugo-theme-html5/issues/2
-# journal discontinued
-# aurora: https://github.com/coryshaw/hugo-aurora-theme/issues/1
-# hugo-plus: https://github.com/H4tch/hugo-plus/issues/5
-# yume: fails to render site for unknown reason, see https://github.com/gohugoio/hugoThemes/issues/190
-blacklist=('persona', 'html5', 'journal', '.git', 'aurora', 'hugo-plus', 'yume', 'sofya', 'hugo-theme-arch', '.github')
-# hugo-incorporated: too complicated, needs its own
-#   exampleSite: https://github.com/nilproductions/hugo-incorporated/issues/24
-# hugo-theme-arch: themes generates blank homepage
-# hugo-smpl-theme: Promotional non-Hugo links
-# hugo-theme-learn: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/172
-# lamp: Icon font does not work with baseURL with sub-folder.
+blacklist=('.git', 'hugo-plus', '.github')
 # hugo-theme-w3css-basic: the theme owner requested the disable of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
-# hugo-material-docs: theme is not compatible with more recent versions of Hugo
 # devfest-theme-hugo: providing an exampleSite folders requires a lot of work, see https://github.com/gohugoio/hugoThemes/issues/584#issuecomment-467193735
 # docsy documentation theme whose author does not wish to provide an exampleSite for reasons discussed in https://github.com/gohugoio/hugoThemes/issues/650
-noDemo=('hugo-incorporated', 'hugo-theme-arch', 'hugo-smpl-theme', 'lamp', 'hugo-theme-w3css-basic', 'hugo-material-docs', 'devfest-theme-hugo', 'docsy')
+noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy')
 
 # A theme that uses other components needs to be added to this array
 components=('hugo-bare-min-theme')
