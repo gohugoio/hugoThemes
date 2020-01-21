@@ -853,3 +853,6 @@
 [submodule "educenter-hugo"]
 	path = educenter-hugo
 	url = https://github.com/themefisher/educenter-hugo.git
+[submodule "hugo-theme-prav"]
+	path = hugo-theme-prav
+	url = https://github.com/pravin/hugo-theme-prav.git
