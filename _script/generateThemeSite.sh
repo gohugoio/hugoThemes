@@ -144,6 +144,7 @@ components=('hugo-bare-min-theme')
 # hugo-theme-novela: uses custom images for post thumbnails and author pictures
 # Blogpaper uses custom images
 # ticky_tacky_dark uses custom configuration in content files
+# hugo-alageek-theme content structure does not fit the hugoBasicExample
 # ------------------------------------------------------------------------
 # the following theme demos require their own content for various reasons:
 # ------------------------------------------------------------------------
@@ -174,7 +175,7 @@ components=('hugo-bare-min-theme')
 # Academia-hugo fork of Academic needs its own content
 # ------------------------------------------------------------------------
 # engimo: theme for engineers, needs its own content
-whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'kross-hugo-portfolio-template', 'parsa-hugo-personal-blog-theme', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'Hargo-hugo-ecommerce-theme', 'hugo-owaraiclub', 'liva-hugo', 'hugonews', 'Academia-hugo', 'hugo-theme-zzo', 'engimo', 'northendlab-hugo', 'hugo-theme-novela', 'Blogpaper', 'ticky_tacky_dark')
+whiteList=('academic', 'reveal-hugo', 'hugo-terrassa-theme', 'hugo-theme-learn', 'hugo-now-ui', 'dot-hugo-documentation-theme', 'cupper-hugo-theme', 'hugo-book', 'yourfolio', 'hugo-resume', 'hugo-mdl', 'hugo-dream-plus', 'gohugo-theme-ananke', 'papercss-hugo-theme', 'hugo-serif-theme', 'hugo-theme-introduction', 'hugo-alabaster-theme', 'docuapi', 'hugo-theme-winning', 'co-op', 'hugo-piercer-theme', 'minimo', 'personal-web', 'kitab', 'kross-hugo-portfolio-template', 'parsa-hugo-personal-blog-theme', 'syna', 'crab', 'hugograyscale', 'hugo-creative-portfolio-theme', 'mero', 'khata', 'OneDly-Theme', 'hugo-webslides', 'hugo-minimalist-spa', 'hugo-theme-den', 'simplicity', 'alpha-church', 'castanet', 'hugo-apps-theme', 'hugo-theme-techdoc', 'hugo-theme-revealjs', 'hugo-theme-robotico', 'hugo-travelify-theme', 'colordrop', 'hugo-changelog-theme', 'Hargo-hugo-ecommerce-theme', 'hugo-owaraiclub', 'liva-hugo', 'hugonews', 'Academia-hugo', 'hugo-theme-zzo', 'engimo', 'northendlab-hugo', 'hugo-theme-novela', 'Blogpaper', 'ticky_tacky_dark', 'hugo-alageek-theme')
 
 errorCounter=0
 
