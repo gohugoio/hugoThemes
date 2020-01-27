@@ -859,3 +859,6 @@
 [submodule "paperesque"]
 	path = paperesque
 	url = https://github.com/capnfabs/paperesque
+[submodule "papaya"]
+	path = papaya
+	url = https://github.com/plopcas/papaya
