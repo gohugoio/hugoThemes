@@ -856,3 +856,6 @@
 [submodule "hugo-theme-prav"]
 	path = hugo-theme-prav
 	url = https://github.com/pravin/hugo-theme-prav.git
+[submodule "paperesque"]
+	path = paperesque
+	url = https://github.com/capnfabs/paperesque
