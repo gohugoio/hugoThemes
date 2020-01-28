@@ -862,3 +862,6 @@
 [submodule "papaya"]
 	path = papaya
 	url = https://github.com/plopcas/papaya.git
+[submodule "hugo-theme-iris"]
+	path = hugo-theme-iris
+	url = https://github.com/peaceiris/hugo-theme-iris.git
