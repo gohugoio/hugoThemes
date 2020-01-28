@@ -858,7 +858,7 @@
 	url = https://github.com/pravin/hugo-theme-prav.git
 [submodule "paperesque"]
 	path = paperesque
-	url = https://github.com/capnfabs/paperesque
+	url = https://github.com/capnfabs/paperesque.git
 [submodule "papaya"]
 	path = papaya
-	url = https://github.com/plopcas/papaya
+	url = https://github.com/plopcas/papaya.git
