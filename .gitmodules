@@ -865,3 +865,6 @@
 [submodule "hugo-theme-iris"]
 	path = hugo-theme-iris
 	url = https://github.com/peaceiris/hugo-theme-iris.git
+[submodule "somrat"]
+	path = somrat
+	url = https://github.com/Somrat37/somrat.git
