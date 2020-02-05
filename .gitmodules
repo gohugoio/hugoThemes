@@ -868,3 +868,6 @@
 [submodule "somrat"]
 	path = somrat
 	url = https://github.com/Somrat37/somrat.git
+[submodule "compose"]
+	path = compose
+	url = https://github.com/onweru/compose.git
