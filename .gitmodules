@@ -871,3 +871,6 @@
 [submodule "compose"]
 	path = compose
 	url = https://github.com/onweru/compose.git
+[submodule "potato-dark"]
+	path = potato-dark
+	url = https://github.com/surajmandalcell/potato-dark.git
