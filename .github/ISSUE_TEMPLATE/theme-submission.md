@@ -25,4 +25,6 @@ about: Theme submission
 
 **N.B.** By submitting a theme to the Hugo Themes Showcase you understand that **you need to maintain your theme**. You will need to keep an eye on whether your theme's demo generates on the Hugo website, whenever there is a new release. We are a very small team and we just cannot keep up opening issues in the various theme repositories to notify authors. Whenever a theme demo breaks and remains broken then at some point it will be removed from the list without prior warning. If you no longer wish to maintain a theme please let us know.
 
+New themes will usually be promoted on Hugo's official Twitter account. If you would like to be mentioned in the tweet please add your Twitter username to this submission.
+
 Feel free to ask questions. We're glad to help.
