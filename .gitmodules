@@ -877,3 +877,6 @@
 [submodule "hugo-theme-noteworthy"]
 	path = hugo-theme-noteworthy
 	url = https://github.com/kimcc/hugo-theme-noteworthy.git
+[submodule "hugo-theme-zdoc"]
+	path = hugo-theme-zdoc
+	url = https://github.com/zzossig/hugo-theme-zdoc.git
