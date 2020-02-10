@@ -874,3 +874,6 @@
 [submodule "potato-dark"]
 	path = potato-dark
 	url = https://github.com/surajmandalcell/potato-dark.git
+[submodule "hugo-theme-noteworthy"]
+	path = hugo-theme-noteworthy
+	url = https://github.com/kimcc/hugo-theme-noteworthy.git
