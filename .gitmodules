@@ -880,3 +880,6 @@
 [submodule "hugo-theme-zdoc"]
 	path = hugo-theme-zdoc
 	url = https://github.com/zzossig/hugo-theme-zdoc.git
+[submodule "soho"]
+	path = soho
+	url = https://github.com/alexandrevicenzi/soho.git
