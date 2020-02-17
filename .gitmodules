@@ -883,3 +883,6 @@
 [submodule "soho"]
 	path = soho
 	url = https://github.com/alexandrevicenzi/soho.git
+[submodule "someparts-hugo"]
+	path = someparts-hugo
+	url = https://github.com/tastaturtier/someparts-hugo.git
