@@ -886,3 +886,6 @@
 [submodule "someparts-hugo"]
 	path = someparts-hugo
 	url = https://github.com/tastaturtier/someparts-hugo.git
+[submodule "photo-grid"]
+	path = photo-grid
+	url = https://github.com/Chen-Zhe/photo-grid
