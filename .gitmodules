@@ -892,3 +892,6 @@
 [submodule "harbor"]
 	path = harbor
 	url = https://github.com/matsuyoshi30/harbor
+[submodule "hugo-theme-anubis"]
+	path = hugo-theme-anubis
+	url = https://github.com/Mitrichius/hugo-theme-anubis.git
