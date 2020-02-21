@@ -1,8 +1,8 @@
 [context.production.environment]
-HUGO_VERSION = "0.64.1"
+HUGO_VERSION = "0.65.2"
 HUGO_ENV = "production"
 RUBY_VERSION = "2.6.2"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.64.1"
+HUGO_VERSION = "0.65.2"
 RUBY_VERSION = "2.6.2"
