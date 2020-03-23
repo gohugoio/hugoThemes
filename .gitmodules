@@ -895,3 +895,6 @@
 [submodule "ronu-hugo-theme"]
 	path = ronu-hugo-theme
 	url = https://github.com/softwareyoga/ronu-hugo-theme.git
+[submodule "hugo-rocinante"]
+	path = hugo-rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
