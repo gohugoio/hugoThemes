@@ -898,3 +898,6 @@
 [submodule "hugo-rocinante"]
 	path = hugo-rocinante
 	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "flexible-seo-hugo"]
+	path = flexible-seo-hugo
+	url = https://github.com/pjbakker/flexible-seo-hugo.git
