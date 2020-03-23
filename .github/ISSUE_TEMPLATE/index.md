@@ -27,4 +27,6 @@ about: Theme submission
 
 New themes will usually be promoted on Hugo's official Twitter account. If you would like to be mentioned in the tweet please add your Twitter username to this submission.
 
+**Link to my Twitter account (optional):** REPLACE-WITH-URL
+
 Feel free to ask questions. We're glad to help.
