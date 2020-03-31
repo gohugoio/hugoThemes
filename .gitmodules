@@ -901,3 +901,6 @@
 [submodule "flexible-seo-hugo"]
 	path = flexible-seo-hugo
 	url = https://github.com/pjbakker/flexible-seo-hugo.git
+[submodule "hugo.386"]
+	path = hugo.386
+	url = https://gitlab.com/maxlefou/hugo.386.git
