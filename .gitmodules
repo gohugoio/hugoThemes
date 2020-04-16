@@ -916,3 +916,6 @@
 [submodule "archie"]
 	path = archie
 	url = https://github.com/athul/archie.git
+[submodule "ghazal"]
+	path = ghazal
+	url = https://github.com/darshanbaral/ghazal.git
