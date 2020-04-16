@@ -910,3 +910,6 @@
 [submodule "hugo-theme-fuji"]
 	path = hugo-theme-fuji
 	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "lekh"]
+	path = lekh
+	url = https://github.com/invinciblycool/lekh.git
