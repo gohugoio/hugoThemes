@@ -907,3 +907,6 @@
 [submodule "devise"]
 	path = devise
 	url = https://github.com/austingebauer/devise.git
+[submodule "hugo-theme-fuji"]
+	path = hugo-theme-fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
