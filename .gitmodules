@@ -889,9 +889,6 @@
 [submodule "hugo-theme-anubis"]
 	path = hugo-theme-anubis
 	url = https://github.com/Mitrichius/hugo-theme-anubis.git
-[submodule "axiom"]
-	path = axiom
-	url = https://github.com/jhauraw/axiom.git
 [submodule "ronu-hugo-theme"]
 	path = ronu-hugo-theme
 	url = https://github.com/softwareyoga/ronu-hugo-theme.git
