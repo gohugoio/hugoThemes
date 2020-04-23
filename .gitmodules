@@ -925,3 +925,6 @@
 [submodule "ace-documentation"]
 	path = ace-documentation
 	url = https://github.com/vantagedesign/ace-documentation.git
+[submodule "origin-hugo-theme"]
+	path = origin-hugo-theme
+	url = https://github.com/fourtyone11/origin-hugo-theme.git
