@@ -922,3 +922,6 @@
 [submodule "kiss-em"]
 	path = kiss-em
 	url = https://github.com/pavel-pi/kiss-em.git
+[submodule "ace-documentation"]
+	path = ace-documentation
+	url = https://github.com/vantagedesign/ace-documentation.git
