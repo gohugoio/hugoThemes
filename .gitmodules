@@ -928,3 +928,6 @@
 [submodule "origin-hugo-theme"]
 	path = origin-hugo-theme
 	url = https://github.com/fourtyone11/origin-hugo-theme.git
+[submodule "autophugo"]
+	path = autophugo
+	url = https://github.com/kc0bfv/autophugo.git
