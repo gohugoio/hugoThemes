@@ -90,7 +90,7 @@ authors = [
 
 ## Media
 
-Screenshots are used as preview in the list. Make sure that they have the right dimensions:
+Screenshots are used as theme previews in the list, they should feature a theme's layout (without any browser chrome or device mockups) and have the following dimensions:
 
 * Thumbnail should be 900×600 in pixels
 * Screenshot should be 1500×1000 in pixels
