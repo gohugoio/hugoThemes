@@ -88,6 +88,16 @@ authors = [
 
 **Note:** Hugo started using full semver versions even for main releases in v0.54.0, therefore if your theme has a recent `min_version` you need to enter it as `0.59.0` and not `0.59`.
 
+## LICENSE
+
+Themes in this repository are accepted only if they come with an Open Source license, that allows for the theme to be freely used, modified, and shared. 
+
+To have a look at popular licenses please visit the [Opesource Initiative](https://opensource.org/licenses) website.
+
+**Note:** When porting an existing theme from another platform to Hugo, or if you are forking another Hugo theme in order to add new features and you wish to submit the derivative work for inclusion at the Hugo Themes Showcase, you really need to make sure that the requirements of the original theme's license are met. 
+
+If a submission is found to violate the LICENSE of an original theme, it will be rejected without further discussion.
+
 ## Media
 
 Screenshots are used as theme previews in the list, they should feature a theme's layout (without any browser chrome or device mockups) and have the following dimensions:
