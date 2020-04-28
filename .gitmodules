@@ -931,3 +931,6 @@
 [submodule "autophugo"]
 	path = autophugo
 	url = https://github.com/kc0bfv/autophugo.git
+[submodule "axiom"]
+	path = axiom
+	url = https://github.com/marketempower/axiom.git
