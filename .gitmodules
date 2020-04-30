@@ -940,3 +940,6 @@
 [submodule "ramium"]
 	path = ramium
 	url = https://github.com/rafed/ramium.git
+[submodule "twenty-twenty-hugo"]
+	path = twenty-twenty-hugo
+	url = https://github.com/themefisher/twenty-twenty-hugo.git
