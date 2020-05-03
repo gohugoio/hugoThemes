@@ -943,3 +943,6 @@
 [submodule "twenty-twenty-hugo"]
 	path = twenty-twenty-hugo
 	url = https://github.com/themefisher/twenty-twenty-hugo.git
+[submodule "hugo-theme-console"]
+	path = hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
