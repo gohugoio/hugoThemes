@@ -946,3 +946,6 @@
 [submodule "hugo-theme-console"]
 	path = hugo-theme-console
 	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "hugo-theme-mixedpaper"]
+	path = hugo-theme-mixedpaper
+	url = https://github.com/wayjam/hugo-theme-mixedpaper.git
