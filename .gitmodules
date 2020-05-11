@@ -949,3 +949,6 @@
 [submodule "hugo-theme-mixedpaper"]
 	path = hugo-theme-mixedpaper
 	url = https://github.com/wayjam/hugo-theme-mixedpaper.git
+[submodule "hugo-sugoi"]
+	path = hugo-sugoi
+	url = https://github.com/aanupam23/hugo-sugoi.git
