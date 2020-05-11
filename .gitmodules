@@ -952,3 +952,6 @@
 [submodule "hugo-sugoi"]
 	path = hugo-sugoi
 	url = https://github.com/aanupam23/hugo-sugoi.git
+[submodule "roxo-hugo"]
+	path = roxo-hugo
+	url = https://github.com/StaticMania/roxo-hugo.git
