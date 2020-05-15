@@ -955,3 +955,6 @@
 [submodule "roxo-hugo"]
 	path = roxo-hugo
 	url = https://github.com/StaticMania/roxo-hugo.git
+[submodule "hugo-theme-tony"]
+	path = hugo-theme-tony
+	url = https://github.com/ThemeTony/hugo-theme-tony.git
