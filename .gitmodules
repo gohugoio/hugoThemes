@@ -958,3 +958,6 @@
 [submodule "hugo-theme-tony"]
 	path = hugo-theme-tony
 	url = https://github.com/ThemeTony/hugo-theme-tony.git
+[submodule "etch"]
+	path = etch
+	url = https://github.com/LukasJoswiak/etch.git
