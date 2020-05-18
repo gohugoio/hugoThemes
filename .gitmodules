@@ -964,3 +964,6 @@
 [submodule "blackburn"]
 	path = blackburn
 	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "hugo-theme-dimension"]
+	path = hugo-theme-dimension
+	url = https://github.com/your-identity/hugo-theme-dimension.git
