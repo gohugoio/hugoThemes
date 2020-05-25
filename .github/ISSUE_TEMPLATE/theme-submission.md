@@ -6,7 +6,9 @@ about: Theme submission
 
 # Theme submission
 
-**Please make sure that you have read the [theme submission guidelines](https://github.com/gohugoio/hugoThemes/blob/master/README.md#adding-a-theme-to-the-list) before submitting a theme**. The guidelines provide all relevant information and requirements that **have to be fulfilled** before the submission. Please tick the relevant boxes for your theme in the checklist below:
+**Please make sure that you have read the [theme submission guidelines](https://github.com/gohugoio/hugoThemes/blob/master/README.md#adding-a-theme-to-the-list) before submitting a theme**. The guidelines provide all relevant information and requirements that **have to be fulfilled** before the submission. We strongly suggest that you test your theme with the [Hugo Themes Build Script](https://github.com/gohugoio/hugoThemes/blob/master/README.md#testing-a-theme-with-the-hugo-themes-website-build-script) before submitting the theme for review. If a submission does not meet the criteria mentioned in the README it will be closed. You may re-submit once you fix problems with your submission. However, please note that we are not a free help center for general web development and for Hugo support questions there is a dedicated [support forum](https://discourse.gohugo.io/) that you should use.
+
+Please tick the relevant boxes for your theme in the checklist below:
 
 **Link to my theme repository:** REPLACE-WITH-URL
 
@@ -23,7 +25,7 @@ about: Theme submission
     - [ ] I've checked the developer tools' console in my browser for error messages
 - [ ] in case my theme is using Hugo Pipes features like `toCSS` and `PostCSS` that I have committed the `/resources` directory with all generated assets, for my theme to work in the basic version of Hugo
 
-**N.B.** By submitting a theme to the Hugo Themes Showcase you understand that **you need to maintain your theme**. You will need to keep an eye on whether your theme's demo generates on the Hugo website, whenever there is a new release. We are a very small team and we just cannot keep up opening issues in the various theme repositories to notify authors. Whenever a theme demo breaks and remains broken then at some point it will be removed from the list without prior warning. If you no longer wish to maintain a theme please let us know.
+**N.B.** By submitting a theme to the Hugo Themes Showcase you understand that **you need to maintain your theme**. If a theme demo breaks and remains broken then at some point it will be removed from the list without prior warning. If you no longer wish to maintain a theme please let us know.
 
 New themes will usually be promoted on Hugo's official Twitter account. If you would like to be mentioned in the tweet please add your Twitter username to this submission.
 
