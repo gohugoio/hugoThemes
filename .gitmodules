@@ -970,3 +970,6 @@
 [submodule "redgood"]
 	path = redgood
 	url = https://github.com/urjaacharya/redgood.git
+[submodule "smol"]
+	path = smol
+	url = https://github.com/colorchestra/smol.git
