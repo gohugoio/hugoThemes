@@ -199,9 +199,6 @@
 [submodule "hugo-theme-zen"]
 	path = hugo-theme-zen
 	url = https://github.com/frjo/hugo-theme-zen.git
-[submodule "bulma"]
-	path = bulma
-	url = https://github.com/jeblister/bulma.git
 [submodule "hugo-fabric"]
 	path = hugo-fabric
 	url = https://github.com/wd/hugo-fabric.git
