@@ -967,3 +967,6 @@
 [submodule "hugo-eureka"]
 	path = hugo-eureka
 	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "redgood"]
+	path = redgood
+	url = https://github.com/urjaacharya/redgood.git
