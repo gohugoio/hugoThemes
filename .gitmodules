@@ -973,3 +973,6 @@
 [submodule "smol"]
 	path = smol
 	url = https://github.com/colorchestra/smol.git
+[submodule "hugo-theme-simple-blog"]
+	path = hugo-theme-simple-blog
+	url = https://github.com/10mohi6/hugo-theme-simple-blog.git
