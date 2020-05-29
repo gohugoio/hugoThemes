@@ -976,3 +976,6 @@
 [submodule "hugo-theme-simple-blog"]
 	path = hugo-theme-simple-blog
 	url = https://github.com/10mohi6/hugo-theme-simple-blog.git
+[submodule "hugo-html5up-alpha"]
+	path = hugo-html5up-alpha
+	url = https://github.com/dewittn/hugo-html5up-alpha.git
