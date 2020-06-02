@@ -11,8 +11,8 @@ jobs:
     - name: Update submodules
       shell: bash
       run: |
-       git config --global user.email "onedrawingperday@users.noreply.github.com"
-       git config --global user.name "onedrawingperday"
+       git config --global user.email "digitalcraftsman@users.noreply.github.com"
+       git config --global user.name "digitalcraftsman"
        git submodule update --init --recursive --remote
        git add .
        git commit -am "Update Themes"
