@@ -979,3 +979,6 @@
 [submodule "hugo-html5up-alpha"]
 	path = hugo-html5up-alpha
 	url = https://github.com/dewittn/hugo-html5up-alpha.git
+[submodule "hugo-theme-tokiwa"]
+	path = hugo-theme-tokiwa
+	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
