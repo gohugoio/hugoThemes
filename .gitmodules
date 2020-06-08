@@ -43,9 +43,6 @@
 [submodule "hugo-h5bp"]
 	path = hugo-h5bp
 	url = https://github.com/garvincasimir/hugo-h5bp-simple.git
-[submodule "hikari"]
-	path = hikari
-	url = https://github.com/digitalcraftsman/hugo-hikari-theme.git
 [submodule "detox"]
 	path = detox
 	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox.git
