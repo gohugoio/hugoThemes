@@ -37,9 +37,6 @@
 [submodule "polymer"]
 	path = polymer
 	url = https://github.com/pdevty/polymer.git
-[submodule "cactus"]
-	path = cactus
-	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
 [submodule "air"]
 	path = air
 	url = https://github.com/syui/hugo-theme-air.git
