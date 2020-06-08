@@ -34,9 +34,6 @@
 [submodule "material-design"]
 	path = material-design
 	url = https://github.com/pdevty/material-design.git
-[submodule "creative"]
-	path = creative
-	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
 [submodule "artists"]
 	path = artists
 	url = https://github.com/digitalcraftsman/hugo-artists-theme.git
