@@ -58,9 +58,6 @@
 [submodule "base16"]
 	path = base16
 	url = https://github.com/htdvisser/hugo-base16-theme.git
-[submodule "type"]
-	path = type
-	url = https://github.com/digitalcraftsman/hugo-type-theme.git
 [submodule "hugo-octopress"]
 	path = hugo-octopress
 	url = https://github.com/parsiya/Hugo-Octopress.git
