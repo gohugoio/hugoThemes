@@ -964,3 +964,6 @@
 [submodule "bodhi"]
 	path = bodhi
 	url = https://github.com/rhnvrm/bodhi.git
+[submodule "hugo-theme-codex"]
+	path = hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
