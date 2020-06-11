@@ -967,3 +967,6 @@
 [submodule "hugo-theme-codex"]
 	path = hugo-theme-codex
 	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "showcase-hugo-theme"]
+	path = showcase-hugo-theme
+	url = https://github.com/apvarun/showcase-hugo-theme.git
