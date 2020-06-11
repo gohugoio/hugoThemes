@@ -970,3 +970,6 @@
 [submodule "showcase-hugo-theme"]
 	path = showcase-hugo-theme
 	url = https://github.com/apvarun/showcase-hugo-theme.git
+[submodule "HugoTeX"]
+	path = HugoTeX
+	url = https://github.com/7ma7X/HugoTeX.git
