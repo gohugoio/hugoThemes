@@ -42,15 +42,15 @@ popd() {
 # Load the repositories from the provided environment variables or our defaults
 HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/gohugoio/hugoThemesSite.git}
 HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/gohugoio/hugoBasicExample.git}
-#HUGO_THEMES_REPO=${HUGO_THEMES_REPO:-https://github.com/gohugoio/hugoThemes.git}
 
-#echo "Using ${HUGO_THEMES_REPO} for themes"
 echo "Using ${HUGO_THEME_SITE_REPO} for theme site"
 echo "Using ${HUGO_BASIC_EXAMPLE_REPO} for example site"
 
 GLOBIGNORE=.*
 siteDir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/hugoThemeSite"
-themesDir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+# use HUGO_THEMES_REPO to specify alternative location as source for themes. Intended to speed up
+# build times for theme submission reviews by ignoring already added themes.
+themesDir=${HUGO_THEMES_REPO:-"$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"}
 
 echo "Using themes dir ${themesDir}"
 echo "Using site dir ${siteDir}"
