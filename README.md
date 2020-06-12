@@ -194,5 +194,5 @@ To test your theme with the Hugo Themes Site Build Script locally:
 - Then execute: `./reviewTheme.sh <url-to-git-repository-of-theme>`
    - If a theme demo requires its own content structure to function or if it is meant for a specialist use case, whitelist it in [./generateThemeSite.sh](https://github.com/gohugoio/hugoThemes/blob/master/_script/generateThemeSite.sh)
    - More information [here](https://github.com/gohugoio/hugoThemes/tree/master/_script#quick-build-for-theme-reviews--tests)
-- Open `localhost:1313` in your browser and navigate to the theme
-- If your theme demo is not generated you can create an error report with: `./generateThemeSite.sh > errors.txt`
+- Open `http://localhost:1313` in your browser and navigate to the theme
+- If your theme demo is not generated you can create an error report with: `./reviewTheme.sh > errors.txt`
