@@ -973,3 +973,6 @@
 [submodule "HugoTeX"]
 	path = HugoTeX
 	url = https://github.com/7ma7X/HugoTeX.git
+[submodule "toha"]
+	path = toha
+	url = https://github.com/hossainemruz/toha.git
