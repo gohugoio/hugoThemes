@@ -36,10 +36,12 @@ while getopts ":t:" opt; do
     esac
 done
 
-
-cloneDest="$themesDir/$(basename $repoUrl .git)"
+themeName=$(basename $repoUrl .git)
+cloneDest="$themesDir/$themeName"
 if [ ! -d $cloneDest ]; then
-  git clone --recursive $repoUrl $cloneDest
+    git clone --recursive $repoUrl $cloneDest
+else
+    echo " ==== Found theme \"$themeName\" already at $cloneDest. Skip cloning of theme ==== "
 fi
 
 # expose themesDir to generateThemeSite.sh
