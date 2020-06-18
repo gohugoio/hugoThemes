@@ -39,6 +39,7 @@ popd() {
 	command popd "$@" >/dev/null
 }
 
+
 # Load the repositories from the provided environment variables or our defaults
 HUGO_THEME_SITE_REPO=${HUGO_THEME_SITE_REPO:-https://github.com/gohugoio/hugoThemesSite.git}
 HUGO_BASIC_EXAMPLE_REPO=${HUGO_BASIC_EXAMPLE_REPO:-https://github.com/gohugoio/hugoBasicExample.git}
@@ -54,6 +55,18 @@ themesDir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 echo "Using themes dir ${themesDir}"
 echo "Using site dir ${siteDir}"
+
+# Whether to build Hugo from source.
+hugoMaster=true
+if $hugoMaster; then
+	export GOPROXY=https://proxy.golang.org
+	export GO111MODULE=on
+	export GOBIN=${themesDir}/bin
+	export PATH=${themesDir}/bin:$PATH
+	go get github.com/gohugoio/hugo@master
+	hugo version
+fi
+
 
 configTplPrefix="config-tpl"
 configBase="${configTplPrefix}-base"
@@ -98,7 +111,11 @@ mkdir -p themeSite/static/images
 if [ $# -eq 1 ]; then
 	BASEURL="$1"
 else
-	BASEURL="http://themes.gohugo.io"
+	if hugoMaster; then 
+		BASEURL="https://hugo-master--hugothemes.netlify.com/"
+	else
+		BASEURL="http://themes.gohugo.io"
+	fi
 fi
 
 blacklist=('.git', '.github')
@@ -267,7 +284,7 @@ for x in `find ${themesDir} -mindepth 1 -maxdepth 1 -type d -not -path "*.git" -
 					echo "Example site for theme ${x} missing /content folder"
 					generateDemo=false
 				fi
-            	HUGO_THEME=${x} hugo --quiet -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
+            	HUGO_THEME=${x} hugo -s exampleSite2 -d ${demoDestination} -b $BASEURL/theme/$x/
             else
                                 grep -v "enableEmoji" ${searchConfig} > temp && mv temp ${searchConfig}
                                 find ${themesDir}/$x/layouts/ -type f -exec sed -i -e 's/Pages "Type" "posts"/Pages "Type" "post"/g' -e 's/Pages "Section" "posts"/Pages "Section" "post"/g' {} \;
