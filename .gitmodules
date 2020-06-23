@@ -979,3 +979,6 @@
 [submodule "hugo-theme-notrack"]
 	path = hugo-theme-notrack
 	url = https://github.com/gevhaz/hugo-theme-notrack.git
+[submodule "hugo-theme-zozo"]
+	path = hugo-theme-zozo
+	url = https://github.com/varkai/hugo-theme-zozo.git
