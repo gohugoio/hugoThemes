@@ -976,3 +976,6 @@
 [submodule "toha"]
 	path = toha
 	url = https://github.com/hossainemruz/toha.git
+[submodule "hugo-theme-notrack"]
+	path = hugo-theme-notrack
+	url = https://github.com/gevhaz/hugo-theme-notrack.git
