@@ -985,3 +985,6 @@
 [submodule "hugo-theme-color-your-world"]
 	path = hugo-theme-color-your-world
 	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "persian-hugo"]
+	path = persian-hugo
+	url = https://github.com/themefisher/persian-hugo.git
