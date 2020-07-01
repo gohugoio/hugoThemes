@@ -985,3 +985,6 @@
 [submodule "persian-hugo"]
 	path = persian-hugo
 	url = https://github.com/themefisher/persian-hugo.git
+[submodule "hugo-icarus"]
+	path = hugo-icarus
+	url = https://gitlab.com/toryanderson/hugo-icarus.git
