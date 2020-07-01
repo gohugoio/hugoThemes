@@ -586,9 +586,6 @@
 [submodule "mero"]
 	path = mero
 	url = https://github.com/darshanbaral/mero.git
-[submodule "hugo-appyness"]
-	path = hugo-appyness
-	url = https://github.com/uicardiodev/hugo-appyness.git
 [submodule "Binario"]
 	path = Binario
 	url = https://github.com/Vimux/Binario.git
