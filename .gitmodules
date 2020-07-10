@@ -988,3 +988,6 @@
 [submodule "hugo-icarus"]
 	path = hugo-icarus
 	url = https://gitlab.com/toryanderson/hugo-icarus.git
+[submodule "hugo-developer-portfolio"]
+	path = hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio.git
