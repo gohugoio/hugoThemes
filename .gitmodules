@@ -160,9 +160,6 @@
 [submodule "black-and-light"]
 	path = black-and-light
 	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
-[submodule "prologue"]
-	path = prologue
-	url = https://github.com/sethmacleod/prologue.git
 [submodule "hugo-theme-cactus-plus"]
 	path = hugo-theme-cactus-plus
 	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
