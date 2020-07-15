@@ -988,3 +988,6 @@
 [submodule "hugo-developer-portfolio"]
 	path = hugo-developer-portfolio
 	url = https://github.com/samrobbins85/hugo-developer-portfolio.git
+[submodule "the-roots-home"]
+	path = the-roots-home
+	url = https://github.com/rmsubekti/the-roots-home.git
