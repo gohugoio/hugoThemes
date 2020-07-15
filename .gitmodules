@@ -634,9 +634,9 @@
 [submodule "kross-hugo-portfolio-template"]
 	path = kross-hugo-portfolio-template
 	url = https://github.com/themefisher/kross-hugo-portfolio-template.git
-[submodule "parsa-hugo-personal-blog-theme"]
-	path = parsa-hugo-personal-blog-theme
-	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
+[submodule "parsa-hugo"]
+	path = parsa-hugo
+	url = https://github.com/themefisher/parsa-hugo.git
 [submodule "syna"]
 	path = syna
 	url = https://github.com/okkur/syna.git
