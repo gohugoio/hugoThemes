@@ -721,9 +721,6 @@
 [submodule "hugonews"]
 	path = hugonews
 	url = https://github.com/spaghettiwews/hugonews.git
-[submodule "Academia-hugo"]
-	path = Academia-hugo
-	url = https://github.com/themefisher/Academia-hugo.git
 [submodule "hugo-theme-zzo"]
 	path = hugo-theme-zzo
 	url = https://github.com/zzossig/hugo-theme-zzo.git
@@ -988,3 +985,6 @@
 [submodule "the-roots-home"]
 	path = the-roots-home
 	url = https://github.com/rmsubekti/the-roots-home.git
+[submodule "academia-hugo"]
+	path = academia-hugo
+	url = https://github.com/themefisher/academia-hugo.git
