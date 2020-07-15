@@ -163,9 +163,6 @@
 [submodule "prologue"]
 	path = prologue
 	url = https://github.com/sethmacleod/prologue.git
-[submodule "aerial"]
-	path = aerial
-	url = https://github.com/sethmacleod/aerial.git
 [submodule "hugo-theme-cactus-plus"]
 	path = hugo-theme-cactus-plus
 	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
