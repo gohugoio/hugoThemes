@@ -13,7 +13,7 @@ jobs:
       run: |
        git config --global user.email "digitalcraftsman@users.noreply.github.com"
        git config --global user.name "digitalcraftsman"
-       git submodule update --init --recursive --remote
+       git submodule update --init --remote
        git add .
        git commit -am "Update Themes"
        git push --force-with-lease
