@@ -991,3 +991,6 @@
 [submodule "hugo-theme-sk1"]
 	path = hugo-theme-sk1
 	url = https://github.com/J-Siu/hugo-theme-sk1.git
+[submodule "basicwebtheme"]
+	path = basicwebtheme
+	url = https://github.com/mdashx/basicwebtheme.git
