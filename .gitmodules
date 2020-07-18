@@ -982,3 +982,6 @@
 [submodule "basicwebtheme"]
 	path = basicwebtheme
 	url = https://github.com/mdashx/basicwebtheme.git
+[submodule "hugo-theme-tony"]
+	path = hugo-theme-tony
+	url = https://github.com/ThemeTony/hugo-theme-tony.git
