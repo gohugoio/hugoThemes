@@ -241,9 +241,6 @@
 [submodule "forty"]
 	path = forty
 	url = https://github.com/MarcusVirg/forty.git
-[submodule "hugo-now-ui"]
-	path = hugo-now-ui
-	url = https://github.com/cboettig/hugo-now-ui.git
 [submodule "hugo-split-theme"]
 	path = hugo-split-theme
 	url = https://github.com/escalate/hugo-split-theme.git
