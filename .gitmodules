@@ -277,9 +277,6 @@
 [submodule "hugo-theme-sam"]
 	path = hugo-theme-sam
 	url = https://github.com/hivickylai/hugo-theme-sam.git
-[submodule "hugo-bare-min-theme"]
-	path = hugo-bare-min-theme
-	url = https://github.com/kaushalmodi/hugo-bare-min-theme.git
 [submodule "hyde-hyde"]
 	path = hyde-hyde
 	url = https://github.com/htr3n/hyde-hyde.git
