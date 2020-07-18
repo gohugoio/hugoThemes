@@ -364,9 +364,6 @@
 [submodule "hugo-theme-den"]
 	path = hugo-theme-den
 	url = https://github.com/shaform/hugo-theme-den.git
-[submodule "engimo"]
-	path = engimo
-	url = https://github.com/achary/engimo.git
 [submodule "minimage"]
 	path = minimage
 	url = https://github.com/d-kusk/minimage.git
