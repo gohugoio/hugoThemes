@@ -751,9 +751,6 @@
 [submodule "hugo-theme-diary"]
 	path = hugo-theme-diary
 	url = https://github.com/AmazingRise/hugo-theme-diary.git
-[submodule "new-oldnew-mashup"]
-	path = new-oldnew-mashup
-	url = https://github.com/cshoredaniel/new-oldnew-mashup.git
 [submodule "erblog"]
 	path = erblog
 	url = https://github.com/ertuil/erblog.git
