@@ -982,3 +982,6 @@
 [submodule "hugo-theme-tony"]
 	path = hugo-theme-tony
 	url = https://github.com/ThemeTony/hugo-theme-tony.git
+[submodule "hugo-clarity"]
+	path = hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity.git
