@@ -985,3 +985,6 @@
 [submodule "hugo-clarity"]
 	path = hugo-clarity
 	url = https://github.com/chipzoller/hugo-clarity.git
+[submodule "hugo-theme-cactus"]
+	path = hugo-theme-cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
