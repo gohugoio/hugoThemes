@@ -988,3 +988,6 @@
 [submodule "bento"]
 	path = bento
 	url = https://github.com/leonardofaria/bento.git
+[submodule "hugo-theme-sk2"]
+	path = hugo-theme-sk2
+	url = https://github.com/J-Siu/hugo-theme-sk2.git
