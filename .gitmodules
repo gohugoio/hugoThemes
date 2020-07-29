@@ -991,3 +991,6 @@
 [submodule "hugo-theme-sk2"]
 	path = hugo-theme-sk2
 	url = https://github.com/J-Siu/hugo-theme-sk2.git
+[submodule "hugo-theme-sk3"]
+	path = hugo-theme-sk3
+	url = https://github.com/J-Siu/hugo-theme-sk3.git
