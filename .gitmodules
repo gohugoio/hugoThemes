@@ -994,3 +994,6 @@
 [submodule "hugo-theme-sk3"]
 	path = hugo-theme-sk3
 	url = https://github.com/J-Siu/hugo-theme-sk3.git
+[submodule "health-science-journal"]
+	path = health-science-journal
+	url = https://github.com/epistemehealth/health-science-journal.git
