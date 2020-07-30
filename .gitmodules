@@ -997,3 +997,6 @@
 [submodule "health-science-journal"]
 	path = health-science-journal
 	url = https://github.com/epistemehealth/health-science-journal.git
+[submodule "hugo-story"]
+	path = hugo-story
+	url = https://github.com/caressofsteel/hugo-story.git
