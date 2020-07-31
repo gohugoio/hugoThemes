@@ -1000,3 +1000,6 @@
 [submodule "hugo-story"]
 	path = hugo-story
 	url = https://github.com/caressofsteel/hugo-story.git
+[submodule "hugo-theme-pico"]
+	path = hugo-theme-pico
+	url = https://github.com/negrel/hugo-theme-pico.git
