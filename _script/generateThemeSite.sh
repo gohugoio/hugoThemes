@@ -101,7 +101,7 @@ else
 	BASEURL="http://themes.gohugo.io"
 fi
 
-blacklist=('.git', '.github', 'hugo-theme-fuji')
+blacklist=('.git', '.github')
 # hugo-theme-w3css-basic: the theme owner requested disabling of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/555
 # devfest-theme-hugo: providing an exampleSite folders requires a lot of work, see https://github.com/gohugoio/hugoThemes/issues/584#issuecomment-467193735
 # docsy documentation theme whose author does not wish to provide an exampleSite for reasons discussed in https://github.com/gohugoio/hugoThemes/issues/650
