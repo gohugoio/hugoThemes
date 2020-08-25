@@ -15,5 +15,5 @@ jobs:
        git config --global user.name "digitalcraftsman"
        git submodule update --init --remote
        git add .
-       git commit -am "Update Themes"
+       git commit -am "[Bot] Update themes"
        git push --force-with-lease
