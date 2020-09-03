@@ -75,7 +75,7 @@
 	url = https://github.com/matcornic/hugo-theme-learn.git
 [submodule "academic"]
 	path = academic
-	url = https://github.com/gcushen/hugo-academic.git
+	url = https://github.com/wowchemy/starter-academic.git
 [submodule "hugo-lithium-theme"]
 	path = hugo-lithium-theme
 	url = https://github.com/jrutheiser/hugo-lithium-theme.git
