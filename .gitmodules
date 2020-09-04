@@ -1003,3 +1003,6 @@
 [submodule "hugo-scroll"]
 	path = hugo-scroll
 	url = https://github.com/janraasch/hugo-scroll.git
+[submodule "hugo-theme-freshstart"]
+	path = hugo-theme-freshstart
+	url = https://github.com/rz3n/hugo-theme-freshstart.git
