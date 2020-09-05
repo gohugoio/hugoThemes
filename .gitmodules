@@ -1009,3 +1009,6 @@
 [submodule "SimpleIntro"]
 	path = SimpleIntro
 	url = https://github.com/gangjun06/SimpleIntro.git
+[submodule "hugo-researcher"]
+	path = hugo-researcher
+	url = https://github.com/ojroques/hugo-researcher.git
