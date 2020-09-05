@@ -1012,3 +1012,6 @@
 [submodule "hugo-researcher"]
 	path = hugo-researcher
 	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "hugo-clinic-notes"]
+	path = hugo-clinic-notes
+	url = https://github.com/jmablog/hugo-clinic-notes.git
