@@ -1006,3 +1006,6 @@
 [submodule "hugo-theme-freshstart"]
 	path = hugo-theme-freshstart
 	url = https://github.com/rz3n/hugo-theme-freshstart.git
+[submodule "SimpleIntro"]
+	path = SimpleIntro
+	url = https://github.com/gangjun06/SimpleIntro.git
