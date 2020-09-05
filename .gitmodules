@@ -1015,3 +1015,6 @@
 [submodule "hugo-clinic-notes"]
 	path = hugo-clinic-notes
 	url = https://github.com/jmablog/hugo-clinic-notes.git
+[submodule "hugo-theme-texify"]
+	path = hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
