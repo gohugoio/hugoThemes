@@ -1018,3 +1018,6 @@
 [submodule "hugo-theme-texify"]
 	path = hugo-theme-texify
 	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "hugo-theme-docport"]
+	path = hugo-theme-docport
+	url = https://github.com/vjeantet/hugo-theme-docport.git
