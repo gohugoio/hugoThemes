@@ -1021,3 +1021,6 @@
 [submodule "hugo-theme-docport"]
 	path = hugo-theme-docport
 	url = https://github.com/vjeantet/hugo-theme-docport.git
+[submodule "Shapez-Theme"]
+	path = Shapez-Theme
+	url = https://github.com/djuelg/Shapez-Theme.git
