@@ -1024,3 +1024,6 @@
 [submodule "Shapez-Theme"]
 	path = Shapez-Theme
 	url = https://github.com/djuelg/Shapez-Theme.git
+[submodule "hugo-theme-pico"]
+	path = hugo-theme-pico
+	url = https://github.com/negrel/hugo-theme-pico.git
