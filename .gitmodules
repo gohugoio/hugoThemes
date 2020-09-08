@@ -1033,3 +1033,6 @@
 [submodule "Blonde"]
 	path = Blonde
 	url = https://github.com/opera7133/Blonde.git
+[submodule "portio-hugo"]
+	path = portio-hugo
+	url = https://github.com/StaticMania/portio-hugo.git
