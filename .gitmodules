@@ -1027,3 +1027,6 @@
 [submodule "hugo-theme-pico"]
 	path = hugo-theme-pico
 	url = https://github.com/negrel/hugo-theme-pico.git
+[submodule "almeida-cv"]
+	path = almeida-cv
+	url = https://github.com/ineesalmeida/almeida-cv.git
