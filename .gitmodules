@@ -1030,3 +1030,6 @@
 [submodule "almeida-cv"]
 	path = almeida-cv
 	url = https://github.com/ineesalmeida/almeida-cv.git
+[submodule "Blonde"]
+	path = Blonde
+	url = https://github.com/opera7133/Blonde.git
