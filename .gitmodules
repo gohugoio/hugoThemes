@@ -1040,3 +1040,6 @@
 [submodule "hugo-geekblog"]
 	path = hugo-geekblog
 	url = https://github.com/xoxys/hugo-geekblog.git
+[submodule "resume-a4"]
+	path = resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git
