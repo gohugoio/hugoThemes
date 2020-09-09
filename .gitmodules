@@ -1043,3 +1043,6 @@
 [submodule "resume-a4"]
 	path = resume-a4
 	url = https://gitlab.com/mertbakir/resume-a4.git
+[submodule "hugo-geekdoc"]
+	path = hugo-geekdoc
+	url = https://github.com/xoxys/hugo-geekdoc.git
