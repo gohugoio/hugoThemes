@@ -486,7 +486,8 @@
 	url = https://github.com/gonnux/hugo-apps-theme.git
 [submodule "hugo-serif-theme"]
 	path = hugo-serif-theme
-	url = https://github.com/JugglerX/hugo-serif-theme.git
+	url = https://github.com/zerostaticthemes/hugo-serif-theme.git
+	branch = hugoThemes
 [submodule "aether"]
 	path = aether
 	url = https://github.com/josephhutch/aether.git
