@@ -1046,3 +1046,6 @@
 [submodule "hugo-geekdoc"]
 	path = hugo-geekdoc
 	url = https://github.com/xoxys/hugo-geekdoc.git
+[submodule "hugo-bearblog"]
+	path = hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
