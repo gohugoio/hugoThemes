@@ -1049,3 +1049,6 @@
 [submodule "hugo-bearblog"]
 	path = hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "hugo-product-launch"]
+	path = hugo-product-launch
+	url = https://github.com/janraasch/hugo-product-launch.git
