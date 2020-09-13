@@ -106,9 +106,10 @@ blacklist=('.git', '.github')
 # devfest-theme-hugo: providing an exampleSite folders requires a lot of work, see https://github.com/gohugoio/hugoThemes/issues/584#issuecomment-467193735
 # docsy documentation theme whose author does not wish to provide an exampleSite for reasons discussed in https://github.com/gohugoio/hugoThemes/issues/650
 # hugo-theme-tony: currently the demo does not comply with repo rules, for more info
-# hugo-geekblog: theme owner request to host theme himself for techical reasons. See https://github.com/gohugoio/hugoThemes/issues/904
-# hugo-geekdoc: theme owner request to host theme himself for techical reasons. See https://github.com/gohugoio/hugoThemes/issues/914
-noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy', 'hugo-geekblog', 'hugo-geekdoc')
+# hugo-geekblog: theme owner requested to host theme himself for techical reasons. See https://github.com/gohugoio/hugoThemes/issues/904
+# hugo-geekdoc: theme owner requested to host theme himself for techical reasons. See https://github.com/gohugoio/hugoThemes/issues/914
+# hugo-PaperMod: theme requested to self-host demo due to constraints set by the build script. See https://github.com/gohugoio/hugoThemes/issues/906
+noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy', 'hugo-geekblog', 'hugo-geekdoc', 'hugo-PaperMod')
 
 # A theme that uses other components needs to be added to this array
 components=('hugo-bare-min-theme')

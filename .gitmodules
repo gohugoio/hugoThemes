@@ -1052,3 +1052,6 @@
 [submodule "hugo-product-launch"]
 	path = hugo-product-launch
 	url = https://github.com/janraasch/hugo-product-launch.git
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
