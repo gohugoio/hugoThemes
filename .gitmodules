@@ -1055,3 +1055,6 @@
 [submodule "hugo-PaperMod"]
 	path = hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "hugo-theme-boilerplate"]
+	path = hugo-theme-boilerplate
+	url = git@github.com:tylerjlawson/hugo-theme-boilerplate.git
