@@ -1039,13 +1039,13 @@
 	url = https://github.com/StaticMania/portio-hugo.git
 [submodule "hugo-geekblog"]
 	path = hugo-geekblog
-	url = https://github.com/xoxys/hugo-geekblog.git
+	url = https://github.com/thegeeklab/hugo-geekblog.git
 [submodule "resume-a4"]
 	path = resume-a4
 	url = https://gitlab.com/mertbakir/resume-a4.git
 [submodule "hugo-geekdoc"]
 	path = hugo-geekdoc
-	url = https://github.com/xoxys/hugo-geekdoc.git
+	url = https://github.com/thegeeklab/hugo-geekdoc.git
 [submodule "hugo-bearblog"]
 	path = hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
