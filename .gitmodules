@@ -1058,3 +1058,6 @@
 [submodule "hugo-theme-stack"]
 	path = hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack.git
+[submodule "bigspring-hugo-startup-theme"]
+	path = bigspring-hugo-startup-theme
+	url = https://github.com/themefisher/bigspring-hugo-startup-theme.git
