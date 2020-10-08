@@ -1061,3 +1061,6 @@
 [submodule "bigspring-hugo-startup-theme"]
 	path = bigspring-hugo-startup-theme
 	url = https://github.com/themefisher/bigspring-hugo-startup-theme.git
+[submodule "accessible-minimalism-hugo-theme"]
+	path = accessible-minimalism-hugo-theme
+	url = https://github.com/leonstafford/accessible-minimalism-hugo-theme.git
