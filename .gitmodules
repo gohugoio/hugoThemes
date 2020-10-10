@@ -1064,3 +1064,6 @@
 [submodule "accessible-minimalism-hugo-theme"]
 	path = accessible-minimalism-hugo-theme
 	url = https://github.com/leonstafford/accessible-minimalism-hugo-theme.git
+[submodule "HugoTheme-VibrantShadows"]
+	path = HugoTheme-VibrantShadows
+	url = https://github.com/Softorage/HugoTheme-VibrantShadows.git
