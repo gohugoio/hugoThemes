@@ -1073,3 +1073,6 @@
 [submodule "sicily-hugo-theme"]
 	path = sicily-hugo-theme
 	url = https://github.com/cristianmarint/sicily-hugo-theme.git
+[submodule "hugo-theme-timeline"]
+	path = hugo-theme-timeline
+	url = https://github.com/s4n7h0/hugo-theme-timeline.git
