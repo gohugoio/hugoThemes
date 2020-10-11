@@ -1070,3 +1070,6 @@
 [submodule "hugo-profile"]
 	path = hugo-profile
 	url = https://github.com/gurusabarish/hugo-profile.git
+[submodule "sicily-hugo-theme"]
+	path = sicily-hugo-theme
+	url = https://github.com/cristianmarint/sicily-hugo-theme.git
