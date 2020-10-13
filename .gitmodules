@@ -1076,3 +1076,6 @@
 [submodule "hugo-theme-timeline"]
 	path = hugo-theme-timeline
 	url = https://github.com/s4n7h0/hugo-theme-timeline.git
+[submodule "simpleness"]
+	path = simpleness
+	url = https://github.com/RainerChiang/simpleness.git
