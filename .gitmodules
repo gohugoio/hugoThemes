@@ -1079,3 +1079,6 @@
 [submodule "simpleness"]
 	path = simpleness
 	url = https://github.com/RainerChiang/simpleness.git
+[submodule "simple-resume"]
+	path = simple-resume
+	url = https://github.com/tylerjlawson/simple-resume.git
