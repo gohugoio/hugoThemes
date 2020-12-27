@@ -1085,3 +1085,6 @@
 [submodule "hugo-tania"]
 	path = hugo-tania
 	url = https://github.com/WingLim/hugo-tania.git
+[submodule "omega-hugo-theme"]
+	path = omega-hugo-theme
+	url = https://github.com/gethugothemes/omega-hugo-theme.git
