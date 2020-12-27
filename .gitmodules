@@ -1082,3 +1082,6 @@
 [submodule "simple-resume"]
 	path = simple-resume
 	url = https://github.com/tylerjlawson/simple-resume.git
+[submodule "hugo-tania"]
+	path = hugo-tania
+	url = https://github.com/WingLim/hugo-tania.git
