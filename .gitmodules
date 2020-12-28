@@ -1091,3 +1091,6 @@
 [submodule "less"]
 	path = less
 	url = https://github.com/4ever9/less.git
+[submodule "hugo-theme-hulga"]
+	path = hugo-theme-hulga
+	url = https://github.com/wlh320/hugo-theme-hulga.git
