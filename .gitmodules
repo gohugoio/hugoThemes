@@ -1103,3 +1103,6 @@
 [submodule "doks"]
 	path = doks
 	url = https://github.com/h-enk/doks.git
+[submodule "hugo-tanka"]
+	path = hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
