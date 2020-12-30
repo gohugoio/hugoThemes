@@ -1100,3 +1100,6 @@
 [submodule "uBlogger"]
 	path = uBlogger
 	url = https://github.com/uPagge/uBlogger.git
+[submodule "doks"]
+	path = doks
+	url = https://github.com/h-enk/doks.git
