@@ -1106,3 +1106,6 @@
 [submodule "hugo-tanka"]
 	path = hugo-tanka
 	url = https://github.com/nanxstats/hugo-tanka.git
+[submodule "flex-bp-hugo-cv"]
+	path = flex-bp-hugo-cv
+	url = https://github.com/spech66/flex-bp-hugo-cv.git
