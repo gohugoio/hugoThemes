@@ -803,6 +803,7 @@
 [submodule "paperesque"]
 	path = paperesque
 	url = https://github.com/capnfabs/paperesque.git
+	branch = mainline
 [submodule "papaya"]
 	path = papaya
 	url = https://github.com/plopcas/papaya.git
