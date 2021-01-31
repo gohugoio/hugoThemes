@@ -111,7 +111,8 @@ blacklist=('.git', '.github')
 # hugo-PaperMod: theme requested to self-host demo due to constraints set by the build script. See https://github.com/gohugoio/hugoThemes/issues/906
 # uBlogger: theme owner preferred self-hosted demo. See https://github.com/gohugoio/hugoThemes/issues/952
 # doks: theme owner requested self-hosted demo. See https://github.com/gohugoio/hugoThemes/issues/950
-noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy', 'hugo-geekblog', 'hugo-geekdoc', 'hugo-PaperMod', 'uBlogger', 'doks')
+# less: theme requires extened version of Hugo. See https://github.com/gohugoio/hugoThemes/issues/867#issuecomment-762583303
+noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy', 'hugo-geekblog', 'hugo-geekdoc', 'hugo-PaperMod', 'uBlogger', 'doks', 'less')
 
 # A theme that uses other components needs to be added to this array
 components=('hugo-bare-min-theme')
