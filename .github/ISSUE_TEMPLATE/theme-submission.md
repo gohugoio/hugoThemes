@@ -1,6 +1,9 @@
 ---
 name: Theme submission
 about: Theme submission
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
