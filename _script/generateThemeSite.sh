@@ -114,7 +114,8 @@ blacklist=('.git', '.github')
 # less: theme requires extened version of Hugo. See https://github.com/gohugoio/hugoThemes/issues/867#issuecomment-762583303
 # hugo-theme-stack: theme owner requested to host theme himself for technical reasons. See https://github.com/gohugoio/hugoThemes/issues/994
 # toha: the theme owner requested disabling of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/999
-noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy', 'hugo-geekblog', 'hugo-geekdoc', 'hugo-PaperMod', 'uBlogger', 'doks', 'less', 'hugo-theme-stack', 'toha')
+# hugo-profile: the theme owner requested disabling of the theme demo, see https://github.com/gohugoio/hugoThemes/issues/1022
+noDemo=('hugo-theme-w3css-basic', 'devfest-theme-hugo', 'docsy', 'hugo-geekblog', 'hugo-geekdoc', 'hugo-PaperMod', 'uBlogger', 'doks', 'less', 'hugo-theme-stack', 'toha', 'hugo-profile')
 
 # A theme that uses other components needs to be added to this array
 components=('hugo-bare-min-theme')
