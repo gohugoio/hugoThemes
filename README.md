@@ -1,3 +1,6 @@
+This repository is replaced by https://github.com/gohugoio/hugoThemesSiteBuilder
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/58968044-3238-424c-b9b6-e0d00733890c/deploy-status)](https://app.netlify.com/sites/hugothemes/deploys)
 
 # Hugo themes
